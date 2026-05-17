@@ -14,6 +14,7 @@ const navLinks = [
   { href: "/", label: "Home" },
   { href: "/#cars", label: "Browse Cars" },
   { href: "/compare", label: "Compare" },
+  { href: "/emi-calculator", label: "EMI Calculator" },
   { href: "/contact", label: "Contact" },
 ];
 
