@@ -52,9 +52,9 @@ export default function Navbar() {
   }
 
   return (
-    <header className="sticky top-0 z-50 border-b border-slate-200/80 bg-white/90 backdrop-blur-md">
+    <header className="sticky top-0 z-50 overflow-visible border-b border-slate-200/80 bg-white/90 backdrop-blur-md">
       <nav
-        className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8"
+        className="relative mx-auto max-w-7xl overflow-visible px-4 sm:px-6 lg:px-8"
         aria-label="Main navigation"
       >
         <div className="flex items-center justify-between py-3">
@@ -142,7 +142,7 @@ export default function Navbar() {
 
         {/* Brand navigation — desktop (hover to show models) */}
         <div
-          className="hidden lg:block"
+          className="relative hidden lg:block"
           onMouseLeave={() => setHoveredBrand(null)}
         >
           <div className="border-t border-slate-100 pb-2 pt-1">
@@ -171,8 +171,11 @@ export default function Navbar() {
           </div>
 
           {hoveredBrand && hoveredModels.length > 0 && (
-            <div className="border-t border-slate-200 bg-slate-50 shadow-inner">
-              <div className="mx-auto max-w-7xl px-4 py-4 sm:px-6 lg:px-8">
+            <div
+              className="absolute inset-x-0 top-full z-[60] border-t border-slate-200 bg-white py-4 shadow-xl"
+              role="region"
+              aria-label={`${hoveredBrand} models`}
+            >
                 <p className="mb-3 text-sm font-semibold text-slate-900">
                   {hoveredBrand}{" "}
                   <span className="font-normal text-slate-500">
@@ -186,7 +189,7 @@ export default function Navbar() {
                         href={`/cars/${model.slug}`}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="block rounded-lg px-3 py-2 text-sm transition-colors hover:bg-white hover:text-slate-900"
+                        className="block rounded-lg px-3 py-2 text-sm transition-colors hover:bg-slate-50 hover:text-slate-900"
                       >
                         <span className="font-medium text-slate-800">
                           {model.name}
@@ -198,7 +201,6 @@ export default function Navbar() {
                     </li>
                   ))}
                 </ul>
-              </div>
             </div>
           )}
         </div>
