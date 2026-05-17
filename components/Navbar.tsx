@@ -6,7 +6,7 @@ import { useState } from "react";
 const navLinks = [
   { href: "/", label: "Home" },
   { href: "/#cars", label: "Browse Cars" },
-  { href: "/#compare", label: "Compare" },
+  { href: "/compare", label: "Compare" },
   { href: "/#about", label: "About" },
   { href: "/#contact", label: "Contact" },
 ];
@@ -73,6 +73,12 @@ export default function Navbar() {
         </ul>
 
         <div className="hidden items-center gap-3 md:flex">
+          <Link
+            href="/compare"
+            className="rounded-lg px-3.5 py-2 text-sm font-medium text-slate-600 transition-colors hover:bg-slate-100 hover:text-slate-900"
+          >
+            Compare
+          </Link>
           <Link
             href="/#cars"
             onClick={(e) => handleNavClick(e, "/#cars")}
