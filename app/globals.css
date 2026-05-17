@@ -61,6 +61,28 @@ body {
   }
 }
 
+@keyframes brand-mega-menu-in {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes brand-mega-menu-swap {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 /* Searchable select & shared controls */
 @layer components {
   .select-trigger {
@@ -108,5 +130,97 @@ body {
   .btn-inactive {
     @apply border-slate-200 bg-slate-50 text-slate-400;
     pointer-events: none;
+  }
+
+  .brand-mega-menu-panel {
+    @apply mt-2 overflow-hidden rounded-2xl border border-slate-200/80 bg-white shadow-[0_20px_50px_-12px_rgba(15,23,42,0.25)] ring-1 ring-slate-900/5;
+    animation: brand-mega-menu-in 0.28s ease-out;
+  }
+
+  .brand-mega-menu-content {
+    animation: brand-mega-menu-swap 0.22s ease-out;
+  }
+
+  .brand-mega-menu-header {
+    @apply flex items-center gap-3 border-b border-white/10 bg-gradient-to-r from-slate-900 via-slate-800 to-slate-900 px-5 py-4 text-white;
+  }
+
+  .brand-mega-menu-mark {
+    @apply flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-white/15 text-lg font-bold tracking-tight text-white ring-1 ring-white/20;
+  }
+
+  .brand-mega-menu-title {
+    @apply text-base font-semibold tracking-tight text-white;
+  }
+
+  .brand-mega-menu-subtitle {
+    @apply mt-0.5 text-xs font-medium text-slate-300;
+  }
+
+  .brand-mega-menu-badge {
+    @apply ml-auto shrink-0 rounded-full bg-white/15 px-3 py-1 text-xs font-semibold text-white ring-1 ring-white/20;
+  }
+
+  .brand-mega-menu-body {
+    @apply bg-gradient-to-b from-slate-50 to-white p-4;
+  }
+
+  .brand-mega-menu-grid {
+    @apply grid max-h-72 gap-2 overflow-y-auto sm:grid-cols-2 lg:grid-cols-3;
+  }
+
+  .brand-mega-menu-item {
+    @apply flex items-center gap-3 rounded-xl border border-slate-200/80 bg-white p-2.5 shadow-sm transition-all duration-200 ease-out hover:border-slate-300 hover:bg-white hover:shadow-md;
+  }
+
+  .brand-mega-menu-thumb {
+    @apply relative flex h-16 w-24 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-slate-100 p-1.5 ring-1 ring-slate-200/80;
+  }
+
+  .brand-mega-menu-thumb img {
+    @apply max-h-full max-w-full object-contain object-center transition-transform duration-300 ease-out;
+  }
+
+  .brand-mega-menu-item:hover .brand-mega-menu-thumb img {
+    transform: scale(1.03);
+  }
+
+  .brand-mega-menu-item-text {
+    @apply min-w-0 flex-1;
+  }
+
+  .brand-mega-menu-item-name {
+    @apply truncate text-sm font-semibold text-slate-900;
+  }
+
+  .brand-mega-menu-item:hover .brand-mega-menu-item-name {
+    @apply text-slate-950;
+  }
+
+  .brand-mega-menu-item-price {
+    @apply mt-0.5 truncate text-xs font-medium text-emerald-700;
+  }
+
+  .brand-mega-menu-item-icon {
+    @apply shrink-0 text-slate-300 transition-colors duration-200;
+  }
+
+  .brand-mega-menu-item:hover .brand-mega-menu-item-icon {
+    @apply text-slate-500;
+  }
+
+  .brand-tab {
+    @apply rounded-lg px-2.5 py-1.5 text-sm font-medium transition-all duration-200 ease-out;
+  }
+
+  .brand-tab-active {
+    @apply bg-slate-900 text-white shadow-sm ring-2 ring-slate-900/20;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .brand-mega-menu-panel,
+  .brand-mega-menu-content {
+    animation: none;
   }
 }

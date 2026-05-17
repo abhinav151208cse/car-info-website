@@ -1,9 +1,14 @@
 "use client";
 
 import { getBrands, getModelsByBrand } from "@/lib/catalog-nav";
+import { onCarImageError } from "@/lib/image-fallback";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useMemo, useState } from "react";
+
+function brandInitial(brand: string) {
+  return brand.trim().charAt(0).toUpperCase() || "?";
+}
 
 const navLinks = [
   { href: "/", label: "Home" },
@@ -158,9 +163,9 @@ export default function Navbar() {
                   onFocus={() => setHoveredBrand(b.brand)}
                   aria-expanded={hoveredBrand === b.brand}
                   aria-haspopup="true"
-                  className={`rounded-lg px-2.5 py-1.5 text-sm font-medium transition-colors ${
+                  className={`brand-tab ${
                     hoveredBrand === b.brand
-                      ? "bg-slate-900 text-white"
+                      ? "brand-tab-active"
                       : "text-slate-600 hover:bg-slate-100 hover:text-slate-900"
                   }`}
                 >
@@ -172,35 +177,74 @@ export default function Navbar() {
 
           {hoveredBrand && hoveredModels.length > 0 && (
             <div
-              className="absolute inset-x-0 top-full z-[60] border-t border-slate-200 bg-white py-4 shadow-xl"
+              className="brand-mega-menu-panel absolute inset-x-0 top-full z-60"
               role="region"
               aria-label={`${hoveredBrand} models`}
             >
-                <p className="mb-3 text-sm font-semibold text-slate-900">
-                  {hoveredBrand}{" "}
-                  <span className="font-normal text-slate-500">
-                    — {hoveredModels.length} models (opens in new tab)
+              <div key={hoveredBrand} className="brand-mega-menu-content">
+                <div className="brand-mega-menu-header">
+                  <span className="brand-mega-menu-mark" aria-hidden="true">
+                    {brandInitial(hoveredBrand)}
                   </span>
-                </p>
-                <ul className="grid max-h-64 gap-1 overflow-y-auto sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
-                  {hoveredModels.map((model) => (
-                    <li key={model.slug}>
-                      <Link
-                        href={`/cars/${model.slug}`}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="block rounded-lg px-3 py-2 text-sm transition-colors hover:bg-slate-50 hover:text-slate-900"
-                      >
-                        <span className="font-medium text-slate-800">
-                          {model.name}
-                        </span>
-                        <span className="mt-0.5 block text-xs text-slate-500">
-                          {model.priceRange}
-                        </span>
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
+                  <div className="min-w-0">
+                    <p className="brand-mega-menu-title">{hoveredBrand}</p>
+                    <p className="brand-mega-menu-subtitle">
+                      Browse lineup · opens in new tab
+                    </p>
+                  </div>
+                  <span className="brand-mega-menu-badge">
+                    {hoveredModels.length} models
+                  </span>
+                </div>
+                <div className="brand-mega-menu-body">
+                  <ul className="brand-mega-menu-grid">
+                    {hoveredModels.map((model) => (
+                      <li key={model.slug}>
+                        <Link
+                          href={`/cars/${model.slug}`}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="brand-mega-menu-item"
+                        >
+                          <span className="brand-mega-menu-thumb">
+                            <img
+                              src={model.image}
+                              alt={model.name}
+                              width={96}
+                              height={64}
+                              loading="lazy"
+                              onError={onCarImageError}
+                            />
+                          </span>
+                          <span className="brand-mega-menu-item-text">
+                            <span className="brand-mega-menu-item-name">
+                              {model.name}
+                            </span>
+                            <span className="brand-mega-menu-item-price">
+                              {model.priceRange}
+                            </span>
+                          </span>
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            fill="none"
+                            viewBox="0 0 24 24"
+                            strokeWidth={1.5}
+                            stroke="currentColor"
+                            className="brand-mega-menu-item-icon h-4 w-4"
+                            aria-hidden="true"
+                          >
+                            <path
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                              d="M13.5 6H5.25m7.5 0v8.25m0-8.25L5.25 14.25"
+                            />
+                          </svg>
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
             </div>
           )}
         </div>
