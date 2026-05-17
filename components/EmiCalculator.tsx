@@ -264,11 +264,11 @@ export default function EmiCalculator() {
                 id="emi-tenure"
                 type="number"
                 min={1}
-                max={10}
+                max={7}
                 step={1}
                 value={tenureYears}
                 onChange={(e) =>
-                  setTenureYears(clamp(Math.round(Number(e.target.value)), 1, 10))
+                  setTenureYears(clamp(Math.round(Number(e.target.value)), 1, 7))
                 }
                 className="w-full rounded-lg border border-slate-300 bg-white px-3 py-2.5 text-sm text-slate-900 shadow-sm focus:border-slate-500 focus:outline-none focus:ring-2 focus:ring-slate-200"
               />

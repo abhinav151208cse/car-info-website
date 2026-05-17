@@ -10,6 +10,7 @@ import {
   countDetailItems,
 } from "@/lib/variant-details";
 import { onCarImageError } from "@/lib/image-fallback";
+import OnRoadPriceCalculator from "@/components/OnRoadPriceCalculator";
 import SearchableSelect from "@/components/SearchableSelect";
 import {
   buildVariantSelectOptions,
@@ -38,12 +39,12 @@ export default function CarDetail({ car }: Props) {
 
   const detailSections = useMemo(
     () => buildVariantDetailSections(variant, car),
-    [variant, car]
+    [variant, car],
   );
 
   const totalItems = useMemo(
     () => countDetailItems(detailSections),
-    [detailSections]
+    [detailSections],
   );
 
   return (
@@ -129,23 +130,75 @@ export default function CarDetail({ car }: Props) {
                   </ul>
                 </div>
 
-                <div className="mt-6">
-                  <h2 className="text-lg font-semibold text-slate-900">
-                    Dimensions & capacity
+                <div
+                  key={variant.id}
+                  className="mt-6 flex max-h-[min(720px,70vh)] flex-col rounded-2xl bg-slate-900 p-6 text-white shadow"
+                >
+                  <p className="shrink-0 text-sm text-slate-400">{variant.trim}</p>
+                  <h2 className="mt-1 shrink-0 text-xl font-bold sm:text-2xl">
+                    {formatVariantDisplayName(car, variant)}
                   </h2>
-                  <dl className="mt-3 grid grid-cols-2 gap-3 sm:grid-cols-3">
-                    {car.dimensions.map((item) => (
-                      <div
-                        key={item.label}
-                        className="rounded-lg bg-slate-50 px-3 py-2"
-                      >
-                        <dt className="text-xs text-slate-500">{item.label}</dt>
-                        <dd className="font-medium text-slate-900">
-                          {item.value}
-                        </dd>
-                      </div>
+                  <p className="mt-2 shrink-0 text-2xl font-bold text-white sm:text-3xl">
+                    {variant.price}
+                  </p>
+                  <p className="shrink-0 text-sm text-slate-400">ex-showroom</p>
+
+                  <div className="mt-4 flex shrink-0 items-center justify-between gap-2 border-t border-slate-700 pt-4">
+                    <h3 className="text-sm font-semibold text-slate-300">
+                      Specifications & features
+                    </h3>
+                    <span className="text-xs text-slate-500">
+                      {totalItems} items
+                    </span>
+                  </div>
+
+                  <div
+                    className="mt-3 min-h-0 flex-1 space-y-6 overflow-y-auto overscroll-contain pr-2 [scrollbar-color:rgb(100_116_139)_rgb(30_41_59)] [scrollbar-width:thin]"
+                    aria-label={`Specifications and features for ${variant.name}`}
+                  >
+                    {detailSections.map((section) => (
+                      <section key={`${variant.id}-${section.id}`}>
+                        <h4 className="mb-3 text-xs font-semibold uppercase tracking-wider text-slate-500">
+                          {section.title}
+                        </h4>
+
+                        {section.type === "specs" && section.specs ? (
+                          <dl className="space-y-2.5 text-sm">
+                            {section.specs.map((spec) => (
+                              <div
+                                key={spec.label}
+                                className="flex justify-between gap-4 border-b border-slate-800 pb-2.5 last:border-0"
+                              >
+                                <dt className="shrink-0 text-slate-400">
+                                  {spec.label}
+                                </dt>
+                                <dd className="text-right font-medium text-white">
+                                  {spec.value}
+                                </dd>
+                              </div>
+                            ))}
+                          </dl>
+                        ) : (
+                          <ul className="space-y-2 text-sm">
+                            {section.items?.map((item) => (
+                              <li
+                                key={item}
+                                className="flex gap-2 text-slate-200"
+                              >
+                                <span
+                                  className="mt-0.5 shrink-0 text-emerald-400"
+                                  aria-hidden="true"
+                                >
+                                  ✓
+                                </span>
+                                <span>{item}</span>
+                              </li>
+                            ))}
+                          </ul>
+                        )}
+                      </section>
                     ))}
-                  </dl>
+                  </div>
                 </div>
 
                 <div className="mt-6">
@@ -188,74 +241,12 @@ export default function CarDetail({ car }: Props) {
                 </div>
               </div>
 
-              <div className="flex max-h-[min(640px,75vh)] flex-col rounded-2xl bg-slate-900 p-6 text-white shadow">
-                <p className="shrink-0 text-sm text-slate-400">{variant.trim}</p>
-                <h2 className="mt-1 shrink-0 text-xl font-bold">
-                  {formatVariantDisplayName(car, variant)}
-                </h2>
-                <p className="mt-2 shrink-0 text-2xl font-bold text-white">
-                  {variant.price}
-                </p>
-                <p className="shrink-0 text-sm text-slate-400">ex-showroom</p>
-
-                <div className="mt-4 flex shrink-0 items-center justify-between gap-2 border-t border-slate-700 pt-4">
-                  <h3 className="text-sm font-semibold text-slate-300">
-                    Variant details
-                  </h3>
-                  <span className="text-xs text-slate-500">
-                    {totalItems} items
-                  </span>
-                </div>
-
-                <div
-                  key={variant.id}
-                  className="mt-3 min-h-0 flex-1 space-y-6 overflow-y-auto overscroll-contain pr-2 [scrollbar-color:rgb(100_116_139)_rgb(30_41_59)] [scrollbar-width:thin]"
-                  aria-label={`Full specifications and features for ${variant.name}`}
-                >
-                  {detailSections.map((section) => (
-                    <section key={`${variant.id}-${section.id}`}>
-                      <h4 className="mb-3 text-xs font-semibold uppercase tracking-wider text-slate-500">
-                        {section.title}
-                      </h4>
-
-                      {section.type === "specs" && section.specs ? (
-                        <dl className="space-y-2.5 text-sm">
-                          {section.specs.map((spec) => (
-                            <div
-                              key={spec.label}
-                              className="flex justify-between gap-4 border-b border-slate-800 pb-2.5 last:border-0"
-                            >
-                              <dt className="shrink-0 text-slate-400">
-                                {spec.label}
-                              </dt>
-                              <dd className="text-right font-medium text-white">
-                                {spec.value}
-                              </dd>
-                            </div>
-                          ))}
-                        </dl>
-                      ) : (
-                        <ul className="space-y-2 text-sm">
-                          {section.items?.map((item) => (
-                            <li
-                              key={item}
-                              className="flex gap-2 text-slate-200"
-                            >
-                              <span
-                                className="mt-0.5 shrink-0 text-emerald-400"
-                                aria-hidden="true"
-                              >
-                                ✓
-                              </span>
-                              <span>{item}</span>
-                            </li>
-                          ))}
-                        </ul>
-                      )}
-                    </section>
-                  ))}
-                </div>
-              </div>
+              <OnRoadPriceCalculator
+                key={variant.id}
+                exShowroomLabel={variant.price}
+                fuelType={variant.fuelType}
+                variantLabel={formatVariantDisplayName(car, variant)}
+              />
             </div>
           </aside>
         </div>
