@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Kia Seltos",
+      "price": "₹15 Lakh",
+      "mileage": "17 kmpl",
+      "fuel": "Petrol",
+      "image": "/cars/seltos.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Hyundai Creta",
+      "price": "₹16 Lakh",
+      "mileage": "18 kmpl",
+      "fuel": "Diesel",
+      "image": "/cars/creta.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Tata Nexon",
+      "price": "₹14 Lakh",
+      "mileage": "20 kmpl",
+      "fuel": "Petrol",
+      "image": "/cars/nexon.jpeg"
+    }
+  ]
