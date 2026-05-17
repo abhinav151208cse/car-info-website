@@ -12,17 +12,20 @@ export default function CarExplorer() {
 
   return (
     <section id="cars" className="scroll-mt-24">
-      <h2 className="text-2xl font-bold text-slate-900">Browse cars</h2>
-      <p className="mt-2 max-w-2xl text-slate-600">
+      <h1 className="text-3xl font-bold text-slate-900 sm:text-4xl lg:text-5xl">
+        Browse cars
+      </h1>
+      <p className="mt-3 max-w-3xl text-lg text-slate-600 sm:text-xl">
         Choose a brand and model to see a quick preview. Open the full page for
         all variants, dimensions, and feature lists.
       </p>
-      <div className="mt-6 rounded-2xl border border-slate-200 bg-white p-6 shadow-sm sm:p-8">
+      <div className="mt-8 rounded-3xl border border-slate-200 bg-white p-8 shadow-md sm:p-10 lg:p-12">
         <CarSelector
           showVariant={false}
           showPreview
           showViewButton
           idPrefix="home"
+          size="large"
         />
       </div>
     </section>

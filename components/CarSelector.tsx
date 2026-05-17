@@ -10,9 +10,6 @@ import {
 } from "@/lib/catalog-nav";
 import { onCarImageError } from "@/lib/image-fallback";
 
-const selectClass =
-  "w-full rounded-lg border border-slate-300 bg-white px-3 py-2.5 text-sm text-slate-900 shadow-sm focus:border-slate-500 focus:outline-none focus:ring-2 focus:ring-slate-200";
-
 type Props = {
   /** When set, brand is fixed and the brand dropdown is hidden */
   lockBrand?: string;
@@ -20,6 +17,7 @@ type Props = {
   showPreview?: boolean;
   showViewButton?: boolean;
   idPrefix?: string;
+  size?: "default" | "large";
 };
 
 export default function CarSelector({
@@ -28,7 +26,15 @@ export default function CarSelector({
   showPreview = true,
   showViewButton = true,
   idPrefix = "car",
+  size = "default",
 }: Props) {
+  const large = size === "large";
+  const selectClass = large
+    ? "w-full rounded-xl border border-slate-300 bg-white px-4 py-3.5 text-base text-slate-900 shadow-sm focus:border-slate-500 focus:outline-none focus:ring-2 focus:ring-slate-200"
+    : "w-full rounded-lg border border-slate-300 bg-white px-3 py-2.5 text-sm text-slate-900 shadow-sm focus:border-slate-500 focus:outline-none focus:ring-2 focus:ring-slate-200";
+  const labelClass = large
+    ? "mb-2 block text-base font-medium text-slate-700"
+    : "mb-1.5 block text-sm font-medium text-slate-700";
   const brands = useMemo(() => getBrands(), []);
   const [brand, setBrand] = useState(lockBrand ?? "");
   const [modelSlug, setModelSlug] = useState("");
@@ -73,16 +79,13 @@ export default function CarSelector({
         : null;
 
   return (
-    <div className="space-y-4">
+    <div className={large ? "space-y-6" : "space-y-4"}>
       <div
-        className={`grid gap-4 ${lockBrand ? (showVariant ? "sm:grid-cols-2" : "grid-cols-1") : showVariant ? "sm:grid-cols-3" : "sm:grid-cols-2"}`}
+        className={`grid ${large ? "gap-6" : "gap-4"} ${lockBrand ? (showVariant ? "sm:grid-cols-2" : "grid-cols-1") : showVariant ? "sm:grid-cols-3" : "sm:grid-cols-2"}`}
       >
         {!lockBrand && (
           <div>
-            <label
-              htmlFor={`${idPrefix}-brand`}
-              className="mb-1.5 block text-sm font-medium text-slate-700"
-            >
+            <label htmlFor={`${idPrefix}-brand`} className={labelClass}>
               Brand
             </label>
             <select
@@ -106,10 +109,7 @@ export default function CarSelector({
         )}
 
         <div>
-          <label
-            htmlFor={`${idPrefix}-model`}
-            className="mb-1.5 block text-sm font-medium text-slate-700"
-          >
+          <label htmlFor={`${idPrefix}-model`} className={labelClass}>
             Model
           </label>
           <select
@@ -135,10 +135,7 @@ export default function CarSelector({
 
         {showVariant && (
           <div>
-            <label
-              htmlFor={`${idPrefix}-variant`}
-              className="mb-1.5 block text-sm font-medium text-slate-700"
-            >
+            <label htmlFor={`${idPrefix}-variant`} className={labelClass}>
               Variant
             </label>
             <select
@@ -162,24 +159,50 @@ export default function CarSelector({
       </div>
 
       {showPreview && car && (
-        <div className="overflow-hidden rounded-xl border border-slate-200 bg-slate-50">
+        <div
+          className={`overflow-hidden border border-slate-200 bg-slate-50 ${large ? "rounded-2xl" : "rounded-xl"}`}
+        >
           <div className="grid gap-0 sm:grid-cols-5">
             <div className="sm:col-span-2">
               <img
                 src={car.image}
                 alt={car.name}
-                className="h-48 w-full object-cover sm:h-full sm:min-h-[200px]"
+                className={
+                  large
+                    ? "h-56 w-full object-cover sm:h-full sm:min-h-[280px]"
+                    : "h-48 w-full object-cover sm:h-full sm:min-h-[200px]"
+                }
                 onError={onCarImageError}
               />
             </div>
-            <div className="space-y-2 p-5 sm:col-span-3">
-              <p className="text-xs font-semibold uppercase tracking-wide text-slate-500">
+            <div
+              className={`sm:col-span-3 ${large ? "space-y-3 p-7" : "space-y-2 p-5"}`}
+            >
+              <p
+                className={
+                  large
+                    ? "text-sm font-semibold uppercase tracking-wide text-slate-500"
+                    : "text-xs font-semibold uppercase tracking-wide text-slate-500"
+                }
+              >
                 {car.brand} · {car.modelYear}
               </p>
-              <h3 className="text-xl font-bold text-slate-900">{car.name}</h3>
-              <p className="text-sm text-slate-600">{car.tagline}</p>
+              <h3
+                className={
+                  large
+                    ? "text-2xl font-bold text-slate-900 sm:text-3xl"
+                    : "text-xl font-bold text-slate-900"
+                }
+              >
+                {car.name}
+              </h3>
+              <p className={large ? "text-base text-slate-600" : "text-sm text-slate-600"}>
+                {car.tagline}
+              </p>
               {variant && (
-                <dl className="mt-3 grid grid-cols-2 gap-x-4 gap-y-1 text-sm">
+                <dl
+                  className={`mt-3 grid grid-cols-2 gap-x-4 gap-y-2 ${large ? "text-base" : "text-sm"}`}
+                >
                   <dt className="text-slate-500">Ex-showroom</dt>
                   <dd className="font-medium text-slate-900">{variant.price}</dd>
                   <dt className="text-slate-500">Fuel</dt>
@@ -191,7 +214,7 @@ export default function CarSelector({
                 </dl>
               )}
               {!variant && showVariant && (
-                <p className="text-sm text-slate-500">
+                <p className={large ? "text-base text-slate-500" : "text-sm text-slate-500"}>
                   Price range: {car.priceRange} (ex-showroom)
                 </p>
               )}
@@ -203,7 +226,11 @@ export default function CarSelector({
       {showViewButton && detailHref && (
         <Link
           href={detailHref}
-          className="inline-flex rounded-lg bg-slate-900 px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-slate-700"
+          className={
+            large
+              ? "inline-flex rounded-xl bg-slate-900 px-7 py-3.5 text-base font-semibold text-white transition-colors hover:bg-slate-700"
+              : "inline-flex rounded-lg bg-slate-900 px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-slate-700"
+          }
         >
           View full specs & features
         </Link>
