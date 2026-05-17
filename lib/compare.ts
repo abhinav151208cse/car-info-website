@@ -1,4 +1,5 @@
 import type { CarModel, CarVariant } from "@/lib/cars";
+import { formatVariantDisplayName } from "@/lib/variant-label";
 import { getCarBySlug } from "@/lib/cars";
 import {
   buildVariantDetailSections,
@@ -6,7 +7,7 @@ import {
 } from "@/lib/variant-details";
 
 export const MAX_COMPARE = 3;
-export const COMPARE_STORAGE_KEY = "carinfo-compare-v1";
+export const COMPARE_STORAGE_KEY = "autoverse-compare-v1";
 
 export type CompareEntry = {
   carSlug: string;
@@ -76,7 +77,7 @@ export function resolveCompareColumn(
     carName: car.name,
     brand: car.brand,
     image: car.image,
-    variantName: variant.name,
+    variantName: formatVariantDisplayName(car, variant),
     trim: variant.trim,
     price: variant.price,
     engine: variant.engine,

@@ -7,7 +7,7 @@
   "summary": "Sub-4m SUV with strong safety ratings, petrol, CNG and electric powertrains.",
   "segment": "suv-b",
   "imageUrl": "https://www.tatamotors.com/content/dam/tata-motors/passenger-vehicles/punch/punch-ice/hero-banner/punch-hero-desktop.jpg",
-  "priceRangeMin": 6.55,
+  "priceRangeMin": 5.65,
   "priceRangeMax": 10.6,
   "dimensions": [
     {
@@ -39,12 +39,33 @@
       "value": "37 litres"
     }
   ],
+  "safety": [
+    "5-star Bharat NCAP safety rating"
+  ],
   "engines": [
     "1199cc (5-speed MT)",
     "1199cc (5-speed AMT)",
     "1199cc (6-speed MT)"
   ],
   "variants": [
+    {
+      "trim": "Smart",
+      "nameSuffix": "",
+      "priceLakh": 5.65,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "20.09kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1000Kg",
+      "powerWeight": "87.80PS/tonne",
+      "torqueWeight": "115.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Punch 1.2L Petrol Manual Price List"
+    },
     {
       "trim": "Pure",
       "nameSuffix": "",
@@ -55,6 +76,12 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "20.09kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1000Kg",
+      "powerWeight": "87.80PS/tonne",
+      "torqueWeight": "115.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L Petrol Manual Price List"
     },
     {
@@ -67,6 +94,12 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "20.09kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1000Kg",
+      "powerWeight": "87.80PS/tonne",
+      "torqueWeight": "115.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L Petrol Manual Price List"
     },
     {
@@ -79,6 +112,12 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "20.09kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1000Kg",
+      "powerWeight": "87.80PS/tonne",
+      "torqueWeight": "115.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L Petrol Manual Price List"
     },
     {
@@ -91,6 +130,12 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "20.09kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1000Kg",
+      "powerWeight": "87.80PS/tonne",
+      "torqueWeight": "115.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L Petrol Manual Price List"
     },
     {
@@ -103,6 +148,12 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "20.09kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1000Kg",
+      "powerWeight": "87.80PS/tonne",
+      "torqueWeight": "115.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L Petrol Manual Price List"
     },
     {
@@ -115,6 +166,12 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "20.09kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1000Kg",
+      "powerWeight": "87.80PS/tonne",
+      "torqueWeight": "115.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L Petrol Manual Price List"
     },
     {
@@ -127,7 +184,31 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "20.09kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1000Kg",
+      "powerWeight": "87.80PS/tonne",
+      "torqueWeight": "115.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Pure Plus",
+      "nameSuffix": "",
+      "priceLakh": 7.6,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "18.80kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1023Kg",
+      "powerWeight": "86.02PS/tonne",
+      "torqueWeight": "112.41Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Punch 1.2L  Petrol Automatic Price List"
     },
     {
       "trim": "Pure Plus S",
@@ -139,6 +220,12 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "18.80kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1023Kg",
+      "powerWeight": "86.02PS/tonne",
+      "torqueWeight": "112.41Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L  Petrol Automatic Price List"
     },
     {
@@ -151,6 +238,12 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "18.80kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1023Kg",
+      "powerWeight": "86.02PS/tonne",
+      "torqueWeight": "112.41Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L  Petrol Automatic Price List"
     },
     {
@@ -163,6 +256,12 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "18.80kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1023Kg",
+      "powerWeight": "86.02PS/tonne",
+      "torqueWeight": "112.41Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L  Petrol Automatic Price List"
     },
     {
@@ -175,7 +274,31 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "18.80kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1023Kg",
+      "powerWeight": "86.02PS/tonne",
+      "torqueWeight": "112.41Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L  Petrol Automatic Price List"
+    },
+    {
+      "trim": "Smart",
+      "nameSuffix": "",
+      "priceLakh": 6.75,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "73PS",
+      "torque": "103Nm",
+      "mileage": "26.99km/kg",
+      "cylinders": "3",
+      "kerbWeight": "1095Kg",
+      "powerWeight": "66.67PS/tonne",
+      "torqueWeight": "94.06Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Punch 1.2L CNG Manual Price List"
     },
     {
       "trim": "Pure",
@@ -187,6 +310,12 @@
       "power": "73PS",
       "torque": "103Nm",
       "mileage": "26.99km/kg",
+      "cylinders": "3",
+      "kerbWeight": "1095Kg",
+      "powerWeight": "66.67PS/tonne",
+      "torqueWeight": "94.06Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L CNG Manual Price List"
     },
     {
@@ -199,6 +328,12 @@
       "power": "73PS",
       "torque": "103Nm",
       "mileage": "26.99km/kg",
+      "cylinders": "3",
+      "kerbWeight": "1095Kg",
+      "powerWeight": "66.67PS/tonne",
+      "torqueWeight": "94.06Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L CNG Manual Price List"
     },
     {
@@ -211,6 +346,12 @@
       "power": "73PS",
       "torque": "103Nm",
       "mileage": "26.99km/kg",
+      "cylinders": "3",
+      "kerbWeight": "1095Kg",
+      "powerWeight": "66.67PS/tonne",
+      "torqueWeight": "94.06Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L CNG Manual Price List"
     },
     {
@@ -223,6 +364,12 @@
       "power": "73PS",
       "torque": "103Nm",
       "mileage": "26.99km/kg",
+      "cylinders": "3",
+      "kerbWeight": "1095Kg",
+      "powerWeight": "66.67PS/tonne",
+      "torqueWeight": "94.06Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L CNG Manual Price List"
     },
     {
@@ -235,6 +382,12 @@
       "power": "73PS",
       "torque": "103Nm",
       "mileage": "26.99km/kg",
+      "cylinders": "3",
+      "kerbWeight": "1095Kg",
+      "powerWeight": "66.67PS/tonne",
+      "torqueWeight": "94.06Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L CNG Manual Price List"
     },
     {
@@ -247,7 +400,31 @@
       "power": "73PS",
       "torque": "103Nm",
       "mileage": "26.99km/kg",
+      "cylinders": "3",
+      "kerbWeight": "1095Kg",
+      "powerWeight": "66.67PS/tonne",
+      "torqueWeight": "94.06Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L CNG Manual Price List"
+    },
+    {
+      "trim": "Adventure",
+      "nameSuffix": "",
+      "priceLakh": 8.35,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "6-speed MT",
+      "power": "120PS",
+      "torque": "170Nm",
+      "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "1095Kg",
+      "powerWeight": "109.59PS/tonne",
+      "torqueWeight": "155.25Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Punch 1.2L  Turbo Petrol Manual Price List"
     },
     {
       "trim": "Accomplished Plus S",
@@ -259,7 +436,31 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "1095Kg",
+      "powerWeight": "109.59PS/tonne",
+      "torqueWeight": "155.25Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Pure Plus",
+      "nameSuffix": "",
+      "priceLakh": 8.6,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "73PS",
+      "torque": "103Nm",
+      "mileage": "26.99km/kg",
+      "cylinders": "3",
+      "kerbWeight": "1095Kg",
+      "powerWeight": "66.67PS/tonne",
+      "torqueWeight": "94.06Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Punch 1.2L  CNG Automatic Price List"
     },
     {
       "trim": "Adventure",
@@ -271,6 +472,12 @@
       "power": "73PS",
       "torque": "103Nm",
       "mileage": "26.99km/kg",
+      "cylinders": "3",
+      "kerbWeight": "1095Kg",
+      "powerWeight": "66.67PS/tonne",
+      "torqueWeight": "94.06Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L  CNG Automatic Price List"
     },
     {
@@ -283,6 +490,12 @@
       "power": "73PS",
       "torque": "103Nm",
       "mileage": "26.99km/kg",
+      "cylinders": "3",
+      "kerbWeight": "1095Kg",
+      "powerWeight": "66.67PS/tonne",
+      "torqueWeight": "94.06Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L  CNG Automatic Price List"
     },
     {
@@ -295,11 +508,15 @@
       "power": "73PS",
       "torque": "103Nm",
       "mileage": "26.99km/kg",
+      "cylinders": "3",
+      "kerbWeight": "1095Kg",
+      "powerWeight": "66.67PS/tonne",
+      "torqueWeight": "94.06Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Punch 1.2L  CNG Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:18:51.526Z",
-  "source": "https://www.v3cars.com/tata-cars/punch",
-  "v3carsImage": "/cars/tata-punch.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/357473punch.png"
+  "syncedAt": "2026-05-17T13:02:12.444Z",
+  "source": "https://www.v3cars.com/tata-cars/punch"
 }

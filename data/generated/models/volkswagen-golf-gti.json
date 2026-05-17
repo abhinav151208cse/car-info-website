@@ -35,6 +35,7 @@
       "value": "136 mm"
     }
   ],
+  "safety": [],
   "engines": [
     "1984cc (7-speed DCT)"
   ],
@@ -49,11 +50,15 @@
       "power": "265PS",
       "torque": "370Nm",
       "mileage": "16.83kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1454Kg",
+      "powerWeight": "182.26PS/tonne",
+      "torqueWeight": "254.47Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Volkswagen Golf 2.0L  Turbo Petrol Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:26:54.085Z",
-  "source": "https://www.v3cars.com/volkswagen-cars/golf-gti",
-  "v3carsImage": "/cars/volkswagen-golf-gti.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/459816golf-gti.png"
+  "syncedAt": "2026-05-17T13:03:52.431Z",
+  "source": "https://www.v3cars.com/volkswagen-cars/golf-gti"
 }

@@ -7,7 +7,7 @@
   "summary": "5-seat SUV with diesel power and premium cabin.",
   "segment": "suv-d",
   "imageUrl": "https://www.tatamotors.com/content/dam/tata-motors/passenger-vehicles/harrier/harrier-ice/hero/harrier-hero-desktop.jpg",
-  "priceRangeMin": 16,
+  "priceRangeMin": 12.89,
   "priceRangeMax": 25.85,
   "dimensions": [
     {
@@ -39,6 +39,9 @@
       "value": "50 litres"
     }
   ],
+  "safety": [
+    "5-star Bharat NCAP safety rating"
+  ],
   "engines": [
     "1956cc (6-speed MT)",
     "1956cc (6-speed TC)",
@@ -46,6 +49,24 @@
     "1498cc (6-speed TC)"
   ],
   "variants": [
+    {
+      "trim": "Smart",
+      "nameSuffix": "",
+      "priceLakh": 14,
+      "fuelType": "Diesel",
+      "engine": "1956cc",
+      "transmission": "6-speed MT",
+      "power": "170PS",
+      "torque": "350Nm",
+      "mileage": "16.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Harrier 2.0L Diesel Manual Price List"
+    },
     {
       "trim": "Pure X",
       "nameSuffix": "",
@@ -56,6 +77,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "16.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Manual Price List"
     },
     {
@@ -68,6 +95,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "16.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Manual Price List"
     },
     {
@@ -80,6 +113,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "16.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Manual Price List"
     },
     {
@@ -92,6 +131,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "16.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Manual Price List"
     },
     {
@@ -104,6 +149,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "16.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Manual Price List"
     },
     {
@@ -116,6 +167,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "16.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Manual Price List"
     },
     {
@@ -128,6 +185,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "16.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Manual Price List"
     },
     {
@@ -140,6 +203,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "16.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Manual Price List"
     },
     {
@@ -152,6 +221,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "16.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Manual Price List"
     },
     {
@@ -164,6 +239,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "16.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Manual Price List"
     },
     {
@@ -176,6 +257,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "16.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Manual Price List"
     },
     {
@@ -188,7 +275,31 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "16.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Manual Price List"
+    },
+    {
+      "trim": "Pure X",
+      "nameSuffix": "",
+      "priceLakh": 18.65,
+      "fuelType": "Diesel",
+      "engine": "1956cc",
+      "transmission": "6-speed TC",
+      "power": "170PS",
+      "torque": "350Nm",
+      "mileage": "14.60kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Harrier 2.0L Diesel Automatic Price List"
     },
     {
       "trim": "Pure X Dark",
@@ -200,6 +311,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "14.60kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Automatic Price List"
     },
     {
@@ -212,6 +329,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "14.60kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Automatic Price List"
     },
     {
@@ -224,6 +347,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "14.60kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Automatic Price List"
     },
     {
@@ -236,6 +365,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "14.60kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Automatic Price List"
     },
     {
@@ -248,6 +383,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "14.60kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Automatic Price List"
     },
     {
@@ -260,6 +401,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "14.60kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Automatic Price List"
     },
     {
@@ -272,6 +419,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "14.60kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Automatic Price List"
     },
     {
@@ -284,6 +437,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "14.60kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Automatic Price List"
     },
     {
@@ -296,6 +455,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "14.60kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Automatic Price List"
     },
     {
@@ -308,6 +473,12 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "14.60kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Automatic Price List"
     },
     {
@@ -320,7 +491,31 @@
       "power": "170PS",
       "torque": "350Nm",
       "mileage": "14.60kmpl",
+      "cylinders": "4",
+      "kerbWeight": "2000Kg",
+      "powerWeight": "85.00PS/tonne",
+      "torqueWeight": "175.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 2.0L Diesel Automatic Price List"
+    },
+    {
+      "trim": "Smart",
+      "nameSuffix": "",
+      "priceLakh": 12.89,
+      "fuelType": "Petrol",
+      "engine": "1498cc",
+      "transmission": "6-speed MT",
+      "power": "170PS",
+      "torque": "280Nm",
+      "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Harrier 1.5L  Turbo Petrol Manual Price List"
     },
     {
       "trim": "Pure X",
@@ -332,6 +527,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Manual Price List"
     },
     {
@@ -344,6 +545,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Manual Price List"
     },
     {
@@ -356,6 +563,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Manual Price List"
     },
     {
@@ -368,6 +581,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Manual Price List"
     },
     {
@@ -380,6 +599,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Manual Price List"
     },
     {
@@ -392,6 +617,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Manual Price List"
     },
     {
@@ -404,6 +635,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Manual Price List"
     },
     {
@@ -416,6 +653,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Manual Price List"
     },
     {
@@ -428,6 +671,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Manual Price List"
     },
     {
@@ -440,6 +689,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Manual Price List"
     },
     {
@@ -452,6 +707,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Manual Price List"
     },
     {
@@ -464,7 +725,31 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Pure X",
+      "nameSuffix": "",
+      "priceLakh": 17.53,
+      "fuelType": "Petrol",
+      "engine": "1498cc",
+      "transmission": "6-speed TC",
+      "power": "170PS",
+      "torque": "280Nm",
+      "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Harrier 1.5L  Turbo Petrol Automatic Price List"
     },
     {
       "trim": "Pure X Dark",
@@ -476,6 +761,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Automatic Price List"
     },
     {
@@ -488,6 +779,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Automatic Price List"
     },
     {
@@ -500,6 +797,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Automatic Price List"
     },
     {
@@ -512,6 +815,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Automatic Price List"
     },
     {
@@ -524,6 +833,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Automatic Price List"
     },
     {
@@ -536,6 +851,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Automatic Price List"
     },
     {
@@ -548,6 +869,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Automatic Price List"
     },
     {
@@ -560,6 +887,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Automatic Price List"
     },
     {
@@ -572,6 +905,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Automatic Price List"
     },
     {
@@ -584,6 +923,12 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Automatic Price List"
     },
     {
@@ -596,11 +941,15 @@
       "power": "170PS",
       "torque": "280Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1900Kg",
+      "powerWeight": "89.47PS/tonne",
+      "torqueWeight": "147.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Harrier 1.5L  Turbo Petrol Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:18:55.723Z",
-  "source": "https://www.v3cars.com/tata-cars/harrier",
-  "v3carsImage": "/cars/tata-harrier.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/264532harrier.png"
+  "syncedAt": "2026-05-17T13:02:18.846Z",
+  "source": "https://www.v3cars.com/tata-cars/harrier"
 }

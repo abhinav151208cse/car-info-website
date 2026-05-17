@@ -7,7 +7,7 @@
   "summary": "Affordable tall-boy with petrol engine.",
   "segment": "suv-b",
   "imageUrl": "https://www.marutisuzuki.com/-/media/marutisuzuki/india/vehicles/s-presso/hero/s-presso-hero.jpg",
-  "priceRangeMin": 3.8,
+  "priceRangeMin": 3.5,
   "priceRangeMax": 5.25,
   "dimensions": [
     {
@@ -39,11 +39,30 @@
       "value": "27 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "998cc (5-speed MT)",
     "998cc (5-speed AMT)"
   ],
   "variants": [
+    {
+      "trim": "S-Presso STD (O)",
+      "nameSuffix": "",
+      "priceLakh": 3.5,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "5-speed MT",
+      "power": "69PS",
+      "torque": "91Nm",
+      "mileage": "24.76kmpl",
+      "cylinders": "3",
+      "kerbWeight": "736Kg",
+      "powerWeight": "93.07PS/tonne",
+      "torqueWeight": "123.64Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki S-Presso 1.0L Petrol Manual Price List"
+    },
     {
       "trim": "S-Presso LXI (O)",
       "nameSuffix": "",
@@ -54,6 +73,12 @@
       "power": "69PS",
       "torque": "91Nm",
       "mileage": "24.76kmpl",
+      "cylinders": "3",
+      "kerbWeight": "736Kg",
+      "powerWeight": "93.07PS/tonne",
+      "torqueWeight": "123.64Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki S-Presso 1.0L Petrol Manual Price List"
     },
     {
@@ -66,6 +91,12 @@
       "power": "69PS",
       "torque": "91Nm",
       "mileage": "24.76kmpl",
+      "cylinders": "3",
+      "kerbWeight": "736Kg",
+      "powerWeight": "93.07PS/tonne",
+      "torqueWeight": "123.64Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki S-Presso 1.0L Petrol Manual Price List"
     },
     {
@@ -78,7 +109,31 @@
       "power": "69PS",
       "torque": "91Nm",
       "mileage": "24.76kmpl",
+      "cylinders": "3",
+      "kerbWeight": "736Kg",
+      "powerWeight": "93.07PS/tonne",
+      "torqueWeight": "123.64Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki S-Presso 1.0L Petrol Manual Price List"
+    },
+    {
+      "trim": "S-Presso VXI (O)",
+      "nameSuffix": "",
+      "priceLakh": 4.75,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "5-speed AMT",
+      "power": "67PS",
+      "torque": "89Nm",
+      "mileage": "25.30kmpl",
+      "cylinders": "3",
+      "kerbWeight": "775Kg",
+      "powerWeight": "86.45PS/tonne",
+      "torqueWeight": "114.84Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki S-Presso 1.0L Petrol Automatic Price List"
     },
     {
       "trim": "S-Presso VXI Plus (O)",
@@ -90,7 +145,31 @@
       "power": "67PS",
       "torque": "89Nm",
       "mileage": "25.30kmpl",
+      "cylinders": "3",
+      "kerbWeight": "775Kg",
+      "powerWeight": "86.45PS/tonne",
+      "torqueWeight": "114.84Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki S-Presso 1.0L Petrol Automatic Price List"
+    },
+    {
+      "trim": "S-Presso LXI (O)",
+      "nameSuffix": "",
+      "priceLakh": 4.62,
+      "fuelType": "CNG",
+      "engine": "998cc",
+      "transmission": "5-speed MT",
+      "power": "57PS",
+      "torque": "82Nm",
+      "mileage": "32.73km/kg",
+      "cylinders": "3",
+      "kerbWeight": "736Kg",
+      "powerWeight": "77.02PS/tonne",
+      "torqueWeight": "111.55Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki S-Presso 1.0L CNG Manual Price List"
     },
     {
       "trim": "S-Presso VXI (O)",
@@ -102,11 +181,15 @@
       "power": "57PS",
       "torque": "82Nm",
       "mileage": "32.73km/kg",
+      "cylinders": "3",
+      "kerbWeight": "736Kg",
+      "powerWeight": "77.02PS/tonne",
+      "torqueWeight": "111.55Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki S-Presso 1.0L CNG Manual Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:18.911Z",
-  "source": "https://www.v3cars.com/maruti-arena-cars/s-presso",
-  "v3carsImage": "/cars/maruti-s-presso.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/354135spresso.png"
+  "syncedAt": "2026-05-17T13:03:04.275Z",
+  "source": "https://www.v3cars.com/maruti-arena-cars/s-presso"
 }

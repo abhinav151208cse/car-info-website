@@ -7,7 +7,7 @@
   "summary": "Budget hatch with petrol and CNG.",
   "segment": "hatch",
   "imageUrl": "https://www.marutisuzuki.com/-/media/marutisuzuki/india/vehicles/alto-k10/hero/alto-k10-hero.jpg",
-  "priceRangeMin": 4,
+  "priceRangeMin": 3.69,
   "priceRangeMax": 5.45,
   "dimensions": [
     {
@@ -39,11 +39,32 @@
       "value": "27 litres"
     }
   ],
+  "safety": [
+    "6 airbags (variant dependent)"
+  ],
   "engines": [
     "998cc (5-speed MT)",
     "998cc (5-speed AMT)"
   ],
   "variants": [
+    {
+      "trim": "Alto K10 STD (O)",
+      "nameSuffix": "",
+      "priceLakh": 3.69,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "5-speed MT",
+      "power": "69PS",
+      "torque": "91Nm",
+      "mileage": "24.39kmpl",
+      "cylinders": "3",
+      "kerbWeight": "735Kg",
+      "powerWeight": "93.20PS/tonne",
+      "torqueWeight": "123.95Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Alto K10 1.0L Petrol Manual Price List"
+    },
     {
       "trim": "Alto K10 LXI (O)",
       "nameSuffix": "",
@@ -54,6 +75,12 @@
       "power": "69PS",
       "torque": "91Nm",
       "mileage": "24.39kmpl",
+      "cylinders": "3",
+      "kerbWeight": "735Kg",
+      "powerWeight": "93.20PS/tonne",
+      "torqueWeight": "123.95Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Alto K10 1.0L Petrol Manual Price List"
     },
     {
@@ -66,6 +93,12 @@
       "power": "69PS",
       "torque": "91Nm",
       "mileage": "24.39kmpl",
+      "cylinders": "3",
+      "kerbWeight": "735Kg",
+      "powerWeight": "93.20PS/tonne",
+      "torqueWeight": "123.95Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Alto K10 1.0L Petrol Manual Price List"
     },
     {
@@ -78,7 +111,31 @@
       "power": "69PS",
       "torque": "91Nm",
       "mileage": "24.39kmpl",
+      "cylinders": "3",
+      "kerbWeight": "735Kg",
+      "powerWeight": "93.20PS/tonne",
+      "torqueWeight": "123.95Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Alto K10 1.0L Petrol Manual Price List"
+    },
+    {
+      "trim": "Alto K10 VXI (O)",
+      "nameSuffix": "",
+      "priceLakh": 4.95,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "5-speed AMT",
+      "power": "67PS",
+      "torque": "89Nm",
+      "mileage": "24.90kmpl",
+      "cylinders": "3",
+      "kerbWeight": "741Kg",
+      "powerWeight": "90.42PS/tonne",
+      "torqueWeight": "120.11Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Alto K10 1.0L Petrol Automatic Price List"
     },
     {
       "trim": "Alto K10 VXI Plus (O)",
@@ -90,7 +147,31 @@
       "power": "67PS",
       "torque": "89Nm",
       "mileage": "24.90kmpl",
+      "cylinders": "3",
+      "kerbWeight": "741Kg",
+      "powerWeight": "90.42PS/tonne",
+      "torqueWeight": "120.11Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Alto K10 1.0L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Alto K10 LXI (O)",
+      "nameSuffix": "",
+      "priceLakh": 4.82,
+      "fuelType": "CNG",
+      "engine": "998cc",
+      "transmission": "5-speed MT",
+      "power": "57PS",
+      "torque": "82Nm",
+      "mileage": "33.40km/kg",
+      "cylinders": "3",
+      "kerbWeight": "830Kg",
+      "powerWeight": "68.67PS/tonne",
+      "torqueWeight": "98.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Alto K10 1.0L CNG Manual Price List"
     },
     {
       "trim": "Alto K10 VXI (O)",
@@ -102,11 +183,15 @@
       "power": "57PS",
       "torque": "82Nm",
       "mileage": "33.40km/kg",
+      "cylinders": "3",
+      "kerbWeight": "830Kg",
+      "powerWeight": "68.67PS/tonne",
+      "torqueWeight": "98.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Alto K10 1.0L CNG Manual Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:18.081Z",
-  "source": "https://www.v3cars.com/maruti-arena-cars/alto-k10",
-  "v3carsImage": "/cars/maruti-alto-k10.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/931713alto-k10.png"
+  "syncedAt": "2026-05-17T13:03:02.994Z",
+  "source": "https://www.v3cars.com/maruti-arena-cars/alto-k10"
 }

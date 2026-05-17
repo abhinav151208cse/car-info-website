@@ -9,6 +9,8 @@ import {
 } from "@/lib/compare";
 import { carsCatalog, type CarModel } from "@/lib/cars";
 import { onCarImageError } from "@/lib/image-fallback";
+import SearchableSelect from "@/components/SearchableSelect";
+import { buildVariantSelectOptions } from "@/lib/variant-label";
 import Link from "next/link";
 import { Fragment, useEffect, useMemo, useState } from "react";
 
@@ -231,18 +233,14 @@ function CompareColumnHeader({
         className="h-24 w-full rounded-lg object-cover"
         onError={onCarImageError}
       />
-      <select
+      <SearchableSelect
         value={column.variantId}
-        onChange={(e) => onVariantChange(e.target.value)}
-        className="w-full rounded-lg border border-slate-300 bg-white px-2 py-1.5 text-xs text-slate-900"
+        onChange={onVariantChange}
+        options={buildVariantSelectOptions(car)}
+        searchPlaceholder="Search…"
+        size="compact"
         aria-label={`Variant for ${column.carName}`}
-      >
-        {car.variants.map((v) => (
-          <option key={v.id} value={v.id}>
-            {v.name}
-          </option>
-        ))}
-      </select>
+      />
       <p className="text-lg font-bold text-slate-900">{column.price}</p>
       <p className="text-[10px] text-slate-500">ex-showroom</p>
     </div>
@@ -341,20 +339,19 @@ function ComparePicker({
             ))}
           </select>
         </label>
-        <label className="flex-[2] text-sm">
-          <span className="font-medium text-slate-700">Variant</span>
-          <select
-            value={variantId}
-            onChange={(e) => setVariantId(e.target.value)}
-            className="mt-1 w-full rounded-lg border border-slate-300 bg-white px-3 py-2 text-slate-900"
-          >
-            {pickCar?.variants.map((v) => (
-              <option key={v.id} value={v.id}>
-                {v.name} — {v.price}
-              </option>
-            ))}
-          </select>
-        </label>
+        <div className="flex-[2] text-sm">
+          {pickCar ? (
+            <SearchableSelect
+              label="Variant"
+              value={variantId}
+              onChange={setVariantId}
+              options={buildVariantSelectOptions(pickCar)}
+              searchPlaceholder="Search trim, fuel, transmission…"
+            />
+          ) : (
+            <span className="font-medium text-slate-700">Variant</span>
+          )}
+        </div>
         <AddToCompareButton
           entry={entry}
           disabled={!effectiveVariantId}

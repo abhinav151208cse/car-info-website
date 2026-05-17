@@ -35,6 +35,7 @@
       "value": "176 mm"
     }
   ],
+  "safety": [],
   "engines": [
     "1984cc (7-speed DCT)"
   ],
@@ -49,11 +50,15 @@
       "power": "204PS",
       "torque": "320Nm",
       "mileage": "12.58kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1758Kg",
+      "powerWeight": "116.04PS/tonne",
+      "torqueWeight": "182.03Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Volkswagen Tiguan 2.0L  Turbo Petrol Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:26:52.527Z",
-  "source": "https://www.v3cars.com/volkswagen-cars/tiguan-r-line",
-  "v3carsImage": "/cars/volkswagen-tiguan.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/854729tiguan.png"
+  "syncedAt": "2026-05-17T13:03:50.198Z",
+  "source": "https://www.v3cars.com/volkswagen-cars/tiguan-r-line"
 }

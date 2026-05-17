@@ -7,7 +7,7 @@
   "summary": "Affordable 5/7-seater with petrol and CNG.",
   "segment": "muv",
   "imageUrl": "https://www.marutisuzuki.com/-/media/marutisuzuki/india/vehicles/eeco/hero/eeco-hero.jpg",
-  "priceRangeMin": 5.21,
+  "priceRangeMin": 5.18,
   "priceRangeMax": 6.61,
   "dimensions": [
     {
@@ -39,10 +39,29 @@
       "value": "40 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "1196cc (5-speed MT)"
   ],
   "variants": [
+    {
+      "trim": "Eeco Tour STD 5 Seater",
+      "nameSuffix": "",
+      "priceLakh": 5.18,
+      "fuelType": "Petrol",
+      "engine": "1196cc",
+      "transmission": "5-speed MT",
+      "power": "73PS",
+      "torque": "98Nm",
+      "mileage": "16.11kmpl",
+      "cylinders": "4",
+      "kerbWeight": "940Kg",
+      "powerWeight": "77.66PS/tonne",
+      "torqueWeight": "104.26Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Eeco 1.2L  Petrol Manual Price List"
+    },
     {
       "trim": "Eeco 5 Seater STD (O)",
       "nameSuffix": "",
@@ -53,6 +72,12 @@
       "power": "73PS",
       "torque": "98Nm",
       "mileage": "16.11kmpl",
+      "cylinders": "4",
+      "kerbWeight": "940Kg",
+      "powerWeight": "77.66PS/tonne",
+      "torqueWeight": "104.26Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Eeco 1.2L  Petrol Manual Price List"
     },
     {
@@ -65,6 +90,12 @@
       "power": "73PS",
       "torque": "98Nm",
       "mileage": "16.11kmpl",
+      "cylinders": "4",
+      "kerbWeight": "940Kg",
+      "powerWeight": "77.66PS/tonne",
+      "torqueWeight": "104.26Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Eeco 1.2L  Petrol Manual Price List"
     },
     {
@@ -77,6 +108,12 @@
       "power": "73PS",
       "torque": "98Nm",
       "mileage": "16.11kmpl",
+      "cylinders": "4",
+      "kerbWeight": "940Kg",
+      "powerWeight": "77.66PS/tonne",
+      "torqueWeight": "104.26Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Eeco 1.2L  Petrol Manual Price List"
     },
     {
@@ -89,6 +126,12 @@
       "power": "73PS",
       "torque": "98Nm",
       "mileage": "16.11kmpl",
+      "cylinders": "4",
+      "kerbWeight": "940Kg",
+      "powerWeight": "77.66PS/tonne",
+      "torqueWeight": "104.26Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Eeco 1.2L  Petrol Manual Price List"
     },
     {
@@ -101,6 +144,12 @@
       "power": "73PS",
       "torque": "98Nm",
       "mileage": "16.11kmpl",
+      "cylinders": "4",
+      "kerbWeight": "940Kg",
+      "powerWeight": "77.66PS/tonne",
+      "torqueWeight": "104.26Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Eeco 1.2L  Petrol Manual Price List"
     },
     {
@@ -113,7 +162,31 @@
       "power": "73PS",
       "torque": "98Nm",
       "mileage": "16.11kmpl",
+      "cylinders": "4",
+      "kerbWeight": "940Kg",
+      "powerWeight": "77.66PS/tonne",
+      "torqueWeight": "104.26Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Eeco 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "Eeco Cargo",
+      "nameSuffix": "",
+      "priceLakh": 6.21,
+      "fuelType": "CNG",
+      "engine": "1196cc",
+      "transmission": "5-speed MT",
+      "power": "63PS",
+      "torque": "85Nm",
+      "mileage": "20.88km/kg",
+      "cylinders": "4",
+      "kerbWeight": "1050Kg",
+      "powerWeight": "60.00PS/tonne",
+      "torqueWeight": "80.95Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Eeco 1.2L CNG Manual Price List"
     },
     {
       "trim": "Eeco Tour 5 Seater AC",
@@ -125,6 +198,12 @@
       "power": "63PS",
       "torque": "85Nm",
       "mileage": "20.88km/kg",
+      "cylinders": "4",
+      "kerbWeight": "1050Kg",
+      "powerWeight": "60.00PS/tonne",
+      "torqueWeight": "80.95Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Eeco 1.2L CNG Manual Price List"
     },
     {
@@ -137,6 +216,12 @@
       "power": "63PS",
       "torque": "85Nm",
       "mileage": "20.88km/kg",
+      "cylinders": "4",
+      "kerbWeight": "1050Kg",
+      "powerWeight": "60.00PS/tonne",
+      "torqueWeight": "80.95Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Eeco 1.2L CNG Manual Price List"
     },
     {
@@ -149,11 +234,15 @@
       "power": "63PS",
       "torque": "85Nm",
       "mileage": "20.88km/kg",
+      "cylinders": "4",
+      "kerbWeight": "1050Kg",
+      "powerWeight": "60.00PS/tonne",
+      "torqueWeight": "80.95Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Eeco 1.2L CNG Manual Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:23.113Z",
-  "source": "https://www.v3cars.com/maruti-arena-cars/eeco",
-  "v3carsImage": "/cars/maruti-eeco.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/443182eeco.png"
+  "syncedAt": "2026-05-17T13:03:10.596Z",
+  "source": "https://www.v3cars.com/maruti-arena-cars/eeco"
 }

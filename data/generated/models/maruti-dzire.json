@@ -7,7 +7,7 @@
   "summary": "Efficient sedan with petrol and CNG, high fuel economy.",
   "segment": "sedan",
   "imageUrl": "https://www.marutisuzuki.com/-/media/marutisuzuki/india/vehicles/dzire/hero/dzire-hero.jpg",
-  "priceRangeMin": 7.17,
+  "priceRangeMin": 6.26,
   "priceRangeMax": 9.31,
   "dimensions": [
     {
@@ -39,11 +39,30 @@
       "value": "37 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "1197cc (5-speed MT)",
     "1197cc (5-speed AMT)"
   ],
   "variants": [
+    {
+      "trim": "Dzire LXi",
+      "nameSuffix": "",
+      "priceLakh": 6.26,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "82PS",
+      "torque": "112Nm",
+      "mileage": "24.79kmpl",
+      "cylinders": "3",
+      "kerbWeight": "920Kg",
+      "powerWeight": "88.67PS/tonne",
+      "torqueWeight": "121.41Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Dzire 1.2L Petrol Manual Price List"
+    },
     {
       "trim": "Dzire VXi",
       "nameSuffix": "",
@@ -54,6 +73,12 @@
       "power": "82PS",
       "torque": "112Nm",
       "mileage": "24.79kmpl",
+      "cylinders": "3",
+      "kerbWeight": "920Kg",
+      "powerWeight": "88.67PS/tonne",
+      "torqueWeight": "121.41Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Dzire 1.2L Petrol Manual Price List"
     },
     {
@@ -66,6 +91,12 @@
       "power": "82PS",
       "torque": "112Nm",
       "mileage": "24.79kmpl",
+      "cylinders": "3",
+      "kerbWeight": "920Kg",
+      "powerWeight": "88.67PS/tonne",
+      "torqueWeight": "121.41Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Dzire 1.2L Petrol Manual Price List"
     },
     {
@@ -78,7 +109,31 @@
       "power": "82PS",
       "torque": "112Nm",
       "mileage": "24.79kmpl",
+      "cylinders": "3",
+      "kerbWeight": "920Kg",
+      "powerWeight": "88.67PS/tonne",
+      "torqueWeight": "121.41Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Dzire 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Dzire VXi",
+      "nameSuffix": "",
+      "priceLakh": 7.62,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "82PS",
+      "torque": "112Nm",
+      "mileage": "25.71kmpl",
+      "cylinders": "3",
+      "kerbWeight": "960Kg",
+      "powerWeight": "84.98PS/tonne",
+      "torqueWeight": "116.35Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Dzire 1.2L Petrol Automatic Price List"
     },
     {
       "trim": "Dzire ZXi",
@@ -90,6 +145,12 @@
       "power": "82PS",
       "torque": "112Nm",
       "mileage": "25.71kmpl",
+      "cylinders": "3",
+      "kerbWeight": "960Kg",
+      "powerWeight": "84.98PS/tonne",
+      "torqueWeight": "116.35Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Dzire 1.2L Petrol Automatic Price List"
     },
     {
@@ -102,7 +163,31 @@
       "power": "82PS",
       "torque": "112Nm",
       "mileage": "25.71kmpl",
+      "cylinders": "3",
+      "kerbWeight": "960Kg",
+      "powerWeight": "84.98PS/tonne",
+      "torqueWeight": "116.35Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Dzire 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Dzire VXi",
+      "nameSuffix": "",
+      "priceLakh": 8.03,
+      "fuelType": "CNG",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "70PS",
+      "torque": "102Nm",
+      "mileage": "33.73km/kg",
+      "cylinders": "3",
+      "kerbWeight": "1020Kg",
+      "powerWeight": "68.38PS/tonne",
+      "torqueWeight": "99.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Dzire 1.2L CNG Manual Price List"
     },
     {
       "trim": "Dzire ZXi",
@@ -114,11 +199,15 @@
       "power": "70PS",
       "torque": "102Nm",
       "mileage": "33.73km/kg",
+      "cylinders": "3",
+      "kerbWeight": "1020Kg",
+      "powerWeight": "68.38PS/tonne",
+      "torqueWeight": "99.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Dzire 1.2L CNG Manual Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:16.321Z",
-  "source": "https://www.v3cars.com/maruti-arena-cars/dzire",
-  "v3carsImage": "/cars/maruti-dzire.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/609126dzire.png"
+  "syncedAt": "2026-05-17T13:03:00.527Z",
+  "source": "https://www.v3cars.com/maruti-arena-cars/dzire"
 }

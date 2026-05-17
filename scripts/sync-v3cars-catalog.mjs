@@ -105,20 +105,62 @@ function parseEngineTableHtml(block) {
     const m = block.match(re);
     return m ? m[1].trim() : "";
   };
-  const disp = get("Engine Displacement");
-  const trans = get("Transmission");
+  const disp = get("Engine Displacement") || get("Battery Capacity");
+  const trans = get("Transmission") || get("Drive Type");
   const power = get("Max Power");
   const torque = get("Max Torque");
-  const fe = get("Claimed FE");
+  const fe = get("Claimed FE") || get("ARAI Range");
   let engine = disp || "";
-  if (engine && !/cc|kwh/i.test(engine)) engine += "cc";
+  if (engine && !/cc|kwh|kw/i.test(engine)) engine += "cc";
+  const clean = (v) => (v ? v.replace(/@.*/, "").trim() : "—");
   return {
     engine: engine || "—",
     transmission: trans || "—",
-    power: power ? power.replace(/@.*/, "").trim() : "—",
-    torque: torque ? torque.replace(/@.*/, "").trim() : "—",
+    power: clean(power),
+    torque: clean(torque),
     mileage: fe || "—",
+    cylinders: get("Cylinders") || "—",
+    kerbWeight: get("Kerb Weight") || "—",
+    powerWeight: get("Power:Weight") || "—",
+    torqueWeight: get("Torque:Weight") || "—",
+    realWorldMileage: get("Real World Mileage") || get("Real-world Range") || "—",
+    driveType: get("Drive Type") || "—",
   };
+}
+
+function parseSafetyHighlights(html) {
+  const items = [];
+  const seen = new Set();
+  const add = (text) => {
+    const key = text.toLowerCase();
+    if (seen.has(key)) return;
+    seen.add(key);
+    items.push(text);
+  };
+
+  const ncap =
+    html.match(/(\d)-star[^<]{0,60}Bharat NCAP/i) ||
+    html.match(/(\d)-star safety rating in Bharat NCAP/i);
+  if (ncap) add(`${ncap[1]}-star Bharat NCAP safety rating`);
+
+  if (/\b6 airbags\b/i.test(html)) add("6 airbags (variant dependent)");
+  else if (/\b4 airbags\b/i.test(html)) add("4 airbags (variant dependent)");
+  else if (/\b2 airbags\b/i.test(html)) add("Dual front airbags (base variants)");
+
+  if (/\bESC\b|electronic stability control/i.test(html))
+    add("Electronic stability control (ESP/ESC)");
+  if (/\bISOFIX\b/i.test(html)) add("ISOFIX child-seat anchorages");
+  if (/\bABS\b|anti-lock braking/i.test(html)) add("ABS with EBD");
+  if (/\bHill[- ]hold|hill start assist/i.test(html))
+    add("Hill-hold / hill-start assist");
+  if (/\bADAS\b|advanced driver assistance/i.test(html))
+    add("ADAS driver-assistance (top trims)");
+  if (/\b360|surround view/i.test(html))
+    add("360° camera (select trims)");
+  if (/\bTPMS\b|tyre pressure/i.test(html))
+    add("Tyre-pressure monitoring");
+
+  return items.slice(0, 8);
 }
 
 function decodeHtml(html) {
@@ -231,9 +273,15 @@ function parsePage(text, entry) {
         fuelType,
         engine: specs.engine,
         transmission: specs.transmission,
-        power: specs.power.includes("PS") ? specs.power : `${specs.power}`.replace(/^—$/, "—"),
-        torque: specs.torque.includes("Nm") ? specs.torque : specs.torque,
+        power: specs.power,
+        torque: specs.torque,
         mileage: specs.mileage,
+        cylinders: specs.cylinders,
+        kerbWeight: specs.kerbWeight,
+        powerWeight: specs.powerWeight,
+        torqueWeight: specs.torqueWeight,
+        realWorldMileage: specs.realWorldMileage,
+        driveType: specs.driveType,
         section: sec.title,
       });
     }
@@ -261,6 +309,7 @@ function parsePage(text, entry) {
     priceRangeMin: min,
     priceRangeMax: max,
     dimensions: parseDimensions(html),
+    safety: parseSafetyHighlights(html),
     engines: engines.slice(0, 8),
     variants,
     syncedAt: new Date().toISOString(),

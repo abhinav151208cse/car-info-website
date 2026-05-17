@@ -36,7 +36,7 @@ export default function AddToCompareButton({
         selected
           ? "border-emerald-600 bg-emerald-50 text-emerald-800 hover:bg-emerald-100"
           : disabled
-            ? "cursor-not-allowed border-slate-200 bg-slate-50 text-slate-400"
+            ? "btn-inactive"
             : "border-slate-300 bg-white text-slate-700 hover:border-slate-900 hover:text-slate-900"
       } ${compact ? "px-3 py-1.5" : "px-4 py-2"} ${className}`}
       aria-pressed={selected}

@@ -34,16 +34,32 @@ function buildVariantId(carSlug, trim, fuel, trans, index) {
   return `${base}-${index}`;
 }
 
-function variantDisplayName(carName, trim, suffix) {
-  const short = carName.replace(/^[\w\s]+\s+/i, "").trim();
+function formatTransmissionLabel(transmission) {
+  const t = String(transmission).trim();
+  if (/^cvt$/i.test(t) || /\bivt\b/i.test(t)) return "IVT";
+  if (/7-speed dct/i.test(t)) return "7-speed DCT";
+  if (/6-speed dct/i.test(t)) return "6-speed DCT";
+  if (/6-speed tc/i.test(t)) return "6-speed AT";
+  if (/6-speed acmt|6-speed amt/i.test(t)) return "6-speed AMT";
+  if (/6-speed mt/i.test(t)) return "6-speed MT";
+  if (/5-speed mt/i.test(t)) return "5-speed MT";
+  if (/single speed|1-speed/i.test(t)) return "Single-speed";
+  return t;
+}
+
+function variantDisplayName(carName, brand, trim, suffix, fuelType, transmission, engine) {
+  const short = carName.replace(new RegExp(`^${brand}\\s+`, "i"), "").trim();
   let cleanTrim = trim;
   for (const prefix of [carName, short]) {
     if (prefix && cleanTrim.toLowerCase().startsWith(prefix.toLowerCase())) {
       cleanTrim = cleanTrim.slice(prefix.length).trim();
     }
   }
-  const parts = [short, cleanTrim || trim, suffix].filter(Boolean);
-  return parts.join(" ");
+  const base = [short, cleanTrim || trim, suffix].filter(Boolean).join(" ");
+  const trans = formatTransmissionLabel(transmission);
+  const eng =
+    engine && engine !== "—" ? ` · ${engine}` : "";
+  return `${base} · ${fuelType} · ${trans}${eng}`;
 }
 
 function tierForTrim(trim) {
@@ -59,30 +75,61 @@ function tierForTrim(trim) {
 
 const genericFeatures = {
   base: [
-    "Standard safety kit (ABS, airbags — see official brochure)",
-    "Infotainment with smartphone connectivity (variant dependent)",
+    "ABS with EBD & dual front airbags (standard on most variants)",
+    "Power steering with tilt adjustment",
     "Power windows & central locking",
+    "Infotainment with Bluetooth / smartphone connectivity",
+    "Rear defogger & adjustable ORVMs",
   ],
   mid: [
     "Smart key / push-button start (variant dependent)",
-    "Automatic climate control",
-    "Alloy wheels",
+    "Automatic climate control with rear AC vents",
+    "Alloy wheels & body-coloured mirrors",
+    "Steering-mounted audio & phone controls",
+    "Rear parking sensors",
   ],
   upper: [
-    "Sunroof (variant dependent)",
-    "Premium upholstery",
-    "Rear camera & parking sensors",
+    "Electric sunroof / panoramic roof (variant dependent)",
+    "Premium upholstery (leatherette / leather)",
+    "Rear camera with dynamic guidelines",
+    "Cruise control & auto headlamps",
+    "Wireless smartphone charging (variant dependent)",
   ],
   top: [
-    "Advanced safety & ADAS (variant dependent)",
-    "Ventilated / powered seats (variant dependent)",
-    "Wireless charging & connected features",
+    "6 airbags & ESC (variant dependent)",
+    "Ventilated front seats & powered driver seat",
+    "Connected car telematics & OTA updates",
+    "Premium audio system with additional speakers",
+    "ADAS / Level 2 assist (top trims, model dependent)",
   ],
   gt: [
-    "Top powertrain & sport/flagship trim",
-    "Full ADAS & premium convenience pack (variant dependent)",
+    "Flagship powertrain calibration",
+    "Full ADAS suite with lane / brake assist (where offered)",
+    "360° surround-view camera (variant dependent)",
+    "Digital instrument cluster & large touchscreen",
+    "Top-spec convenience & lighting package",
   ],
 };
+
+function variantSpecRows(v) {
+  const rows = [
+    { label: "Trim", value: v.trim },
+    { label: "Engine / battery", value: v.engine },
+    { label: "Cylinders", value: v.cylinders },
+    { label: "Transmission", value: v.transmission },
+    { label: "Drive type", value: v.driveType },
+    { label: "Fuel type", value: v.fuelType },
+    { label: "Max power", value: v.power },
+    { label: "Max torque", value: v.torque },
+    { label: "Mileage (ARAI)", value: v.mileage },
+    { label: "Real-world mileage / range", value: v.realWorldMileage },
+    { label: "Kerb weight", value: v.kerbWeight },
+    { label: "Power-to-weight", value: v.powerWeight },
+    { label: "Torque-to-weight", value: v.torqueWeight },
+    { label: "Price type", value: "Ex-showroom, India" },
+  ];
+  return rows.filter((r) => r.value && r.value !== "—");
+}
 
 const V3_BASE = "https://www.v3cars.com";
 
@@ -194,7 +241,15 @@ async function main() {
 
       return {
         id: vid,
-        name: variantDisplayName(raw.name, trim, v.nameSuffix),
+        name: variantDisplayName(
+          raw.name,
+          raw.brand,
+          trim,
+          v.nameSuffix,
+          v.fuelType,
+          v.transmission,
+          v.engine
+        ),
         trim,
         price: priceStr,
         engine: v.engine,
@@ -203,25 +258,50 @@ async function main() {
         power: v.power,
         torque: v.torque,
         mileage: v.mileage,
-        specs: [
-          { label: "Trim", value: v.trim },
-          { label: "Engine", value: v.engine },
-          { label: "Transmission", value: v.transmission },
-          { label: "Fuel Type", value: v.fuelType },
-          { label: "Power", value: v.power },
-          { label: "Torque", value: v.torque },
-          { label: "Mileage (ARAI)", value: v.mileage },
-          { label: "Price Type", value: "Ex-showroom, India" },
-        ],
+        specs: variantSpecRows(v),
         features,
       };
     });
+
+    const registrySafety = (() => {
+      try {
+        const regSrc = fs.readFileSync(
+          path.join(ROOT, "data", "catalog", "model-registry.ts"),
+          "utf8"
+        );
+        const esc = slug.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+        const block = regSrc.match(
+          new RegExp(`slug:\\s*"${esc}"[\\s\\S]*?\\n\\s*\\},`, "m")
+        );
+        if (!block) return [];
+        const items = [];
+        const safetyRe = /"([^"]+)"/g;
+        const safetyBlock = block[0].match(/safety:\s*\[([\s\S]*?)\]/);
+        if (safetyBlock) {
+          let sm;
+          while ((sm = safetyRe.exec(safetyBlock[1])) !== null) items.push(sm[1]);
+        }
+        return items;
+      } catch {
+        return [];
+      }
+    })();
+
+    const safety = [
+      ...new Set([...(raw.safety ?? []), ...registrySafety]),
+    ];
+    if (!safety.length) {
+      safety.push(
+        "Refer to official brochure for variant-wise safety equipment"
+      );
+    }
 
     catalog.push({
       id: id++,
       slug,
       name: raw.name,
       brand: raw.brand,
+      segment: raw.segment ?? "suv-c",
       modelYear: raw.modelYear ?? 2026,
       tagline: raw.tagline,
       image,
@@ -233,10 +313,11 @@ async function main() {
             { label: "Length", value: "—" },
             { label: "Width", value: "—" },
             { label: "Height", value: "—" },
+            { label: "Wheelbase", value: "—" },
+            { label: "Boot space", value: "—" },
+            { label: "Ground clearance", value: "—" },
           ],
-      safety: raw.safety ?? [
-        "Refer to official brochure for safety equipment by variant",
-      ],
+      safety,
       engines: raw.engines?.length ? raw.engines : ["See variant list"],
       variants,
     });

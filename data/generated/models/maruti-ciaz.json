@@ -7,7 +7,7 @@
   "summary": "Comfort-focused sedan with petrol engine.",
   "segment": "sedan",
   "imageUrl": "https://www.nexaexperience.com/-/media/nexa/ciaz/hero/ciaz-hero.jpg",
-  "priceRangeMin": 9.65,
+  "priceRangeMin": 9.09,
   "priceRangeMax": 11.89,
   "dimensions": [
     {
@@ -39,11 +39,30 @@
       "value": "43 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "1462cc (5-speed MT)",
     "1462cc (4-speed TC)"
   ],
   "variants": [
+    {
+      "trim": "Ciaz Sigma",
+      "nameSuffix": "",
+      "priceLakh": 9.09,
+      "fuelType": "Petrol",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "105PS",
+      "torque": "138Nm",
+      "mileage": "20.65kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1060Kg",
+      "powerWeight": "99.06PS/tonne",
+      "torqueWeight": "130.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Ciaz 1.5L Petrol Manual Price List"
+    },
     {
       "trim": "Ciaz Delta",
       "nameSuffix": "",
@@ -54,6 +73,12 @@
       "power": "105PS",
       "torque": "138Nm",
       "mileage": "20.65kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1060Kg",
+      "powerWeight": "99.06PS/tonne",
+      "torqueWeight": "130.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Ciaz 1.5L Petrol Manual Price List"
     },
     {
@@ -66,6 +91,12 @@
       "power": "105PS",
       "torque": "138Nm",
       "mileage": "20.65kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1060Kg",
+      "powerWeight": "99.06PS/tonne",
+      "torqueWeight": "130.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Ciaz 1.5L Petrol Manual Price List"
     },
     {
@@ -78,7 +109,31 @@
       "power": "105PS",
       "torque": "138Nm",
       "mileage": "20.65kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1060Kg",
+      "powerWeight": "99.06PS/tonne",
+      "torqueWeight": "130.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Ciaz 1.5L Petrol Manual Price List"
+    },
+    {
+      "trim": "Ciaz Delta",
+      "nameSuffix": "",
+      "priceLakh": 10.73,
+      "fuelType": "Petrol",
+      "engine": "1462cc",
+      "transmission": "4-speed TC",
+      "power": "105PS",
+      "torque": "138Nm",
+      "mileage": "20.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1060Kg",
+      "powerWeight": "99.06PS/tonne",
+      "torqueWeight": "130.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Ciaz 1.5L  Petrol Automatic Price List"
     },
     {
       "trim": "Ciaz Zeta",
@@ -90,6 +145,12 @@
       "power": "105PS",
       "torque": "138Nm",
       "mileage": "20.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1060Kg",
+      "powerWeight": "99.06PS/tonne",
+      "torqueWeight": "130.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Ciaz 1.5L  Petrol Automatic Price List"
     },
     {
@@ -102,11 +163,15 @@
       "power": "105PS",
       "torque": "138Nm",
       "mileage": "20.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1060Kg",
+      "powerWeight": "99.06PS/tonne",
+      "torqueWeight": "130.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Ciaz 1.5L  Petrol Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:26.483Z",
-  "source": "https://www.v3cars.com/maruti-nexa-cars/ciaz",
-  "v3carsImage": "/cars/maruti-ciaz.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/434070ciaz.png"
+  "syncedAt": "2026-05-17T13:03:15.624Z",
+  "source": "https://www.v3cars.com/maruti-nexa-cars/ciaz"
 }

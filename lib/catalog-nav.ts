@@ -1,4 +1,5 @@
 import { carsCatalog, type CarModel, type CarVariant } from "@/lib/cars";
+import { formatVariantOptionLabel } from "@/lib/variant-label";
 
 export type BrandOption = { brand: string; count: number };
 
@@ -40,6 +41,8 @@ export function getVariantsForModel(slug: string): CarVariant[] {
 }
 
 /** Short label for variant dropdown */
-export function variantLabel(v: CarVariant): string {
+export function variantLabel(v: CarVariant, car?: CarModel): string {
+  const model = car ?? carsCatalog.find((c) => c.variants.some((x) => x.id === v.id));
+  if (model) return formatVariantOptionLabel(model, v);
   return `${v.trim} · ${v.fuelType} · ${v.transmission} · ${v.price}`;
 }

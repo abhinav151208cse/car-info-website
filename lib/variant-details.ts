@@ -4,7 +4,7 @@ import {
   type FeatureCategory,
 } from "@/data/official-features/types";
 import { resolveOfficialFeatures } from "@/data/official-features/resolver";
-import { buildFullVariantSpecs } from "@/lib/variant-specs";
+import { buildVariantSpecGroups } from "@/lib/variant-specs";
 
 export type VariantDetailSection = {
   id: string;
@@ -28,14 +28,15 @@ export function buildVariantDetailSections(
   variant: CarVariant,
   car: CarModel
 ): VariantDetailSection[] {
-  const sections: VariantDetailSection[] = [
-    {
-      id: "specifications",
-      title: "Specifications",
-      type: "specs",
-      specs: buildFullVariantSpecs(variant, car),
-    },
-  ];
+  const sections: VariantDetailSection[] = buildVariantSpecGroups(
+    variant,
+    car
+  ).map((group) => ({
+    id: group.id,
+    title: group.title,
+    type: "specs" as const,
+    specs: group.specs,
+  }));
 
   const features = resolveOfficialFeatures(car.slug, variant);
 

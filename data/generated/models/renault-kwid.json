@@ -7,7 +7,7 @@
   "summary": "Budget hatch with SUV-inspired styling.",
   "segment": "hatch",
   "imageUrl": "https://www.renault.co.in/content/dam/renault/in/models/kwid/kwid-hero.jpg",
-  "priceRangeMin": 4.67,
+  "priceRangeMin": 4.3,
   "priceRangeMax": 5.9,
   "dimensions": [
     {
@@ -39,11 +39,30 @@
       "value": "28 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "999cc (5-speed MT)",
     "999cc (5-speed AMT)"
   ],
   "variants": [
+    {
+      "trim": "RXE",
+      "nameSuffix": "",
+      "priceLakh": 4.3,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "5-speed MT",
+      "power": "68PS",
+      "torque": "91Nm",
+      "mileage": "21.70kmpl",
+      "cylinders": "3",
+      "kerbWeight": "751Kg",
+      "powerWeight": "90.55PS/tonne",
+      "torqueWeight": "121.17Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Renault Kwid 1.0L Petrol Manual Price List"
+    },
     {
       "trim": "RXL (O)",
       "nameSuffix": "",
@@ -54,6 +73,12 @@
       "power": "68PS",
       "torque": "91Nm",
       "mileage": "21.70kmpl",
+      "cylinders": "3",
+      "kerbWeight": "751Kg",
+      "powerWeight": "90.55PS/tonne",
+      "torqueWeight": "121.17Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Renault Kwid 1.0L Petrol Manual Price List"
     },
     {
@@ -66,6 +91,12 @@
       "power": "68PS",
       "torque": "91Nm",
       "mileage": "21.70kmpl",
+      "cylinders": "3",
+      "kerbWeight": "751Kg",
+      "powerWeight": "90.55PS/tonne",
+      "torqueWeight": "121.17Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Renault Kwid 1.0L Petrol Manual Price List"
     },
     {
@@ -78,6 +109,12 @@
       "power": "68PS",
       "torque": "91Nm",
       "mileage": "21.70kmpl",
+      "cylinders": "3",
+      "kerbWeight": "751Kg",
+      "powerWeight": "90.55PS/tonne",
+      "torqueWeight": "121.17Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Renault Kwid 1.0L Petrol Manual Price List"
     },
     {
@@ -90,7 +127,31 @@
       "power": "68PS",
       "torque": "91Nm",
       "mileage": "21.70kmpl",
+      "cylinders": "3",
+      "kerbWeight": "751Kg",
+      "powerWeight": "90.55PS/tonne",
+      "torqueWeight": "121.17Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Renault Kwid 1.0L Petrol Manual Price List"
+    },
+    {
+      "trim": "RXL (O)",
+      "nameSuffix": "",
+      "priceLakh": 5,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "5-speed AMT",
+      "power": "68PS",
+      "torque": "91Nm",
+      "mileage": "22.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "756Kg",
+      "powerWeight": "89.95PS/tonne",
+      "torqueWeight": "120.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Renault Kwid 1.0L  Petrol Automatic Price List"
     },
     {
       "trim": "RXT",
@@ -102,6 +163,12 @@
       "power": "68PS",
       "torque": "91Nm",
       "mileage": "22.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "756Kg",
+      "powerWeight": "89.95PS/tonne",
+      "torqueWeight": "120.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Renault Kwid 1.0L  Petrol Automatic Price List"
     },
     {
@@ -114,6 +181,12 @@
       "power": "68PS",
       "torque": "91Nm",
       "mileage": "22.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "756Kg",
+      "powerWeight": "89.95PS/tonne",
+      "torqueWeight": "120.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Renault Kwid 1.0L  Petrol Automatic Price List"
     },
     {
@@ -126,11 +199,15 @@
       "power": "68PS",
       "torque": "91Nm",
       "mileage": "22.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "756Kg",
+      "powerWeight": "89.95PS/tonne",
+      "torqueWeight": "120.37Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Renault Kwid 1.0L  Petrol Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:43.227Z",
-  "source": "https://www.v3cars.com/renault-cars/kwid",
-  "v3carsImage": "/cars/renault-kwid.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/132630kwid.png"
+  "syncedAt": "2026-05-17T13:03:42.545Z",
+  "source": "https://www.v3cars.com/renault-cars/kwid"
 }

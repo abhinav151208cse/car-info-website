@@ -39,6 +39,9 @@
       "value": "45 litres"
     }
   ],
+  "safety": [
+    "ADAS driver-assistance (top trims)"
+  ],
   "engines": [
     "1497cc (6-speed MT)",
     "1493cc (6-speed MT)"
@@ -54,6 +57,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "15.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1221Kg",
+      "powerWeight": "94.19PS/tonne",
+      "torqueWeight": "117.94Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Carens 1.5L Petrol Manual Price List"
     },
     {
@@ -66,11 +75,15 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "21.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1440Kg",
+      "powerWeight": "80.56PS/tonne",
+      "torqueWeight": "173.61Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Carens 1.5L Diesel Manual Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:26:06.981Z",
-  "source": "https://www.v3cars.com/kia-cars/carens",
-  "v3carsImage": "/cars/kia-carens.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/527030carens.png"
+  "syncedAt": "2026-05-17T13:02:06.376Z",
+  "source": "https://www.v3cars.com/kia-cars/carens"
 }

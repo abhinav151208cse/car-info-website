@@ -7,7 +7,7 @@
   "summary": "SUV with petrol, strong hybrid and AWD options.",
   "segment": "suv-c",
   "imageUrl": "https://www.nexaexperience.com/-/media/nexa/grand-vitara/hero/grand-vitara-hero.jpg",
-  "priceRangeMin": 12.1,
+  "priceRangeMin": 10.77,
   "priceRangeMax": 19.72,
   "dimensions": [
     {
@@ -39,12 +39,31 @@
       "value": "45 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "1462cc (5-speed MT)",
     "1462cc (6-speed TC)",
     "1490cc (CVT)"
   ],
   "variants": [
+    {
+      "trim": "Grand Vitara Sigma",
+      "nameSuffix": "",
+      "priceLakh": 10.77,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "21.11kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1140Kg",
+      "powerWeight": "90.35PS/tonne",
+      "torqueWeight": "121.93Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Manual Price List"
+    },
     {
       "trim": "Grand Vitara Delta",
       "nameSuffix": "",
@@ -55,6 +74,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "21.11kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1140Kg",
+      "powerWeight": "90.35PS/tonne",
+      "torqueWeight": "121.93Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Manual Price List"
     },
     {
@@ -67,6 +92,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "21.11kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1140Kg",
+      "powerWeight": "90.35PS/tonne",
+      "torqueWeight": "121.93Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Manual Price List"
     },
     {
@@ -79,6 +110,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "21.11kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1140Kg",
+      "powerWeight": "90.35PS/tonne",
+      "torqueWeight": "121.93Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Manual Price List"
     },
     {
@@ -91,6 +128,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "21.11kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1140Kg",
+      "powerWeight": "90.35PS/tonne",
+      "torqueWeight": "121.93Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Manual Price List"
     },
     {
@@ -103,6 +146,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "21.11kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1140Kg",
+      "powerWeight": "90.35PS/tonne",
+      "torqueWeight": "121.93Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Manual Price List"
     },
     {
@@ -115,6 +164,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "21.11kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1140Kg",
+      "powerWeight": "90.35PS/tonne",
+      "torqueWeight": "121.93Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Manual Price List"
     },
     {
@@ -127,6 +182,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "21.11kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1140Kg",
+      "powerWeight": "90.35PS/tonne",
+      "torqueWeight": "121.93Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Manual Price List"
     },
     {
@@ -139,6 +200,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "21.11kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1140Kg",
+      "powerWeight": "90.35PS/tonne",
+      "torqueWeight": "121.93Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Manual Price List"
     },
     {
@@ -151,7 +218,31 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "21.11kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1140Kg",
+      "powerWeight": "90.35PS/tonne",
+      "torqueWeight": "121.93Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "Grand Vitara Delta",
+      "nameSuffix": "",
+      "priceLakh": 13.45,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "20.58kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1180Kg",
+      "powerWeight": "87.29PS/tonne",
+      "torqueWeight": "117.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic Price List"
     },
     {
       "trim": "Grand Vitara Zeta",
@@ -163,6 +254,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "20.58kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1180Kg",
+      "powerWeight": "87.29PS/tonne",
+      "torqueWeight": "117.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic Price List"
     },
     {
@@ -175,6 +272,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "20.58kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1180Kg",
+      "powerWeight": "87.29PS/tonne",
+      "torqueWeight": "117.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic Price List"
     },
     {
@@ -187,6 +290,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "20.58kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1180Kg",
+      "powerWeight": "87.29PS/tonne",
+      "torqueWeight": "117.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic Price List"
     },
     {
@@ -199,6 +308,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "20.58kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1180Kg",
+      "powerWeight": "87.29PS/tonne",
+      "torqueWeight": "117.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic Price List"
     },
     {
@@ -211,6 +326,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "20.58kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1180Kg",
+      "powerWeight": "87.29PS/tonne",
+      "torqueWeight": "117.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic Price List"
     },
     {
@@ -223,6 +344,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "20.58kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1180Kg",
+      "powerWeight": "87.29PS/tonne",
+      "torqueWeight": "117.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic Price List"
     },
     {
@@ -235,6 +362,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "20.58kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1180Kg",
+      "powerWeight": "87.29PS/tonne",
+      "torqueWeight": "117.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic Price List"
     },
     {
@@ -247,7 +380,31 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "20.58kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1180Kg",
+      "powerWeight": "87.29PS/tonne",
+      "torqueWeight": "117.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic Price List"
+    },
+    {
+      "trim": "Grand Vitara Delta Plus",
+      "nameSuffix": "",
+      "priceLakh": 16.63,
+      "fuelType": "Hybrid",
+      "engine": "1490cc",
+      "transmission": "CVT",
+      "power": "116PS",
+      "torque": "141Nm",
+      "mileage": "27.97kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.80PS/tonne",
+      "torqueWeight": "112.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Grand Vitara 1.5L Hybrid Automatic Price List"
     },
     {
       "trim": "Grand Vitara Zeta Plus",
@@ -259,6 +416,12 @@
       "power": "116PS",
       "torque": "141Nm",
       "mileage": "27.97kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.80PS/tonne",
+      "torqueWeight": "112.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L Hybrid Automatic Price List"
     },
     {
@@ -271,6 +434,12 @@
       "power": "116PS",
       "torque": "141Nm",
       "mileage": "27.97kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.80PS/tonne",
+      "torqueWeight": "112.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L Hybrid Automatic Price List"
     },
     {
@@ -283,6 +452,12 @@
       "power": "116PS",
       "torque": "141Nm",
       "mileage": "27.97kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.80PS/tonne",
+      "torqueWeight": "112.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L Hybrid Automatic Price List"
     },
     {
@@ -295,6 +470,12 @@
       "power": "116PS",
       "torque": "141Nm",
       "mileage": "27.97kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.80PS/tonne",
+      "torqueWeight": "112.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L Hybrid Automatic Price List"
     },
     {
@@ -307,6 +488,12 @@
       "power": "116PS",
       "torque": "141Nm",
       "mileage": "27.97kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.80PS/tonne",
+      "torqueWeight": "112.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L Hybrid Automatic Price List"
     },
     {
@@ -319,6 +506,12 @@
       "power": "116PS",
       "torque": "141Nm",
       "mileage": "27.97kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.80PS/tonne",
+      "torqueWeight": "112.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L Hybrid Automatic Price List"
     },
     {
@@ -331,6 +524,12 @@
       "power": "116PS",
       "torque": "141Nm",
       "mileage": "27.97kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.80PS/tonne",
+      "torqueWeight": "112.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L Hybrid Automatic Price List"
     },
     {
@@ -343,7 +542,31 @@
       "power": "116PS",
       "torque": "141Nm",
       "mileage": "27.97kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.80PS/tonne",
+      "torqueWeight": "112.80Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L Hybrid Automatic Price List"
+    },
+    {
+      "trim": "Grand Vitara Delta",
+      "nameSuffix": "",
+      "priceLakh": 13,
+      "fuelType": "CNG",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "122Nm",
+      "mileage": "26.60km/kg",
+      "cylinders": "4",
+      "kerbWeight": "1230Kg",
+      "powerWeight": "71.54PS/tonne",
+      "torqueWeight": "99.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  CNG Manual Price List"
     },
     {
       "trim": "Grand Vitara Zeta",
@@ -355,6 +578,12 @@
       "power": "88PS",
       "torque": "122Nm",
       "mileage": "26.60km/kg",
+      "cylinders": "4",
+      "kerbWeight": "1230Kg",
+      "powerWeight": "71.54PS/tonne",
+      "torqueWeight": "99.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  CNG Manual Price List"
     },
     {
@@ -367,7 +596,31 @@
       "power": "88PS",
       "torque": "122Nm",
       "mileage": "26.60km/kg",
+      "cylinders": "4",
+      "kerbWeight": "1230Kg",
+      "powerWeight": "71.54PS/tonne",
+      "torqueWeight": "99.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  CNG Manual Price List"
+    },
+    {
+      "trim": "Grand Vitara Alpha ALLGRIP 4WD",
+      "nameSuffix": "",
+      "priceLakh": 18,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "19.20kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1270Kg",
+      "powerWeight": "81.10PS/tonne",
+      "torqueWeight": "109.45Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic AWD 103PS Price List"
     },
     {
       "trim": "Grand Vitara Alpha ALLGRIP 4WD DT",
@@ -379,6 +632,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "19.20kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1270Kg",
+      "powerWeight": "81.10PS/tonne",
+      "torqueWeight": "109.45Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic AWD 103PS Price List"
     },
     {
@@ -391,6 +650,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "19.20kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1270Kg",
+      "powerWeight": "81.10PS/tonne",
+      "torqueWeight": "109.45Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic AWD 103PS Price List"
     },
     {
@@ -403,11 +668,15 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "19.20kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1270Kg",
+      "powerWeight": "81.10PS/tonne",
+      "torqueWeight": "109.45Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic AWD 103PS Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:27.515Z",
-  "source": "https://www.v3cars.com/maruti-nexa-cars/grand-vitara",
-  "v3carsImage": "/cars/maruti-grand-vitara.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/851474grand-vitara.png"
+  "syncedAt": "2026-05-17T13:03:16.935Z",
+  "source": "https://www.v3cars.com/maruti-nexa-cars/grand-vitara"
 }

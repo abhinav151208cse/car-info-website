@@ -35,6 +35,7 @@
       "value": "129 mm"
     }
   ],
+  "safety": [],
   "engines": [
     "1984cc (7-speed DCT)"
   ],
@@ -49,11 +50,15 @@
       "power": "265PS",
       "torque": "370Nm",
       "mileage": "17.34kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1520Kg",
+      "powerWeight": "174.34PS/tonne",
+      "torqueWeight": "243.42Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Skoda Octavia 2.0L  Turbo Petrol Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:26:51.668Z",
-  "source": "https://www.v3cars.com/skoda-cars/octavia",
-  "v3carsImage": "/cars/skoda-octavia.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/299347octavia-rs.png"
+  "syncedAt": "2026-05-17T13:03:28.463Z",
+  "source": "https://www.v3cars.com/skoda-cars/octavia"
 }

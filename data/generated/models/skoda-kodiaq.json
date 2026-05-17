@@ -7,7 +7,7 @@
   "summary": "Flagship Skoda SUV with petrol engine and ADAS.",
   "segment": "suv-d",
   "imageUrl": "https://www.skoda-auto.co.in/content/dam/skoda/in/models/kodiaq/hero/kodiaq-hero.jpg",
-  "priceRangeMin": 44.99,
+  "priceRangeMin": 36.99,
   "priceRangeMax": 46.99,
   "dimensions": [
     {
@@ -39,10 +39,31 @@
       "value": "62 litres"
     }
   ],
+  "safety": [
+    "ADAS driver-assistance (top trims)"
+  ],
   "engines": [
     "1984cc (7-speed DCT)"
   ],
   "variants": [
+    {
+      "trim": "Lounge",
+      "nameSuffix": "",
+      "priceLakh": 36.99,
+      "fuelType": "Petrol",
+      "engine": "1984cc",
+      "transmission": "7-speed DCT",
+      "power": "204PS",
+      "torque": "320Nm",
+      "mileage": "14.86kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1820Kg",
+      "powerWeight": "112.09PS/tonne",
+      "torqueWeight": "175.82Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Skoda Kodiaq 2.0L Turbo Petrol Automatic Price List"
+    },
     {
       "trim": "Sportline",
       "nameSuffix": "",
@@ -53,6 +74,12 @@
       "power": "204PS",
       "torque": "320Nm",
       "mileage": "14.86kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1820Kg",
+      "powerWeight": "112.09PS/tonne",
+      "torqueWeight": "175.82Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Skoda Kodiaq 2.0L Turbo Petrol Automatic Price List"
     },
     {
@@ -65,11 +92,15 @@
       "power": "204PS",
       "torque": "320Nm",
       "mileage": "14.86kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1820Kg",
+      "powerWeight": "112.09PS/tonne",
+      "torqueWeight": "175.82Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Skoda Kodiaq 2.0L Turbo Petrol Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:33.758Z",
-  "source": "https://www.v3cars.com/skoda-cars/kodiaq",
-  "v3carsImage": "/cars/skoda-kodiaq.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/835877kodiaq.png"
+  "syncedAt": "2026-05-17T13:03:27.440Z",
+  "source": "https://www.v3cars.com/skoda-cars/kodiaq"
 }

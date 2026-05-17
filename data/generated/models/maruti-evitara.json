@@ -7,7 +7,7 @@
   "summary": "Maruti's first mass-market electric SUV.",
   "segment": "ev",
   "imageUrl": "https://www.nexaexperience.com/-/media/nexa/evitara/hero/evitara-hero.jpg",
-  "priceRangeMin": 19.79,
+  "priceRangeMin": 15.99,
   "priceRangeMax": 20.01,
   "dimensions": [
     {
@@ -31,8 +31,47 @@
       "value": "180 mm"
     }
   ],
+  "safety": [
+    "5-star Bharat NCAP safety rating"
+  ],
   "engines": [],
   "variants": [
+    {
+      "trim": "eVitara Delta 49kWh",
+      "nameSuffix": "",
+      "priceLakh": 15.99,
+      "fuelType": "Petrol",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki eVitara Range 440km | 7.4kW AC | FWD Price List"
+    },
+    {
+      "trim": "eVitara Zeta 61kWh",
+      "nameSuffix": "",
+      "priceLakh": 17.49,
+      "fuelType": "Petrol",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki eVitara Range 543km | 7.4kW AC | FWD Price List"
+    },
     {
       "trim": "eVitara Alpha 61kWh",
       "nameSuffix": "",
@@ -43,6 +82,12 @@
       "power": "—",
       "torque": "—",
       "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki eVitara Range 543km | 7.4kW AC | FWD Price List"
     },
     {
@@ -55,11 +100,15 @@
       "power": "—",
       "torque": "—",
       "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki eVitara Range 543km | 7.4kW AC | FWD Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:30.689Z",
-  "source": "https://www.v3cars.com/maruti-nexa-cars/evitara",
-  "v3carsImage": "/cars/maruti-evitara.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/792643e-vitara.png"
+  "syncedAt": "2026-05-17T13:03:22.352Z",
+  "source": "https://www.v3cars.com/maruti-nexa-cars/evitara"
 }

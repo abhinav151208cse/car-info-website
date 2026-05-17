@@ -7,7 +7,7 @@
   "summary": "Premium Innova with petrol hybrid powertrain.",
   "segment": "muv",
   "imageUrl": "https://www.toyota.co.in/content/dam/toyota/in/models/innova-hycross/hycross-hero.jpg",
-  "priceRangeMin": 18.38,
+  "priceRangeMin": 18.33,
   "priceRangeMax": 31.3,
   "dimensions": [
     {
@@ -39,10 +39,31 @@
       "value": "52 litres"
     }
   ],
+  "safety": [
+    "5-star Bharat NCAP safety rating"
+  ],
   "engines": [
     "1987cc (CVT)"
   ],
   "variants": [
+    {
+      "trim": "G FLT 7S",
+      "nameSuffix": "",
+      "priceLakh": 18.33,
+      "fuelType": "Petrol",
+      "engine": "1987cc",
+      "transmission": "CVT",
+      "power": "174PS",
+      "torque": "204Nm",
+      "mileage": "16.13kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1730Kg",
+      "powerWeight": "100.58PS/tonne",
+      "torqueWeight": "117.92Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Toyota Innova Hycross 2.0L Petrol Automatic Price List"
+    },
     {
       "trim": "G FLT 8S",
       "nameSuffix": "",
@@ -53,6 +74,12 @@
       "power": "174PS",
       "torque": "204Nm",
       "mileage": "16.13kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1730Kg",
+      "powerWeight": "100.58PS/tonne",
+      "torqueWeight": "117.92Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Innova Hycross 2.0L Petrol Automatic Price List"
     },
     {
@@ -65,6 +92,12 @@
       "power": "174PS",
       "torque": "204Nm",
       "mileage": "16.13kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1730Kg",
+      "powerWeight": "100.58PS/tonne",
+      "torqueWeight": "117.92Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Innova Hycross 2.0L Petrol Automatic Price List"
     },
     {
@@ -77,6 +110,12 @@
       "power": "174PS",
       "torque": "204Nm",
       "mileage": "16.13kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1730Kg",
+      "powerWeight": "100.58PS/tonne",
+      "torqueWeight": "117.92Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Innova Hycross 2.0L Petrol Automatic Price List"
     },
     {
@@ -89,6 +128,12 @@
       "power": "174PS",
       "torque": "204Nm",
       "mileage": "16.13kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1730Kg",
+      "powerWeight": "100.58PS/tonne",
+      "torqueWeight": "117.92Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Innova Hycross 2.0L Petrol Automatic Price List"
     },
     {
@@ -101,7 +146,31 @@
       "power": "174PS",
       "torque": "204Nm",
       "mileage": "16.13kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1730Kg",
+      "powerWeight": "100.58PS/tonne",
+      "torqueWeight": "117.92Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Innova Hycross 2.0L Petrol Automatic Price List"
+    },
+    {
+      "trim": "VX 7S",
+      "nameSuffix": "",
+      "priceLakh": 26.3,
+      "fuelType": "Hybrid",
+      "engine": "1987cc",
+      "transmission": "CVT",
+      "power": "186PS",
+      "torque": "206Nm",
+      "mileage": "21.10kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1730Kg",
+      "powerWeight": "107.51PS/tonne",
+      "torqueWeight": "119.08Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Toyota Innova Hycross 2.0L Hybrid Automatic Price List"
     },
     {
       "trim": "VX 8S",
@@ -113,6 +182,12 @@
       "power": "186PS",
       "torque": "206Nm",
       "mileage": "21.10kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1730Kg",
+      "powerWeight": "107.51PS/tonne",
+      "torqueWeight": "119.08Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Innova Hycross 2.0L Hybrid Automatic Price List"
     },
     {
@@ -125,6 +200,12 @@
       "power": "186PS",
       "torque": "206Nm",
       "mileage": "21.10kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1730Kg",
+      "powerWeight": "107.51PS/tonne",
+      "torqueWeight": "119.08Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Innova Hycross 2.0L Hybrid Automatic Price List"
     },
     {
@@ -137,6 +218,12 @@
       "power": "186PS",
       "torque": "206Nm",
       "mileage": "21.10kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1730Kg",
+      "powerWeight": "107.51PS/tonne",
+      "torqueWeight": "119.08Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Innova Hycross 2.0L Hybrid Automatic Price List"
     },
     {
@@ -149,6 +236,12 @@
       "power": "186PS",
       "torque": "206Nm",
       "mileage": "21.10kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1730Kg",
+      "powerWeight": "107.51PS/tonne",
+      "torqueWeight": "119.08Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Innova Hycross 2.0L Hybrid Automatic Price List"
     },
     {
@@ -161,11 +254,15 @@
       "power": "186PS",
       "torque": "206Nm",
       "mileage": "21.10kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1730Kg",
+      "powerWeight": "107.51PS/tonne",
+      "torqueWeight": "119.08Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Innova Hycross 2.0L Hybrid Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:38.385Z",
-  "source": "https://www.v3cars.com/toyota-cars/innova-hycross",
-  "v3carsImage": "/cars/toyota-innova-hycross.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/701749innova-hycross.png"
+  "syncedAt": "2026-05-17T13:03:34.636Z",
+  "source": "https://www.v3cars.com/toyota-cars/innova-hycross"
 }

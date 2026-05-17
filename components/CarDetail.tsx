@@ -10,6 +10,11 @@ import {
   countDetailItems,
 } from "@/lib/variant-details";
 import { onCarImageError } from "@/lib/image-fallback";
+import SearchableSelect from "@/components/SearchableSelect";
+import {
+  buildVariantSelectOptions,
+  formatVariantDisplayName,
+} from "@/lib/variant-label";
 
 type Props = {
   car: CarModel;
@@ -28,6 +33,8 @@ export default function CarDetail({ car }: Props) {
 
   const variant =
     car.variants.find((v) => v.id === selectedId) ?? car.variants[0];
+
+  const variantOptions = useMemo(() => buildVariantSelectOptions(car), [car]);
 
   const detailSections = useMemo(
     () => buildVariantDetailSections(variant, car),
@@ -76,6 +83,41 @@ export default function CarDetail({ car }: Props) {
                   {car.summary}
                 </p>
 
+                <div className="mt-6 rounded-xl border border-slate-200 bg-slate-50 p-4 sm:p-5">
+                  <h2 className="text-lg font-semibold text-slate-900">
+                    Selected variant snapshot
+                  </h2>
+                  <dl className="mt-3 grid grid-cols-2 gap-3 text-sm sm:grid-cols-3">
+                    {[
+                      { label: "Engine", value: variant.engine },
+                      { label: "Transmission", value: variant.transmission },
+                      { label: "Fuel", value: variant.fuelType },
+                      { label: "Power", value: variant.power },
+                      { label: "Torque", value: variant.torque },
+                      { label: "ARAI mileage", value: variant.mileage },
+                      ...(variant.kerbWeight && variant.kerbWeight !== "—"
+                        ? [{ label: "Kerb weight", value: variant.kerbWeight }]
+                        : []),
+                      ...(variant.realWorldMileage &&
+                      variant.realWorldMileage !== "—"
+                        ? [
+                            {
+                              label: "Real-world",
+                              value: variant.realWorldMileage,
+                            },
+                          ]
+                        : []),
+                    ].map((item) => (
+                      <div key={item.label}>
+                        <dt className="text-xs text-slate-500">{item.label}</dt>
+                        <dd className="font-medium text-slate-900">
+                          {item.value}
+                        </dd>
+                      </div>
+                    ))}
+                  </dl>
+                </div>
+
                 <div className="mt-6">
                   <h2 className="text-lg font-semibold text-slate-900">
                     Engine options
@@ -89,7 +131,7 @@ export default function CarDetail({ car }: Props) {
 
                 <div className="mt-6">
                   <h2 className="text-lg font-semibold text-slate-900">
-                    Dimensions
+                    Dimensions & capacity
                   </h2>
                   <dl className="mt-3 grid grid-cols-2 gap-3 sm:grid-cols-3">
                     {car.dimensions.map((item) => (
@@ -108,7 +150,7 @@ export default function CarDetail({ car }: Props) {
 
                 <div className="mt-6">
                   <h2 className="text-lg font-semibold text-slate-900">
-                    Safety
+                    Safety highlights
                   </h2>
                   <ul className="mt-2 list-inside list-disc space-y-1 text-slate-600">
                     {car.safety.map((item) => (
@@ -123,28 +165,18 @@ export default function CarDetail({ car }: Props) {
           <aside className="lg:col-span-2">
             <div className="sticky top-24 space-y-6">
               <div className="rounded-2xl bg-white p-6 shadow">
-                <label
-                  htmlFor="variant-select"
-                  className="block text-sm font-semibold text-slate-900"
-                >
-                  Select variant
-                </label>
-                <select
+                <SearchableSelect
                   id="variant-select"
+                  label="Select variant"
+                  labelClassName="block text-sm font-semibold text-slate-900"
+                  className="mt-2"
                   value={selectedId}
-                  onChange={(e) => setSelectedId(e.target.value)}
-                  className="mt-2 w-full rounded-lg border border-slate-300 bg-white px-3 py-2.5 text-sm text-slate-900 focus:border-slate-900 focus:outline-none focus:ring-1 focus:ring-slate-900"
-                >
-                  {car.variants.map((v) => (
-                    <option key={v.id} value={v.id}>
-                      {v.name} — {v.price}
-                    </option>
-                  ))}
-                </select>
-                <p className="mt-2 text-xs text-slate-500">
-                  {car.variants.length} variants · ex-showroom (India) · features
-                  aligned to official trim sheets
-                </p>
+                  onChange={setSelectedId}
+                  options={variantOptions}
+                  searchPlaceholder="Search…"
+                  triggerClassName="focus:border-slate-900 focus:ring-1 focus:ring-slate-900"
+                  hint={`${car.variants.length} variants · ex-showroom (India) · features aligned to official trim sheets`}
+                />
                 <div className="mt-4">
                   <AddToCompareButton
                     entry={{
@@ -158,7 +190,9 @@ export default function CarDetail({ car }: Props) {
 
               <div className="flex max-h-[min(640px,75vh)] flex-col rounded-2xl bg-slate-900 p-6 text-white shadow">
                 <p className="shrink-0 text-sm text-slate-400">{variant.trim}</p>
-                <h2 className="mt-1 shrink-0 text-xl font-bold">{variant.name}</h2>
+                <h2 className="mt-1 shrink-0 text-xl font-bold">
+                  {formatVariantDisplayName(car, variant)}
+                </h2>
                 <p className="mt-2 shrink-0 text-2xl font-bold text-white">
                   {variant.price}
                 </p>

@@ -7,7 +7,7 @@
   "summary": "Sub-4m SUV with petrol and strong hybrid powertrains.",
   "segment": "suv-b",
   "imageUrl": "https://www.marutisuzuki.com/-/media/marutisuzuki/india/vehicles/brezza/hero/brezza-hero.jpg",
-  "priceRangeMin": 9.26,
+  "priceRangeMin": 8.26,
   "priceRangeMax": 13.01,
   "dimensions": [
     {
@@ -39,11 +39,32 @@
       "value": "48 litres"
     }
   ],
+  "safety": [
+    "6 airbags (variant dependent)"
+  ],
   "engines": [
     "1462cc (5-speed MT)",
     "1462cc (6-speed TC)"
   ],
   "variants": [
+    {
+      "trim": "Brezza LXi",
+      "nameSuffix": "",
+      "priceLakh": 8.26,
+      "fuelType": "Petrol",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "101PS",
+      "torque": "137Nm",
+      "mileage": "17.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1130Kg",
+      "powerWeight": "89.38PS/tonne",
+      "torqueWeight": "121.24Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Brezza 1.5L Petrol Manual Price List"
+    },
     {
       "trim": "Brezza VXi",
       "nameSuffix": "",
@@ -54,7 +75,31 @@
       "power": "101PS",
       "torque": "137Nm",
       "mileage": "17.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1130Kg",
+      "powerWeight": "89.38PS/tonne",
+      "torqueWeight": "121.24Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Brezza 1.5L Petrol Manual Price List"
+    },
+    {
+      "trim": "Brezza VXi",
+      "nameSuffix": "",
+      "priceLakh": 10.6,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "19.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1130Kg",
+      "powerWeight": "91.15PS/tonne",
+      "torqueWeight": "123.01Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Brezza 1.5L Mild Hybrid Petrol Automatic Price List"
     },
     {
       "trim": "Brezza ZXi",
@@ -66,6 +111,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "19.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1130Kg",
+      "powerWeight": "91.15PS/tonne",
+      "torqueWeight": "123.01Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Brezza 1.5L Mild Hybrid Petrol Automatic Price List"
     },
     {
@@ -78,6 +129,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "19.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1130Kg",
+      "powerWeight": "91.15PS/tonne",
+      "torqueWeight": "123.01Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Brezza 1.5L Mild Hybrid Petrol Automatic Price List"
     },
     {
@@ -90,6 +147,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "19.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1130Kg",
+      "powerWeight": "91.15PS/tonne",
+      "torqueWeight": "123.01Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Brezza 1.5L Mild Hybrid Petrol Automatic Price List"
     },
     {
@@ -102,7 +165,31 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "19.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1130Kg",
+      "powerWeight": "91.15PS/tonne",
+      "torqueWeight": "123.01Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Brezza 1.5L Mild Hybrid Petrol Automatic Price List"
+    },
+    {
+      "trim": "Brezza LXi",
+      "nameSuffix": "",
+      "priceLakh": 9.17,
+      "fuelType": "CNG",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "122Nm",
+      "mileage": "25.51km/kg",
+      "cylinders": "4",
+      "kerbWeight": "1130Kg",
+      "powerWeight": "77.88PS/tonne",
+      "torqueWeight": "107.52Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Brezza 1.5L  CNG Manual Price List"
     },
     {
       "trim": "Brezza VXi",
@@ -114,6 +201,12 @@
       "power": "88PS",
       "torque": "122Nm",
       "mileage": "25.51km/kg",
+      "cylinders": "4",
+      "kerbWeight": "1130Kg",
+      "powerWeight": "77.88PS/tonne",
+      "torqueWeight": "107.52Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Brezza 1.5L  CNG Manual Price List"
     },
     {
@@ -126,6 +219,12 @@
       "power": "88PS",
       "torque": "122Nm",
       "mileage": "25.51km/kg",
+      "cylinders": "4",
+      "kerbWeight": "1130Kg",
+      "powerWeight": "77.88PS/tonne",
+      "torqueWeight": "107.52Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Brezza 1.5L  CNG Manual Price List"
     },
     {
@@ -138,7 +237,31 @@
       "power": "88PS",
       "torque": "122Nm",
       "mileage": "25.51km/kg",
+      "cylinders": "4",
+      "kerbWeight": "1130Kg",
+      "powerWeight": "77.88PS/tonne",
+      "torqueWeight": "107.52Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Brezza 1.5L  CNG Manual Price List"
+    },
+    {
+      "trim": "Brezza ZXi",
+      "nameSuffix": "",
+      "priceLakh": 10.4,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "19.89kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1130Kg",
+      "powerWeight": "91.15PS/tonne",
+      "torqueWeight": "123.01Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Brezza 1.5L  Mild Hybrid Petrol Manual Price List"
     },
     {
       "trim": "Brezza ZXi DT",
@@ -150,6 +273,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "19.89kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1130Kg",
+      "powerWeight": "91.15PS/tonne",
+      "torqueWeight": "123.01Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Brezza 1.5L  Mild Hybrid Petrol Manual Price List"
     },
     {
@@ -162,6 +291,12 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "19.89kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1130Kg",
+      "powerWeight": "91.15PS/tonne",
+      "torqueWeight": "123.01Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Brezza 1.5L  Mild Hybrid Petrol Manual Price List"
     },
     {
@@ -174,11 +309,15 @@
       "power": "103PS",
       "torque": "139Nm",
       "mileage": "19.89kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1130Kg",
+      "powerWeight": "91.15PS/tonne",
+      "torqueWeight": "123.01Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Brezza 1.5L  Mild Hybrid Petrol Manual Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:19.797Z",
-  "source": "https://www.v3cars.com/maruti-arena-cars/brezza",
-  "v3carsImage": "/cars/maruti-brezza.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/370871brezza.png"
+  "syncedAt": "2026-05-17T13:03:05.517Z",
+  "source": "https://www.v3cars.com/maruti-arena-cars/brezza"
 }

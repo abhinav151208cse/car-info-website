@@ -7,7 +7,7 @@
   "summary": "Ertiga-based MPV with captain seats in second row.",
   "segment": "muv",
   "imageUrl": "https://www.nexaexperience.com/-/media/nexa/xl6/hero/xl6-hero.jpg",
-  "priceRangeMin": 12.49,
+  "priceRangeMin": 11.52,
   "priceRangeMax": 14.32,
   "dimensions": [
     {
@@ -39,11 +39,30 @@
       "value": "45 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "1462cc (5-speed MT)",
     "1462cc (6-speed TC)"
   ],
   "variants": [
+    {
+      "trim": "XL6 Zeta",
+      "nameSuffix": "",
+      "priceLakh": 11.52,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "137Nm",
+      "mileage": "20.97kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1200Kg",
+      "powerWeight": "85.83PS/tonne",
+      "torqueWeight": "114.17Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki XL6 1.5L Mild Hybrid Petrol Manual Price List"
+    },
     {
       "trim": "XL6 Alpha",
       "nameSuffix": "",
@@ -54,6 +73,12 @@
       "power": "103PS",
       "torque": "137Nm",
       "mileage": "20.97kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1200Kg",
+      "powerWeight": "85.83PS/tonne",
+      "torqueWeight": "114.17Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki XL6 1.5L Mild Hybrid Petrol Manual Price List"
     },
     {
@@ -66,7 +91,31 @@
       "power": "103PS",
       "torque": "137Nm",
       "mileage": "20.97kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1200Kg",
+      "powerWeight": "85.83PS/tonne",
+      "torqueWeight": "114.17Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki XL6 1.5L Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "XL6 Zeta",
+      "nameSuffix": "",
+      "priceLakh": 12.87,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "137Nm",
+      "mileage": "20.27kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1225Kg",
+      "powerWeight": "84.08PS/tonne",
+      "torqueWeight": "111.84Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki XL6 1.5L Mild Hybrid Petrol Automatic Price List"
     },
     {
       "trim": "XL6 Alpha",
@@ -78,6 +127,12 @@
       "power": "103PS",
       "torque": "137Nm",
       "mileage": "20.27kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1225Kg",
+      "powerWeight": "84.08PS/tonne",
+      "torqueWeight": "111.84Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki XL6 1.5L Mild Hybrid Petrol Automatic Price List"
     },
     {
@@ -90,11 +145,33 @@
       "power": "103PS",
       "torque": "137Nm",
       "mileage": "20.27kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1225Kg",
+      "powerWeight": "84.08PS/tonne",
+      "torqueWeight": "111.84Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki XL6 1.5L Mild Hybrid Petrol Automatic Price List"
+    },
+    {
+      "trim": "XL6 Zeta",
+      "nameSuffix": "",
+      "priceLakh": 12.43,
+      "fuelType": "CNG",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "122Nm",
+      "mileage": "26.32km/kg",
+      "cylinders": "4",
+      "kerbWeight": "1275Kg",
+      "powerWeight": "68.89PS/tonne",
+      "torqueWeight": "95.29Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki XL6 1.5L CNG Manual Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:28.357Z",
-  "source": "https://www.v3cars.com/maruti-nexa-cars/xl6",
-  "v3carsImage": "/cars/maruti-xl6.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/368056xl6.png"
+  "syncedAt": "2026-05-17T13:03:18.236Z",
+  "source": "https://www.v3cars.com/maruti-nexa-cars/xl6"
 }

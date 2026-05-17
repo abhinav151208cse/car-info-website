@@ -31,6 +31,7 @@
       "value": "627 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "2199cc (8-speed TC)"
   ],
@@ -45,11 +46,15 @@
       "power": "193PS",
       "torque": "441Nm",
       "mileage": "14.85kmpl",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Carnival 2.2L Diesel Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:26:47.011Z",
-  "source": "https://www.v3cars.com/kia-cars/carnival",
-  "v3carsImage": "/cars/kia-carnival.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/265488carnival.png"
+  "syncedAt": "2026-05-17T13:02:07.618Z",
+  "source": "https://www.v3cars.com/kia-cars/carnival"
 }

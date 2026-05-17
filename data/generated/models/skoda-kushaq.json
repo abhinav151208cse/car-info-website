@@ -7,7 +7,7 @@
   "summary": "Mid-size SUV with 1.0 and 1.5 TSI engines.",
   "segment": "suv-c",
   "imageUrl": "https://www.skoda-auto.co.in/content/dam/skoda/in/models/kushaq/hero/kushaq-hero.jpg",
-  "priceRangeMin": 14.59,
+  "priceRangeMin": 10.69,
   "priceRangeMax": 18.99,
   "dimensions": [
     {
@@ -39,12 +39,31 @@
       "value": "50 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "999cc (6-speed MT)",
     "999cc (8-speed TC)",
     "1498cc (7-speed DCT)"
   ],
   "variants": [
+    {
+      "trim": "Classic+",
+      "nameSuffix": "",
+      "priceLakh": 10.69,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.66kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1232Kg",
+      "powerWeight": "94.16PS/tonne",
+      "torqueWeight": "144.48Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Skoda Kushaq 1.0L  Turbo Petrol Manual Price List"
+    },
     {
       "trim": "Signature",
       "nameSuffix": "",
@@ -55,6 +74,12 @@
       "power": "116PS",
       "torque": "178Nm",
       "mileage": "19.66kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1232Kg",
+      "powerWeight": "94.16PS/tonne",
+      "torqueWeight": "144.48Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Skoda Kushaq 1.0L  Turbo Petrol Manual Price List"
     },
     {
@@ -67,6 +92,12 @@
       "power": "116PS",
       "torque": "178Nm",
       "mileage": "19.66kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1232Kg",
+      "powerWeight": "94.16PS/tonne",
+      "torqueWeight": "144.48Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Skoda Kushaq 1.0L  Turbo Petrol Manual Price List"
     },
     {
@@ -79,7 +110,31 @@
       "power": "116PS",
       "torque": "178Nm",
       "mileage": "19.66kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1232Kg",
+      "powerWeight": "94.16PS/tonne",
+      "torqueWeight": "144.48Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Skoda Kushaq 1.0L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Classic+",
+      "nameSuffix": "",
+      "priceLakh": 12.69,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "8-speed TC",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.09kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1270Kg",
+      "powerWeight": "91.34PS/tonne",
+      "torqueWeight": "140.16Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Skoda Kushaq 1.0L  Turbo Petrol Automatic Price List"
     },
     {
       "trim": "Signature",
@@ -91,6 +146,12 @@
       "power": "116PS",
       "torque": "178Nm",
       "mileage": "19.09kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1270Kg",
+      "powerWeight": "91.34PS/tonne",
+      "torqueWeight": "140.16Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Skoda Kushaq 1.0L  Turbo Petrol Automatic Price List"
     },
     {
@@ -103,6 +164,12 @@
       "power": "116PS",
       "torque": "178Nm",
       "mileage": "19.09kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1270Kg",
+      "powerWeight": "91.34PS/tonne",
+      "torqueWeight": "140.16Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Skoda Kushaq 1.0L  Turbo Petrol Automatic Price List"
     },
     {
@@ -115,6 +182,12 @@
       "power": "116PS",
       "torque": "178Nm",
       "mileage": "19.09kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1270Kg",
+      "powerWeight": "91.34PS/tonne",
+      "torqueWeight": "140.16Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Skoda Kushaq 1.0L  Turbo Petrol Automatic Price List"
     },
     {
@@ -127,7 +200,31 @@
       "power": "116PS",
       "torque": "178Nm",
       "mileage": "19.09kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1270Kg",
+      "powerWeight": "91.34PS/tonne",
+      "torqueWeight": "140.16Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Skoda Kushaq 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Prestige (150PS)",
+      "nameSuffix": "",
+      "priceLakh": 18.79,
+      "fuelType": "Petrol",
+      "engine": "1498cc",
+      "transmission": "7-speed DCT",
+      "power": "150PS",
+      "torque": "250Nm",
+      "mileage": "18.72kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1321Kg",
+      "powerWeight": "113.55PS/tonne",
+      "torqueWeight": "189.25Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Skoda Kushaq 1.5L  Turbo Petrol Automatic Price List"
     },
     {
       "trim": "Monte Carlo (150PS)",
@@ -139,11 +236,15 @@
       "power": "150PS",
       "torque": "250Nm",
       "mileage": "18.72kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1321Kg",
+      "powerWeight": "113.55PS/tonne",
+      "torqueWeight": "189.25Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Skoda Kushaq 1.5L  Turbo Petrol Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:32.281Z",
-  "source": "https://www.v3cars.com/skoda-cars/kushaq",
-  "v3carsImage": "/cars/skoda-kushaq.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/448057kushaq.png"
+  "syncedAt": "2026-05-17T13:03:24.754Z",
+  "source": "https://www.v3cars.com/skoda-cars/kushaq"
 }

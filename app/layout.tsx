@@ -15,9 +15,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CarInfo — 2026 Cars India",
+  title: "AutoVerse — 2026 Cars India",
   description:
-    "Compare 2026 Kia Seltos, Hyundai Creta, Tata Nexon, Punch, Venue, and Skoda Kylaq variants, prices, and specifications.",
+    "AutoVerse — compare 2026 car variants, ex-showroom prices, and specifications across Kia, Tata, Hyundai, Maruti, Skoda, Toyota, and more.",
 };
 
 export default function RootLayout({

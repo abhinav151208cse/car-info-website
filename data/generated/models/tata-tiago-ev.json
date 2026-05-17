@@ -7,7 +7,7 @@
   "summary": "City EV based on the Tiago platform.",
   "segment": "ev",
   "imageUrl": "https://www.tatamotors.com/content/dam/tata-motors/passenger-vehicles/tiago/tiago-ev/hero/tiago-ev-hero-desktop.jpg",
-  "priceRangeMin": 8.99,
+  "priceRangeMin": 7.99,
   "priceRangeMax": 11.14,
   "dimensions": [
     {
@@ -35,8 +35,27 @@
       "value": "166 mm"
     }
   ],
+  "safety": [],
   "engines": [],
   "variants": [
+    {
+      "trim": "XE",
+      "nameSuffix": "",
+      "priceLakh": 7.99,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Tiago EV Range 250km | 3.3kW AC | FWD Price List"
+    },
     {
       "trim": "XT",
       "nameSuffix": "",
@@ -47,7 +66,31 @@
       "power": "—",
       "torque": "—",
       "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Tiago EV Range 250km | 3.3kW AC | FWD Price List"
+    },
+    {
+      "trim": "XT",
+      "nameSuffix": "",
+      "priceLakh": 10.14,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Tiago EV Range 315km | 7.2kW AC | FWD Price List"
     },
     {
       "trim": "XZ Plus Tech LUX",
@@ -59,11 +102,15 @@
       "power": "—",
       "torque": "—",
       "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Tiago EV Range 315km | 7.2kW AC | FWD Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:02.666Z",
-  "source": "https://www.v3cars.com/tata-cars/tiago-ev",
-  "v3carsImage": "/cars/tata-tiago-ev.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/777402tiago-ev.png"
+  "syncedAt": "2026-05-17T13:02:27.430Z",
+  "source": "https://www.v3cars.com/tata-cars/tiago-ev"
 }

@@ -7,7 +7,7 @@
   "summary": "Stylish mid-size SUV-coupe with petrol, diesel and EV options.",
   "segment": "suv-c",
   "imageUrl": "https://www.tatamotors.com/content/dam/tata-motors/passenger-vehicles/curvv/curvv-ice/hero/curvv-hero-desktop.jpg",
-  "priceRangeMin": 11,
+  "priceRangeMin": 9.7,
   "priceRangeMax": 18.9,
   "dimensions": [
     {
@@ -39,6 +39,7 @@
       "value": "44 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "1199cc (7-speed DCT)",
     "1199cc (6-speed MT)",
@@ -46,6 +47,24 @@
     "1497cc (7-speed DCT)"
   ],
   "variants": [
+    {
+      "trim": "Pure Plus",
+      "nameSuffix": "",
+      "priceLakh": 12.5,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "170Nm",
+      "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Curvv 1.2L  Turbo Petrol Automatic Price List"
+    },
     {
       "trim": "Pure Plus S",
       "nameSuffix": "",
@@ -56,6 +75,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.2L  Turbo Petrol Automatic Price List"
     },
     {
@@ -68,6 +93,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.2L  Turbo Petrol Automatic Price List"
     },
     {
@@ -80,6 +111,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.2L  Turbo Petrol Automatic Price List"
     },
     {
@@ -92,6 +129,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.2L  Turbo Petrol Automatic Price List"
     },
     {
@@ -104,7 +147,31 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.2L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Smart",
+      "nameSuffix": "",
+      "priceLakh": 9.7,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "6-speed MT",
+      "power": "120PS",
+      "torque": "170Nm",
+      "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Curvv 1.2L  Turbo Petrol Manual Price List"
     },
     {
       "trim": "Pure Plus",
@@ -116,6 +183,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.2L  Turbo Petrol Manual Price List"
     },
     {
@@ -128,6 +201,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.2L  Turbo Petrol Manual Price List"
     },
     {
@@ -140,6 +219,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.2L  Turbo Petrol Manual Price List"
     },
     {
@@ -152,6 +237,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.2L  Turbo Petrol Manual Price List"
     },
     {
@@ -164,6 +255,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.2L  Turbo Petrol Manual Price List"
     },
     {
@@ -176,7 +273,31 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.2L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Creative S (125PS)",
+      "nameSuffix": "",
+      "priceLakh": 13.85,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "6-speed MT",
+      "power": "125PS",
+      "torque": "225Nm",
+      "mileage": "-",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Curvv 1.2L Turbo Petrol Manual (125PS) Price List"
     },
     {
       "trim": "Creative Plus S (125PS)",
@@ -188,6 +309,12 @@
       "power": "125PS",
       "torque": "225Nm",
       "mileage": "-",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.2L Turbo Petrol Manual (125PS) Price List"
     },
     {
@@ -200,6 +327,12 @@
       "power": "125PS",
       "torque": "225Nm",
       "mileage": "-",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.2L Turbo Petrol Manual (125PS) Price List"
     },
     {
@@ -212,7 +345,31 @@
       "power": "125PS",
       "torque": "225Nm",
       "mileage": "-",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.2L Turbo Petrol Manual (125PS) Price List"
+    },
+    {
+      "trim": "Creative Plus S (125PS)",
+      "nameSuffix": "",
+      "priceLakh": 16.35,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "7-speed DCT",
+      "power": "125PS",
+      "torque": "225Nm",
+      "mileage": "-",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Curvv 1.2L Turbo Petrol Automatic (125PS) Price List"
     },
     {
       "trim": "Accomplished S (125PS)",
@@ -224,6 +381,12 @@
       "power": "125PS",
       "torque": "225Nm",
       "mileage": "-",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.2L Turbo Petrol Automatic (125PS) Price List"
     },
     {
@@ -236,7 +399,31 @@
       "power": "125PS",
       "torque": "225Nm",
       "mileage": "-",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.2L Turbo Petrol Automatic (125PS) Price List"
+    },
+    {
+      "trim": "Smart",
+      "nameSuffix": "",
+      "priceLakh": 11.2,
+      "fuelType": "Diesel",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "118PS",
+      "torque": "260Nm",
+      "mileage": "22.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Curvv 1.5L Turbo Diesel Manual Price List"
     },
     {
       "trim": "Pure Plus",
@@ -248,6 +435,12 @@
       "power": "118PS",
       "torque": "260Nm",
       "mileage": "22.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.5L Turbo Diesel Manual Price List"
     },
     {
@@ -260,6 +453,12 @@
       "power": "118PS",
       "torque": "260Nm",
       "mileage": "22.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.5L Turbo Diesel Manual Price List"
     },
     {
@@ -272,6 +471,12 @@
       "power": "118PS",
       "torque": "260Nm",
       "mileage": "22.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.5L Turbo Diesel Manual Price List"
     },
     {
@@ -284,6 +489,12 @@
       "power": "118PS",
       "torque": "260Nm",
       "mileage": "22.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.5L Turbo Diesel Manual Price List"
     },
     {
@@ -296,6 +507,12 @@
       "power": "118PS",
       "torque": "260Nm",
       "mileage": "22.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.5L Turbo Diesel Manual Price List"
     },
     {
@@ -308,6 +525,12 @@
       "power": "118PS",
       "torque": "260Nm",
       "mileage": "22.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.5L Turbo Diesel Manual Price List"
     },
     {
@@ -320,7 +543,31 @@
       "power": "118PS",
       "torque": "260Nm",
       "mileage": "22.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.5L Turbo Diesel Manual Price List"
+    },
+    {
+      "trim": "Pure Plus",
+      "nameSuffix": "",
+      "priceLakh": 13.95,
+      "fuelType": "Diesel",
+      "engine": "1497cc",
+      "transmission": "7-speed DCT",
+      "power": "118PS",
+      "torque": "260Nm",
+      "mileage": "22.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Curvv 1.5L Turbo Diesel Automatic Price List"
     },
     {
       "trim": "Pure Plus S",
@@ -332,6 +579,12 @@
       "power": "118PS",
       "torque": "260Nm",
       "mileage": "22.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.5L Turbo Diesel Automatic Price List"
     },
     {
@@ -344,6 +597,12 @@
       "power": "118PS",
       "torque": "260Nm",
       "mileage": "22.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.5L Turbo Diesel Automatic Price List"
     },
     {
@@ -356,6 +615,12 @@
       "power": "118PS",
       "torque": "260Nm",
       "mileage": "22.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.5L Turbo Diesel Automatic Price List"
     },
     {
@@ -368,6 +633,12 @@
       "power": "118PS",
       "torque": "260Nm",
       "mileage": "22.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.5L Turbo Diesel Automatic Price List"
     },
     {
@@ -380,11 +651,15 @@
       "power": "118PS",
       "torque": "260Nm",
       "mileage": "22.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Curvv 1.5L Turbo Diesel Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:18:58.122Z",
-  "source": "https://www.v3cars.com/tata-cars/curvv",
-  "v3carsImage": "/cars/tata-curvv.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/578298curvv.png"
+  "syncedAt": "2026-05-17T13:02:21.478Z",
+  "source": "https://www.v3cars.com/tata-cars/curvv"
 }

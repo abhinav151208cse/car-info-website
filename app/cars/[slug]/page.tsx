@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: Props) {
   const car = getCarBySlug(slug);
   if (!car) return { title: "Car not found" };
   return {
-    title: `${car.name} ${car.modelYear} — Specs & Variants | CarInfo`,
+    title: `${car.name} ${car.modelYear} — Specs & Variants | AutoVerse`,
     description: car.summary,
   };
 }

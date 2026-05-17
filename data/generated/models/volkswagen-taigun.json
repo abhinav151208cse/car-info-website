@@ -7,7 +7,7 @@
   "summary": "Sister model to Kushaq with VW styling.",
   "segment": "suv-c",
   "imageUrl": "https://www.volkswagen.co.in/content/dam/vw/in/models/taigun/taigun-hero.jpg",
-  "priceRangeMin": 12.7,
+  "priceRangeMin": 11,
   "priceRangeMax": 19.3,
   "dimensions": [
     {
@@ -39,12 +39,31 @@
       "value": "50 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "999cc (6-speed MT)",
     "999cc (8-speed TC)",
     "1498cc (7-speed DCT)"
   ],
   "variants": [
+    {
+      "trim": "Comfortline",
+      "nameSuffix": "",
+      "priceLakh": 11,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.98kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1262Kg",
+      "powerWeight": "91.92PS/tonne",
+      "torqueWeight": "141.05Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Volkswagen Taigun 1.0L  Turbo Petrol Manual Price List"
+    },
     {
       "trim": "Highline",
       "nameSuffix": "",
@@ -55,6 +74,12 @@
       "power": "116PS",
       "torque": "178Nm",
       "mileage": "19.98kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1262Kg",
+      "powerWeight": "91.92PS/tonne",
+      "torqueWeight": "141.05Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Volkswagen Taigun 1.0L  Turbo Petrol Manual Price List"
     },
     {
@@ -67,6 +92,12 @@
       "power": "116PS",
       "torque": "178Nm",
       "mileage": "19.98kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1262Kg",
+      "powerWeight": "91.92PS/tonne",
+      "torqueWeight": "141.05Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Volkswagen Taigun 1.0L  Turbo Petrol Manual Price List"
     },
     {
@@ -79,6 +110,12 @@
       "power": "116PS",
       "torque": "178Nm",
       "mileage": "19.98kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1262Kg",
+      "powerWeight": "91.92PS/tonne",
+      "torqueWeight": "141.05Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Volkswagen Taigun 1.0L  Turbo Petrol Manual Price List"
     },
     {
@@ -91,7 +128,31 @@
       "power": "116PS",
       "torque": "178Nm",
       "mileage": "19.98kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1262Kg",
+      "powerWeight": "91.92PS/tonne",
+      "torqueWeight": "141.05Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Volkswagen Taigun 1.0L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Highline",
+      "nameSuffix": "",
+      "priceLakh": 13.8,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "8-speed TC",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.54kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1304Kg",
+      "powerWeight": "88.96PS/tonne",
+      "torqueWeight": "136.50Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Volkswagen Taigun 1.0L  Turbo Petrol Automatic Price List"
     },
     {
       "trim": "Highline Plus",
@@ -103,6 +164,12 @@
       "power": "116PS",
       "torque": "178Nm",
       "mileage": "19.54kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1304Kg",
+      "powerWeight": "88.96PS/tonne",
+      "torqueWeight": "136.50Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Volkswagen Taigun 1.0L  Turbo Petrol Automatic Price List"
     },
     {
@@ -115,6 +182,12 @@
       "power": "116PS",
       "torque": "178Nm",
       "mileage": "19.54kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1304Kg",
+      "powerWeight": "88.96PS/tonne",
+      "torqueWeight": "136.50Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Volkswagen Taigun 1.0L  Turbo Petrol Automatic Price List"
     },
     {
@@ -127,7 +200,31 @@
       "power": "116PS",
       "torque": "178Nm",
       "mileage": "19.54kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1304Kg",
+      "powerWeight": "88.96PS/tonne",
+      "torqueWeight": "136.50Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Volkswagen Taigun 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "GT Plus",
+      "nameSuffix": "",
+      "priceLakh": 19,
+      "fuelType": "Petrol",
+      "engine": "1498cc",
+      "transmission": "7-speed DCT",
+      "power": "150PS",
+      "torque": "250Nm",
+      "mileage": "18.85kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1320Kg",
+      "powerWeight": "113.64PS/tonne",
+      "torqueWeight": "189.39Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Volkswagen Taigun 1.5L  Turbo Petrol Automatic Price List"
     },
     {
       "trim": "GT Plus Sport",
@@ -139,11 +236,15 @@
       "power": "150PS",
       "torque": "250Nm",
       "mileage": "18.85kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1320Kg",
+      "powerWeight": "113.64PS/tonne",
+      "torqueWeight": "189.39Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Volkswagen Taigun 1.5L  Turbo Petrol Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:47.125Z",
-  "source": "https://www.v3cars.com/volkswagen-cars/taigun",
-  "v3carsImage": "/cars/volkswagen-taigun.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/250254taigun.png"
+  "syncedAt": "2026-05-17T13:03:48.896Z",
+  "source": "https://www.v3cars.com/volkswagen-cars/taigun"
 }

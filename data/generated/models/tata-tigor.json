@@ -7,7 +7,7 @@
   "summary": "Sub-4m sedan available in petrol, CNG and EV.",
   "segment": "sedan",
   "imageUrl": "https://www.tatamotors.com/content/dam/tata-motors/passenger-vehicles/tigor/tigor-ice/hero/tigor-hero-desktop.jpg",
-  "priceRangeMin": 6.28,
+  "priceRangeMin": 5.55,
   "priceRangeMax": 8.84,
   "dimensions": [
     {
@@ -39,11 +39,32 @@
       "value": "70 litres"
     }
   ],
+  "safety": [
+    "360° camera (select trims)"
+  ],
   "engines": [
     "1199cc (5-speed MT)",
     "1199cc (5-speed AMT)"
   ],
   "variants": [
+    {
+      "trim": "XM",
+      "nameSuffix": "",
+      "priceLakh": 5.55,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "86PS",
+      "torque": "113Nm",
+      "mileage": "19.93kmpl",
+      "cylinders": "3",
+      "kerbWeight": "992Kg",
+      "powerWeight": "86.69PS/tonne",
+      "torqueWeight": "113.91Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Tigor 1.2L  Petrol Manual Price List"
+    },
     {
       "trim": "XT",
       "nameSuffix": "",
@@ -54,6 +75,12 @@
       "power": "86PS",
       "torque": "113Nm",
       "mileage": "19.93kmpl",
+      "cylinders": "3",
+      "kerbWeight": "992Kg",
+      "powerWeight": "86.69PS/tonne",
+      "torqueWeight": "113.91Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Tigor 1.2L  Petrol Manual Price List"
     },
     {
@@ -66,6 +93,12 @@
       "power": "86PS",
       "torque": "113Nm",
       "mileage": "19.93kmpl",
+      "cylinders": "3",
+      "kerbWeight": "992Kg",
+      "powerWeight": "86.69PS/tonne",
+      "torqueWeight": "113.91Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Tigor 1.2L  Petrol Manual Price List"
     },
     {
@@ -78,6 +111,12 @@
       "power": "86PS",
       "torque": "113Nm",
       "mileage": "19.93kmpl",
+      "cylinders": "3",
+      "kerbWeight": "992Kg",
+      "powerWeight": "86.69PS/tonne",
+      "torqueWeight": "113.91Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Tigor 1.2L  Petrol Manual Price List"
     },
     {
@@ -90,7 +129,31 @@
       "power": "86PS",
       "torque": "113Nm",
       "mileage": "19.93kmpl",
+      "cylinders": "3",
+      "kerbWeight": "992Kg",
+      "powerWeight": "86.69PS/tonne",
+      "torqueWeight": "113.91Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Tigor 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "XTA",
+      "nameSuffix": "",
+      "priceLakh": 6.8,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "86PS",
+      "torque": "113Nm",
+      "mileage": "19.28kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1033Kg",
+      "powerWeight": "83.25PS/tonne",
+      "torqueWeight": "109.39Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Tigor 1.2L  Petrol Automatic Price List"
     },
     {
       "trim": "XZA",
@@ -102,6 +165,12 @@
       "power": "86PS",
       "torque": "113Nm",
       "mileage": "19.28kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1033Kg",
+      "powerWeight": "83.25PS/tonne",
+      "torqueWeight": "109.39Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Tigor 1.2L  Petrol Automatic Price List"
     },
     {
@@ -114,7 +183,31 @@
       "power": "86PS",
       "torque": "113Nm",
       "mileage": "19.28kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1033Kg",
+      "powerWeight": "83.25PS/tonne",
+      "torqueWeight": "109.39Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Tigor 1.2L  Petrol Automatic Price List"
+    },
+    {
+      "trim": "XT",
+      "nameSuffix": "",
+      "priceLakh": 7.22,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "76PS",
+      "torque": "97Nm",
+      "mileage": "24.49km/kg",
+      "cylinders": "3",
+      "kerbWeight": "1126Kg",
+      "powerWeight": "67.05PS/tonne",
+      "torqueWeight": "85.70Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Tigor 1.2L CNG Manual Price List"
     },
     {
       "trim": "XZ",
@@ -126,6 +219,12 @@
       "power": "76PS",
       "torque": "97Nm",
       "mileage": "24.49km/kg",
+      "cylinders": "3",
+      "kerbWeight": "1126Kg",
+      "powerWeight": "67.05PS/tonne",
+      "torqueWeight": "85.70Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Tigor 1.2L CNG Manual Price List"
     },
     {
@@ -138,6 +237,12 @@
       "power": "76PS",
       "torque": "97Nm",
       "mileage": "24.49km/kg",
+      "cylinders": "3",
+      "kerbWeight": "1126Kg",
+      "powerWeight": "67.05PS/tonne",
+      "torqueWeight": "85.70Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Tigor 1.2L CNG Manual Price List"
     },
     {
@@ -150,7 +255,31 @@
       "power": "76PS",
       "torque": "97Nm",
       "mileage": "24.49km/kg",
+      "cylinders": "3",
+      "kerbWeight": "1126Kg",
+      "powerWeight": "67.05PS/tonne",
+      "torqueWeight": "85.70Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Tigor 1.2L CNG Manual Price List"
+    },
+    {
+      "trim": "XZA",
+      "nameSuffix": "",
+      "priceLakh": 8.29,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "76PS",
+      "torque": "97Nm",
+      "mileage": "28.60km/kg",
+      "cylinders": "3",
+      "kerbWeight": "1126Kg",
+      "powerWeight": "67.05PS/tonne",
+      "torqueWeight": "85.70Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Tigor 1.2L  CNG Automatic Price List"
     },
     {
       "trim": "XZA Plus",
@@ -162,11 +291,15 @@
       "power": "76PS",
       "torque": "97Nm",
       "mileage": "28.60km/kg",
+      "cylinders": "3",
+      "kerbWeight": "1126Kg",
+      "powerWeight": "67.05PS/tonne",
+      "torqueWeight": "85.70Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Tigor 1.2L  CNG Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:18:54.834Z",
-  "source": "https://www.v3cars.com/tata-cars/tigor",
-  "v3carsImage": "/cars/tata-tigor.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/704222tigor.png"
+  "syncedAt": "2026-05-17T13:02:17.525Z",
+  "source": "https://www.v3cars.com/tata-cars/tigor"
 }

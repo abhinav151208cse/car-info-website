@@ -7,7 +7,7 @@
   "summary": "Practical MPV with petrol and CNG.",
   "segment": "muv",
   "imageUrl": "https://www.marutisuzuki.com/-/media/marutisuzuki/india/vehicles/ertiga/hero/ertiga-hero.jpg",
-  "priceRangeMin": 9.85,
+  "priceRangeMin": 8.8,
   "priceRangeMax": 12.94,
   "dimensions": [
     {
@@ -39,11 +39,30 @@
       "value": "45 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "1462cc (5-speed MT)",
     "1462cc (6-speed TC)"
   ],
   "variants": [
+    {
+      "trim": "Ertiga LXI (O)",
+      "nameSuffix": "",
+      "priceLakh": 8.8,
+      "fuelType": "Petrol",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "137Nm",
+      "mileage": "20.51kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1150Kg",
+      "powerWeight": "89.57PS/tonne",
+      "torqueWeight": "119.13Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Ertiga 1.5L Petrol Manual Price List"
+    },
     {
       "trim": "Ertiga VXI (O)",
       "nameSuffix": "",
@@ -54,6 +73,12 @@
       "power": "103PS",
       "torque": "137Nm",
       "mileage": "20.51kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1150Kg",
+      "powerWeight": "89.57PS/tonne",
+      "torqueWeight": "119.13Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Ertiga 1.5L Petrol Manual Price List"
     },
     {
@@ -66,6 +91,12 @@
       "power": "103PS",
       "torque": "137Nm",
       "mileage": "20.51kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1150Kg",
+      "powerWeight": "89.57PS/tonne",
+      "torqueWeight": "119.13Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Ertiga 1.5L Petrol Manual Price List"
     },
     {
@@ -78,7 +109,31 @@
       "power": "103PS",
       "torque": "137Nm",
       "mileage": "20.51kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1150Kg",
+      "powerWeight": "89.57PS/tonne",
+      "torqueWeight": "119.13Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Ertiga 1.5L Petrol Manual Price List"
+    },
+    {
+      "trim": "Ertiga VXI",
+      "nameSuffix": "",
+      "priceLakh": 11.2,
+      "fuelType": "Petrol",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "137Nm",
+      "mileage": "20.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1205Kg",
+      "powerWeight": "85.48PS/tonne",
+      "torqueWeight": "113.69Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Ertiga 1.5L Petrol Automatic Price List"
     },
     {
       "trim": "Ertiga ZXI",
@@ -90,6 +145,12 @@
       "power": "103PS",
       "torque": "137Nm",
       "mileage": "20.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1205Kg",
+      "powerWeight": "85.48PS/tonne",
+      "torqueWeight": "113.69Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Ertiga 1.5L Petrol Automatic Price List"
     },
     {
@@ -102,7 +163,31 @@
       "power": "103PS",
       "torque": "137Nm",
       "mileage": "20.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1205Kg",
+      "powerWeight": "85.48PS/tonne",
+      "torqueWeight": "113.69Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Ertiga 1.5L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Ertiga VXI (O)",
+      "nameSuffix": "",
+      "priceLakh": 10.76,
+      "fuelType": "CNG",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "122Nm",
+      "mileage": "26.11km/kg",
+      "cylinders": "4",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "70.40PS/tonne",
+      "torqueWeight": "97.60Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Ertiga 1.5L CNG Manual Price List"
     },
     {
       "trim": "Ertiga ZXI (O)",
@@ -114,11 +199,15 @@
       "power": "88PS",
       "torque": "122Nm",
       "mileage": "26.11km/kg",
+      "cylinders": "4",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "70.40PS/tonne",
+      "torqueWeight": "97.60Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Ertiga 1.5L CNG Manual Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:20.662Z",
-  "source": "https://www.v3cars.com/maruti-arena-cars/ertiga",
-  "v3carsImage": "/cars/maruti-ertiga.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/101118ertiga.png"
+  "syncedAt": "2026-05-17T13:03:06.745Z",
+  "source": "https://www.v3cars.com/maruti-arena-cars/ertiga"
 }

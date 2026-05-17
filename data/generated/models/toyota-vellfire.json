@@ -7,7 +7,7 @@
   "summary": "Flagship MPV with hybrid power and lounge seating.",
   "segment": "luxury",
   "imageUrl": "https://www.toyota.co.in/content/dam/toyota/in/models/vellfire/vellfire-hero.jpg",
-  "priceRangeMin": 130,
+  "priceRangeMin": 120,
   "priceRangeMax": 130,
   "dimensions": [
     {
@@ -39,10 +39,29 @@
       "value": "58 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "2494cc (CVT)"
   ],
   "variants": [
+    {
+      "trim": "High",
+      "nameSuffix": "",
+      "priceLakh": 120,
+      "fuelType": "Hybrid",
+      "engine": "2494cc",
+      "transmission": "CVT",
+      "power": "117PS",
+      "torque": "198Nm",
+      "mileage": "16.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Toyota Vellfire 2.5L  Hybrid Automatic Price List"
+    },
     {
       "trim": "Lounge",
       "nameSuffix": "",
@@ -53,11 +72,15 @@
       "power": "117PS",
       "torque": "198Nm",
       "mileage": "16.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Vellfire 2.5L  Hybrid Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:41.746Z",
-  "source": "https://www.v3cars.com/toyota-cars/vellfire",
-  "v3carsImage": "/cars/toyota-vellfire.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/094228vellfire.png"
+  "syncedAt": "2026-05-17T13:03:39.960Z",
+  "source": "https://www.v3cars.com/toyota-cars/vellfire"
 }

@@ -7,7 +7,7 @@
   "summary": "Sport i20 with turbo petrol and DCT.",
   "segment": "hatch",
   "imageUrl": "https://www.hyundai.com/content/dam/hyundai/in/en/data/vehicle-images/i20-n-line/i20-nline-hero.jpg",
-  "priceRangeMin": 10.53,
+  "priceRangeMin": 9.22,
   "priceRangeMax": 11.67,
   "dimensions": [
     {
@@ -39,11 +39,30 @@
       "value": "37 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "998cc (6-speed MT)",
     "998cc (7-speed DCT)"
   ],
   "variants": [
+    {
+      "trim": "N6",
+      "nameSuffix": "",
+      "priceLakh": 9.22,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "6-speed MT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "20.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1210Kg",
+      "powerWeight": "99.17PS/tonne",
+      "torqueWeight": "142.15Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Hyundai i20 N Line 1.0L Turbo Petrol Manual Price List"
+    },
     {
       "trim": "N8",
       "nameSuffix": "",
@@ -54,6 +73,12 @@
       "power": "120PS",
       "torque": "172Nm",
       "mileage": "20.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1210Kg",
+      "powerWeight": "99.17PS/tonne",
+      "torqueWeight": "142.15Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai i20 N Line 1.0L Turbo Petrol Manual Price List"
     },
     {
@@ -66,7 +91,31 @@
       "power": "120PS",
       "torque": "172Nm",
       "mileage": "20.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1210Kg",
+      "powerWeight": "99.17PS/tonne",
+      "torqueWeight": "142.15Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai i20 N Line 1.0L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "N8",
+      "nameSuffix": "",
+      "priceLakh": 11.53,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "20.25kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1210Kg",
+      "powerWeight": "99.17PS/tonne",
+      "torqueWeight": "142.15Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Hyundai i20 N Line 1.0L Turbo Petrol Automatic Price List"
     },
     {
       "trim": "N8 Dual Tone",
@@ -78,11 +127,15 @@
       "power": "120PS",
       "torque": "172Nm",
       "mileage": "20.25kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1210Kg",
+      "powerWeight": "99.17PS/tonne",
+      "torqueWeight": "142.15Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai i20 N Line 1.0L Turbo Petrol Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:12.380Z",
-  "source": "https://www.v3cars.com/hyundai-cars/i20-n-line",
-  "v3carsImage": "/cars/hyundai-i20-n-line.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/348671i20-n-line.png"
+  "syncedAt": "2026-05-17T13:02:41.895Z",
+  "source": "https://www.v3cars.com/hyundai-cars/i20-n-line"
 }

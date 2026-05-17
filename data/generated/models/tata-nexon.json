@@ -7,7 +7,7 @@
   "summary": "Best-selling compact SUV with petrol, diesel, CNG and EV options.",
   "segment": "suv-b",
   "imageUrl": "https://www.tatamotors.com/content/dam/tata-motors/passenger-vehicles/nexon/nexon-ice/hero/nexon-hero-desktop.jpg",
-  "priceRangeMin": 8.07,
+  "priceRangeMin": 7.37,
   "priceRangeMax": 14.32,
   "dimensions": [
     {
@@ -39,6 +39,7 @@
       "value": "44 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "1199cc (6-speed MT)",
     "1199cc (6-speed AMT)",
@@ -49,6 +50,24 @@
   ],
   "variants": [
     {
+      "trim": "Pure Plus",
+      "nameSuffix": "",
+      "priceLakh": 8.95,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "6-speed MT",
+      "power": "120PS",
+      "torque": "170Nm",
+      "mileage": "17.44kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1240Kg",
+      "powerWeight": "96.77PS/tonne",
+      "torqueWeight": "137.10Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Nexon 1.2L  Turbo Petrol Manual Price List"
+    },
+    {
       "trim": "Pure Plus S",
       "nameSuffix": "",
       "priceLakh": 9.23,
@@ -58,6 +77,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.44kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1240Kg",
+      "powerWeight": "96.77PS/tonne",
+      "torqueWeight": "137.10Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L  Turbo Petrol Manual Price List"
     },
     {
@@ -70,6 +95,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.44kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1240Kg",
+      "powerWeight": "96.77PS/tonne",
+      "torqueWeight": "137.10Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L  Turbo Petrol Manual Price List"
     },
     {
@@ -82,6 +113,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.44kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1240Kg",
+      "powerWeight": "96.77PS/tonne",
+      "torqueWeight": "137.10Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L  Turbo Petrol Manual Price List"
     },
     {
@@ -94,6 +131,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.44kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1240Kg",
+      "powerWeight": "96.77PS/tonne",
+      "torqueWeight": "137.10Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L  Turbo Petrol Manual Price List"
     },
     {
@@ -106,6 +149,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.44kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1240Kg",
+      "powerWeight": "96.77PS/tonne",
+      "torqueWeight": "137.10Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L  Turbo Petrol Manual Price List"
     },
     {
@@ -118,6 +167,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.44kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1240Kg",
+      "powerWeight": "96.77PS/tonne",
+      "torqueWeight": "137.10Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L  Turbo Petrol Manual Price List"
     },
     {
@@ -130,6 +185,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.44kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1240Kg",
+      "powerWeight": "96.77PS/tonne",
+      "torqueWeight": "137.10Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L  Turbo Petrol Manual Price List"
     },
     {
@@ -142,6 +203,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.44kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1240Kg",
+      "powerWeight": "96.77PS/tonne",
+      "torqueWeight": "137.10Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L  Turbo Petrol Manual Price List"
     },
     {
@@ -154,6 +221,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.44kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1240Kg",
+      "powerWeight": "96.77PS/tonne",
+      "torqueWeight": "137.10Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L  Turbo Petrol Manual Price List"
     },
     {
@@ -166,7 +239,31 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.44kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1240Kg",
+      "powerWeight": "96.77PS/tonne",
+      "torqueWeight": "137.10Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Smart Plus",
+      "nameSuffix": "",
+      "priceLakh": 8.82,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "6-speed AMT",
+      "power": "120PS",
+      "torque": "170Nm",
+      "mileage": "17.18kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1255Kg",
+      "powerWeight": "95.62PS/tonne",
+      "torqueWeight": "135.46Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Nexon 1.2L  Turbo Petrol Automatic Price List"
     },
     {
       "trim": "Pure Plus",
@@ -178,6 +275,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.18kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1255Kg",
+      "powerWeight": "95.62PS/tonne",
+      "torqueWeight": "135.46Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L  Turbo Petrol Automatic Price List"
     },
     {
@@ -190,6 +293,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.18kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1255Kg",
+      "powerWeight": "95.62PS/tonne",
+      "torqueWeight": "135.46Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L  Turbo Petrol Automatic Price List"
     },
     {
@@ -202,6 +311,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.18kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1255Kg",
+      "powerWeight": "95.62PS/tonne",
+      "torqueWeight": "135.46Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L  Turbo Petrol Automatic Price List"
     },
     {
@@ -214,6 +329,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.18kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1255Kg",
+      "powerWeight": "95.62PS/tonne",
+      "torqueWeight": "135.46Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L  Turbo Petrol Automatic Price List"
     },
     {
@@ -226,6 +347,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.18kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1255Kg",
+      "powerWeight": "95.62PS/tonne",
+      "torqueWeight": "135.46Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L  Turbo Petrol Automatic Price List"
     },
     {
@@ -238,7 +365,31 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.18kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1255Kg",
+      "powerWeight": "95.62PS/tonne",
+      "torqueWeight": "135.46Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Smart Plus",
+      "nameSuffix": "",
+      "priceLakh": 9,
+      "fuelType": "Diesel",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "260Nm",
+      "mileage": "23.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Nexon 1.5L Turbo Diesel Manual Price List"
     },
     {
       "trim": "Smart Plus S",
@@ -250,6 +401,12 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "23.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L Turbo Diesel Manual Price List"
     },
     {
@@ -262,6 +419,12 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "23.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L Turbo Diesel Manual Price List"
     },
     {
@@ -274,6 +437,12 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "23.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L Turbo Diesel Manual Price List"
     },
     {
@@ -286,6 +455,12 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "23.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L Turbo Diesel Manual Price List"
     },
     {
@@ -298,6 +473,12 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "23.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L Turbo Diesel Manual Price List"
     },
     {
@@ -310,6 +491,12 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "23.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L Turbo Diesel Manual Price List"
     },
     {
@@ -322,6 +509,12 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "23.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L Turbo Diesel Manual Price List"
     },
     {
@@ -334,6 +527,12 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "23.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L Turbo Diesel Manual Price List"
     },
     {
@@ -346,6 +545,12 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "23.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L Turbo Diesel Manual Price List"
     },
     {
@@ -358,6 +563,12 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "23.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L Turbo Diesel Manual Price List"
     },
     {
@@ -370,6 +581,12 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "23.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L Turbo Diesel Manual Price List"
     },
     {
@@ -382,7 +599,31 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "23.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L Turbo Diesel Manual Price List"
+    },
+    {
+      "trim": "Pure Plus",
+      "nameSuffix": "",
+      "priceLakh": 10.65,
+      "fuelType": "Diesel",
+      "engine": "1497cc",
+      "transmission": "6-speed DCT",
+      "power": "116PS",
+      "torque": "260Nm",
+      "mileage": "24.08kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Nexon 1.5L  Diesel Automatic Price List"
     },
     {
       "trim": "Pure Plus PS",
@@ -394,6 +635,12 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "24.08kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L  Diesel Automatic Price List"
     },
     {
@@ -406,6 +653,12 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "24.08kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L  Diesel Automatic Price List"
     },
     {
@@ -418,6 +671,12 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "24.08kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L  Diesel Automatic Price List"
     },
     {
@@ -430,6 +689,12 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "24.08kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L  Diesel Automatic Price List"
     },
     {
@@ -442,6 +707,12 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "24.08kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L  Diesel Automatic Price List"
     },
     {
@@ -454,6 +725,12 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "24.08kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L  Diesel Automatic Price List"
     },
     {
@@ -466,6 +743,12 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "24.08kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L  Diesel Automatic Price List"
     },
     {
@@ -478,6 +761,12 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "24.08kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L  Diesel Automatic Price List"
     },
     {
@@ -490,7 +779,31 @@
       "power": "116PS",
       "torque": "260Nm",
       "mileage": "24.08kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1315Kg",
+      "powerWeight": "88.21PS/tonne",
+      "torqueWeight": "197.72Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.5L  Diesel Automatic Price List"
+    },
+    {
+      "trim": "Smart",
+      "nameSuffix": "",
+      "priceLakh": 7.37,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "120PS",
+      "torque": "170Nm",
+      "mileage": "17.01kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1240Kg",
+      "powerWeight": "96.77PS/tonne",
+      "torqueWeight": "137.10Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Nexon 1.2L Turbo Petrol 5 Speed Manual 120PS Price List"
     },
     {
       "trim": "Smart Plus",
@@ -502,6 +815,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.01kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1240Kg",
+      "powerWeight": "96.77PS/tonne",
+      "torqueWeight": "137.10Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo Petrol 5 Speed Manual 120PS Price List"
     },
     {
@@ -514,7 +833,31 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.01kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1240Kg",
+      "powerWeight": "96.77PS/tonne",
+      "torqueWeight": "137.10Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo Petrol 5 Speed Manual 120PS Price List"
+    },
+    {
+      "trim": "Creative",
+      "nameSuffix": "",
+      "priceLakh": 11.25,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "170Nm",
+      "mileage": "17.01kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1255Kg",
+      "powerWeight": "95.62PS/tonne",
+      "torqueWeight": "135.46Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Nexon 1.2L Turbo Petrol Dct Automatic 120PS Price List"
     },
     {
       "trim": "Creative Plus PS",
@@ -526,6 +869,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.01kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1255Kg",
+      "powerWeight": "95.62PS/tonne",
+      "torqueWeight": "135.46Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo Petrol Dct Automatic 120PS Price List"
     },
     {
@@ -538,6 +887,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.01kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1255Kg",
+      "powerWeight": "95.62PS/tonne",
+      "torqueWeight": "135.46Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo Petrol Dct Automatic 120PS Price List"
     },
     {
@@ -550,6 +905,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.01kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1255Kg",
+      "powerWeight": "95.62PS/tonne",
+      "torqueWeight": "135.46Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo Petrol Dct Automatic 120PS Price List"
     },
     {
@@ -562,6 +923,12 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.01kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1255Kg",
+      "powerWeight": "95.62PS/tonne",
+      "torqueWeight": "135.46Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo Petrol Dct Automatic 120PS Price List"
     },
     {
@@ -574,7 +941,31 @@
       "power": "120PS",
       "torque": "170Nm",
       "mileage": "17.01kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1255Kg",
+      "powerWeight": "95.62PS/tonne",
+      "torqueWeight": "135.46Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo Petrol Dct Automatic 120PS Price List"
+    },
+    {
+      "trim": "Smart",
+      "nameSuffix": "",
+      "priceLakh": 8.3,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "6-speed MT",
+      "power": "100PS",
+      "torque": "170Nm",
+      "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Nexon 1.2L Turbo CNG Manual Price List"
     },
     {
       "trim": "Smart Plus",
@@ -586,6 +977,12 @@
       "power": "100PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo CNG Manual Price List"
     },
     {
@@ -598,6 +995,12 @@
       "power": "100PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo CNG Manual Price List"
     },
     {
@@ -610,6 +1013,12 @@
       "power": "100PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo CNG Manual Price List"
     },
     {
@@ -622,6 +1031,12 @@
       "power": "100PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo CNG Manual Price List"
     },
     {
@@ -634,6 +1049,12 @@
       "power": "100PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo CNG Manual Price List"
     },
     {
@@ -646,6 +1067,12 @@
       "power": "100PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo CNG Manual Price List"
     },
     {
@@ -658,6 +1085,12 @@
       "power": "100PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo CNG Manual Price List"
     },
     {
@@ -670,6 +1103,12 @@
       "power": "100PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo CNG Manual Price List"
     },
     {
@@ -682,6 +1121,12 @@
       "power": "100PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo CNG Manual Price List"
     },
     {
@@ -694,6 +1139,12 @@
       "power": "100PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo CNG Manual Price List"
     },
     {
@@ -706,6 +1157,12 @@
       "power": "100PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo CNG Manual Price List"
     },
     {
@@ -718,6 +1175,12 @@
       "power": "100PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo CNG Manual Price List"
     },
     {
@@ -730,11 +1193,15 @@
       "power": "100PS",
       "torque": "170Nm",
       "mileage": "-",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon 1.2L Turbo CNG Manual Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:18:52.434Z",
-  "source": "https://www.v3cars.com/tata-cars/nexon",
-  "v3carsImage": "/cars/tata-nexon.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/620404nexon.png"
+  "syncedAt": "2026-05-17T13:02:13.790Z",
+  "source": "https://www.v3cars.com/tata-cars/nexon"
 }

@@ -7,8 +7,8 @@
   "summary": "Comprehensive powertrain line-up with petrol, diesel, turbo and N Line options.",
   "segment": "suv-c",
   "imageUrl": "https://www.hyundai.com/content/dam/hyundai/in/en/data/vehicle-images/creta/creta-ice/creta-hero.jpg",
-  "priceRangeMin": 12.06,
-  "priceRangeMax": 19.87,
+  "priceRangeMin": 10.79,
+  "priceRangeMax": 20.05,
   "dimensions": [
     {
       "label": "Length",
@@ -39,13 +39,33 @@
       "value": "50 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "1497cc (6-speed MT)",
     "1497cc (CVT)",
     "1493cc (6-speed MT)",
-    "1493cc (6-speed TC)"
+    "1493cc (6-speed TC)",
+    "1482cc (7-speed DCT)"
   ],
   "variants": [
+    {
+      "trim": "E",
+      "nameSuffix": "",
+      "priceLakh": 10.79,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1230Kg",
+      "powerWeight": "93.50PS/tonne",
+      "torqueWeight": "117.07Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
+    },
     {
       "trim": "EX",
       "nameSuffix": "",
@@ -56,6 +76,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1230Kg",
+      "powerWeight": "93.50PS/tonne",
+      "torqueWeight": "117.07Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
     },
     {
@@ -68,6 +94,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1230Kg",
+      "powerWeight": "93.50PS/tonne",
+      "torqueWeight": "117.07Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
     },
     {
@@ -80,6 +112,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1230Kg",
+      "powerWeight": "93.50PS/tonne",
+      "torqueWeight": "117.07Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
     },
     {
@@ -92,6 +130,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1230Kg",
+      "powerWeight": "93.50PS/tonne",
+      "torqueWeight": "117.07Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
     },
     {
@@ -104,6 +148,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1230Kg",
+      "powerWeight": "93.50PS/tonne",
+      "torqueWeight": "117.07Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
     },
     {
@@ -116,6 +166,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1230Kg",
+      "powerWeight": "93.50PS/tonne",
+      "torqueWeight": "117.07Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
     },
     {
@@ -128,6 +184,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1230Kg",
+      "powerWeight": "93.50PS/tonne",
+      "torqueWeight": "117.07Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
     },
     {
@@ -140,6 +202,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1230Kg",
+      "powerWeight": "93.50PS/tonne",
+      "torqueWeight": "117.07Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
     },
     {
@@ -152,6 +220,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1230Kg",
+      "powerWeight": "93.50PS/tonne",
+      "torqueWeight": "117.07Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
     },
     {
@@ -164,7 +238,31 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1230Kg",
+      "powerWeight": "93.50PS/tonne",
+      "torqueWeight": "117.07Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
+    },
+    {
+      "trim": "EX(O)",
+      "nameSuffix": "",
+      "priceLakh": 14.49,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "CVT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1270Kg",
+      "powerWeight": "90.55PS/tonne",
+      "torqueWeight": "113.39Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Hyundai Creta 1.5L  Petrol Automatic Price List"
     },
     {
       "trim": "S(O)",
@@ -176,6 +274,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1270Kg",
+      "powerWeight": "90.55PS/tonne",
+      "torqueWeight": "113.39Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Petrol Automatic Price List"
     },
     {
@@ -188,6 +292,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1270Kg",
+      "powerWeight": "90.55PS/tonne",
+      "torqueWeight": "113.39Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Petrol Automatic Price List"
     },
     {
@@ -200,6 +310,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1270Kg",
+      "powerWeight": "90.55PS/tonne",
+      "torqueWeight": "113.39Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Petrol Automatic Price List"
     },
     {
@@ -212,6 +328,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1270Kg",
+      "powerWeight": "90.55PS/tonne",
+      "torqueWeight": "113.39Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Petrol Automatic Price List"
     },
     {
@@ -224,6 +346,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1270Kg",
+      "powerWeight": "90.55PS/tonne",
+      "torqueWeight": "113.39Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Petrol Automatic Price List"
     },
     {
@@ -236,6 +364,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1270Kg",
+      "powerWeight": "90.55PS/tonne",
+      "torqueWeight": "113.39Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Petrol Automatic Price List"
     },
     {
@@ -248,7 +382,31 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1270Kg",
+      "powerWeight": "90.55PS/tonne",
+      "torqueWeight": "113.39Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Petrol Automatic Price List"
+    },
+    {
+      "trim": "EX",
+      "nameSuffix": "",
+      "priceLakh": 13.62,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "21.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1300Kg",
+      "powerWeight": "89.23PS/tonne",
+      "torqueWeight": "192.31Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Hyundai Creta 1.5L  Diesel Manual Price List"
     },
     {
       "trim": "EX(O)",
@@ -260,6 +418,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "21.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1300Kg",
+      "powerWeight": "89.23PS/tonne",
+      "torqueWeight": "192.31Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Diesel Manual Price List"
     },
     {
@@ -272,6 +436,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "21.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1300Kg",
+      "powerWeight": "89.23PS/tonne",
+      "torqueWeight": "192.31Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Diesel Manual Price List"
     },
     {
@@ -284,6 +454,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "21.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1300Kg",
+      "powerWeight": "89.23PS/tonne",
+      "torqueWeight": "192.31Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Diesel Manual Price List"
     },
     {
@@ -296,6 +472,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "21.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1300Kg",
+      "powerWeight": "89.23PS/tonne",
+      "torqueWeight": "192.31Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Diesel Manual Price List"
     },
     {
@@ -308,6 +490,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "21.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1300Kg",
+      "powerWeight": "89.23PS/tonne",
+      "torqueWeight": "192.31Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Diesel Manual Price List"
     },
     {
@@ -320,7 +508,31 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "21.80kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1300Kg",
+      "powerWeight": "89.23PS/tonne",
+      "torqueWeight": "192.31Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Diesel Manual Price List"
+    },
+    {
+      "trim": "EX(O)",
+      "nameSuffix": "",
+      "priceLakh": 16.04,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "19.10kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1340Kg",
+      "powerWeight": "86.57PS/tonne",
+      "torqueWeight": "186.57Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Hyundai Creta 1.5L  Diesel Automatic Price List"
     },
     {
       "trim": "S(O)",
@@ -332,6 +544,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "19.10kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1340Kg",
+      "powerWeight": "86.57PS/tonne",
+      "torqueWeight": "186.57Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Diesel Automatic Price List"
     },
     {
@@ -344,11 +562,33 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "19.10kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1340Kg",
+      "powerWeight": "86.57PS/tonne",
+      "torqueWeight": "186.57Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Creta 1.5L  Diesel Automatic Price List"
+    },
+    {
+      "trim": "King Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 20.05,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "18.40kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1270Kg",
+      "powerWeight": "125.98PS/tonne",
+      "torqueWeight": "199.21Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Hyundai Creta 1.5L  Turbo Petrol Automatic (160PS) Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:03.943Z",
-  "source": "https://www.v3cars.com/hyundai-cars/creta",
-  "v3carsImage": "/cars/hyundai-creta.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/512647creta.png"
+  "syncedAt": "2026-05-17T13:02:29.025Z",
+  "source": "https://www.v3cars.com/hyundai-cars/creta"
 }

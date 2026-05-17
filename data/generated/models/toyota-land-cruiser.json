@@ -7,7 +7,7 @@
   "summary": "Ultimate Toyota SUV with diesel V6.",
   "segment": "luxury",
   "imageUrl": "https://www.toyota.co.in/content/dam/toyota/in/models/land-cruiser/lc-hero.jpg",
-  "priceRangeMin": 225,
+  "priceRangeMin": 216,
   "priceRangeMax": 225,
   "dimensions": [
     {
@@ -35,10 +35,29 @@
       "value": "80 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "3346cc (10-speed TC)"
   ],
   "variants": [
+    {
+      "trim": "ZX",
+      "nameSuffix": "",
+      "priceLakh": 216,
+      "fuelType": "Diesel",
+      "engine": "3346cc",
+      "transmission": "10-speed TC",
+      "power": "309PS",
+      "torque": "700Nm",
+      "mileage": "-",
+      "cylinders": "6",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Toyota Land Cruiser 3.3L Diesel Automatic Price List"
+    },
     {
       "trim": "GR S",
       "nameSuffix": "",
@@ -49,11 +68,15 @@
       "power": "309PS",
       "torque": "700Nm",
       "mileage": "-",
+      "cylinders": "6",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Land Cruiser 3.3L Diesel Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:42.446Z",
-  "source": "https://www.v3cars.com/toyota-cars/land-cruiser",
-  "v3carsImage": "/cars/toyota-land-cruiser.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/919475land-cruiser.png"
+  "syncedAt": "2026-05-17T13:03:41.257Z",
+  "source": "https://www.v3cars.com/toyota-cars/land-cruiser"
 }

@@ -7,7 +7,7 @@
   "summary": "Baleno-based hatch sold by Toyota.",
   "segment": "hatch",
   "imageUrl": "https://www.toyota.co.in/content/dam/toyota/in/models/glanza/glanza-hero.jpg",
-  "priceRangeMin": 7.34,
+  "priceRangeMin": 6.46,
   "priceRangeMax": 9.44,
   "dimensions": [
     {
@@ -39,11 +39,32 @@
       "value": "37 litres"
     }
   ],
+  "safety": [
+    "6 airbags (variant dependent)"
+  ],
   "engines": [
     "1197cc (5-speed MT)",
     "1197cc (5-speed AMT)"
   ],
   "variants": [
+    {
+      "trim": "E",
+      "nameSuffix": "",
+      "priceLakh": 6.46,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "22.35kmpl",
+      "cylinders": "4",
+      "kerbWeight": "960Kg",
+      "powerWeight": "93.75PS/tonne",
+      "torqueWeight": "117.71Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Toyota Glanza 1.2L Petrol Manual Price List"
+    },
     {
       "trim": "S",
       "nameSuffix": "",
@@ -54,6 +75,12 @@
       "power": "90PS",
       "torque": "113Nm",
       "mileage": "22.35kmpl",
+      "cylinders": "4",
+      "kerbWeight": "960Kg",
+      "powerWeight": "93.75PS/tonne",
+      "torqueWeight": "117.71Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Glanza 1.2L Petrol Manual Price List"
     },
     {
@@ -66,6 +93,12 @@
       "power": "90PS",
       "torque": "113Nm",
       "mileage": "22.35kmpl",
+      "cylinders": "4",
+      "kerbWeight": "960Kg",
+      "powerWeight": "93.75PS/tonne",
+      "torqueWeight": "117.71Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Glanza 1.2L Petrol Manual Price List"
     },
     {
@@ -78,7 +111,31 @@
       "power": "90PS",
       "torque": "113Nm",
       "mileage": "22.35kmpl",
+      "cylinders": "4",
+      "kerbWeight": "960Kg",
+      "powerWeight": "93.75PS/tonne",
+      "torqueWeight": "117.71Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Glanza 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "S",
+      "nameSuffix": "",
+      "priceLakh": 7.91,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "22.94kmpl",
+      "cylinders": "4",
+      "kerbWeight": "960Kg",
+      "powerWeight": "93.75PS/tonne",
+      "torqueWeight": "117.71Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Toyota Glanza 1.2L Petrol Automatic Price List"
     },
     {
       "trim": "G",
@@ -90,6 +147,12 @@
       "power": "90PS",
       "torque": "113Nm",
       "mileage": "22.94kmpl",
+      "cylinders": "4",
+      "kerbWeight": "960Kg",
+      "powerWeight": "93.75PS/tonne",
+      "torqueWeight": "117.71Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Glanza 1.2L Petrol Automatic Price List"
     },
     {
@@ -102,7 +165,31 @@
       "power": "90PS",
       "torque": "113Nm",
       "mileage": "22.94kmpl",
+      "cylinders": "4",
+      "kerbWeight": "960Kg",
+      "powerWeight": "93.75PS/tonne",
+      "torqueWeight": "117.71Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Glanza 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "S",
+      "nameSuffix": "",
+      "priceLakh": 8.17,
+      "fuelType": "CNG",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "78PS",
+      "torque": "99Nm",
+      "mileage": "30.61km/kg",
+      "cylinders": "4",
+      "kerbWeight": "960Kg",
+      "powerWeight": "80.73PS/tonne",
+      "torqueWeight": "103.13Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Toyota Glanza 1.2L  CNG Manual Price List"
     },
     {
       "trim": "G",
@@ -114,11 +201,15 @@
       "power": "78PS",
       "torque": "99Nm",
       "mileage": "30.61km/kg",
+      "cylinders": "4",
+      "kerbWeight": "960Kg",
+      "powerWeight": "80.73PS/tonne",
+      "torqueWeight": "103.13Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Glanza 1.2L  CNG Manual Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:35.176Z",
-  "source": "https://www.v3cars.com/toyota-cars/glanza",
-  "v3carsImage": "/cars/toyota-glanza.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/179165glanza.png"
+  "syncedAt": "2026-05-17T13:03:29.673Z",
+  "source": "https://www.v3cars.com/toyota-cars/glanza"
 }

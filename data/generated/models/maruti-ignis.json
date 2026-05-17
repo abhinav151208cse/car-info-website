@@ -7,7 +7,7 @@
   "summary": "Compact Nexa hatch with distinctive styling.",
   "segment": "hatch",
   "imageUrl": "https://www.nexaexperience.com/-/media/nexa/ignis/hero/ignis-hero.jpg",
-  "priceRangeMin": 5.85,
+  "priceRangeMin": 5.35,
   "priceRangeMax": 7.42,
   "dimensions": [
     {
@@ -39,11 +39,30 @@
       "value": "32 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "1197cc (5-speed MT)",
     "1197cc (5-speed AMT)"
   ],
   "variants": [
+    {
+      "trim": "Ignis Sigma",
+      "nameSuffix": "",
+      "priceLakh": 5.35,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "113Nm",
+      "mileage": "20.89kmpl",
+      "cylinders": "4",
+      "kerbWeight": "840Kg",
+      "powerWeight": "98.81PS/tonne",
+      "torqueWeight": "134.52Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Ignis 1.2L Petrol Manual Price List"
+    },
     {
       "trim": "Ignis Delta",
       "nameSuffix": "",
@@ -54,6 +73,12 @@
       "power": "83PS",
       "torque": "113Nm",
       "mileage": "20.89kmpl",
+      "cylinders": "4",
+      "kerbWeight": "840Kg",
+      "powerWeight": "98.81PS/tonne",
+      "torqueWeight": "134.52Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Ignis 1.2L Petrol Manual Price List"
     },
     {
@@ -66,6 +91,12 @@
       "power": "83PS",
       "torque": "113Nm",
       "mileage": "20.89kmpl",
+      "cylinders": "4",
+      "kerbWeight": "840Kg",
+      "powerWeight": "98.81PS/tonne",
+      "torqueWeight": "134.52Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Ignis 1.2L Petrol Manual Price List"
     },
     {
@@ -78,7 +109,31 @@
       "power": "83PS",
       "torque": "113Nm",
       "mileage": "20.89kmpl",
+      "cylinders": "4",
+      "kerbWeight": "840Kg",
+      "powerWeight": "98.81PS/tonne",
+      "torqueWeight": "134.52Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Ignis 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Ignis Delta",
+      "nameSuffix": "",
+      "priceLakh": 6.3,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "83PS",
+      "torque": "113Nm",
+      "mileage": "20.89kmpl",
+      "cylinders": "4",
+      "kerbWeight": "865Kg",
+      "powerWeight": "95.95PS/tonne",
+      "torqueWeight": "130.64Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Ignis 1.2L Petrol Automatic Price List"
     },
     {
       "trim": "Ignis Zeta",
@@ -90,6 +145,12 @@
       "power": "83PS",
       "torque": "113Nm",
       "mileage": "20.89kmpl",
+      "cylinders": "4",
+      "kerbWeight": "865Kg",
+      "powerWeight": "95.95PS/tonne",
+      "torqueWeight": "130.64Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Ignis 1.2L Petrol Automatic Price List"
     },
     {
@@ -102,11 +163,15 @@
       "power": "83PS",
       "torque": "113Nm",
       "mileage": "20.89kmpl",
+      "cylinders": "4",
+      "kerbWeight": "865Kg",
+      "powerWeight": "95.95PS/tonne",
+      "torqueWeight": "130.64Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Ignis 1.2L Petrol Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:29.981Z",
-  "source": "https://www.v3cars.com/maruti-nexa-cars/ignis",
-  "v3carsImage": "/cars/maruti-ignis.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/957449ignis.png"
+  "syncedAt": "2026-05-17T13:03:20.739Z",
+  "source": "https://www.v3cars.com/maruti-nexa-cars/ignis"
 }

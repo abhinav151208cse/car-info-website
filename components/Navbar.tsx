@@ -1,10 +1,9 @@
 "use client";
 
-import CarSelector from "@/components/CarSelector";
-import { getBrands } from "@/lib/catalog-nav";
+import { getBrands, getModelsByBrand } from "@/lib/catalog-nav";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useMemo, useRef, useState } from "react";
+import { useMemo, useState } from "react";
 
 const navLinks = [
   { href: "/", label: "Home" },
@@ -22,18 +21,25 @@ function scrollToHash(href: string) {
 export default function Navbar() {
   const pathname = usePathname();
   const [menuOpen, setMenuOpen] = useState(false);
-  const [activeBrand, setActiveBrand] = useState<string | null>(null);
+  const [hoveredBrand, setHoveredBrand] = useState<string | null>(null);
   const [mobileBrand, setMobileBrand] = useState<string>("");
-  const panelRef = useRef<HTMLDivElement>(null);
 
   const brands = useMemo(() => getBrands(), []);
+  const hoveredModels = useMemo(
+    () => (hoveredBrand ? getModelsByBrand(hoveredBrand) : []),
+    [hoveredBrand],
+  );
+  const mobileModels = useMemo(
+    () => (mobileBrand ? getModelsByBrand(mobileBrand) : []),
+    [mobileBrand],
+  );
 
   function handleNavClick(
     e: React.MouseEvent<HTMLAnchorElement>,
     href: string,
   ) {
     setMenuOpen(false);
-    setActiveBrand(null);
+    setHoveredBrand(null);
 
     if (!href.includes("#")) return;
 
@@ -43,11 +49,6 @@ export default function Navbar() {
     e.preventDefault();
     scrollToHash(href);
     window.history.pushState(null, "", href);
-  }
-
-  function toggleBrand(brand: string) {
-    setActiveBrand((current) => (current === brand ? null : brand));
-    setMenuOpen(false);
   }
 
   return (
@@ -62,7 +63,7 @@ export default function Navbar() {
             className="group flex shrink-0 items-center gap-2.5 text-slate-900"
             onClick={() => {
               setMenuOpen(false);
-              setActiveBrand(null);
+              setHoveredBrand(null);
             }}
           >
             <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-slate-900 text-white transition-colors group-hover:bg-slate-700">
@@ -77,7 +78,7 @@ export default function Navbar() {
               </svg>
             </span>
             <span className="text-lg font-bold tracking-tight">
-              Car<span className="text-slate-500">Info</span>
+              Auto<span className="text-slate-500">Verse</span>
             </span>
           </Link>
 
@@ -139,62 +140,69 @@ export default function Navbar() {
           </button>
         </div>
 
-        {/* Brand navigation — desktop */}
-        <div className="hidden border-t border-slate-100 pb-2 pt-1 lg:block">
-          <div className="flex flex-wrap items-center gap-1">
-            <span className="mr-1 text-xs font-semibold uppercase tracking-wide text-slate-400">
-              Brands
-            </span>
-            {brands.map((b) => (
-              <button
-                key={b.brand}
-                type="button"
-                onClick={() => toggleBrand(b.brand)}
-                aria-expanded={activeBrand === b.brand}
-                className={`rounded-lg px-2.5 py-1.5 text-sm font-medium transition-colors ${
-                  activeBrand === b.brand
-                    ? "bg-slate-900 text-white"
-                    : "text-slate-600 hover:bg-slate-100 hover:text-slate-900"
-                }`}
-              >
-                {b.brand}
-              </button>
-            ))}
+        {/* Brand navigation — desktop (hover to show models) */}
+        <div
+          className="hidden lg:block"
+          onMouseLeave={() => setHoveredBrand(null)}
+        >
+          <div className="border-t border-slate-100 pb-2 pt-1">
+            <div className="flex flex-wrap items-center gap-1">
+              <span className="mr-1 text-xs font-semibold uppercase tracking-wide text-slate-400">
+                Brands
+              </span>
+              {brands.map((b) => (
+                <button
+                  key={b.brand}
+                  type="button"
+                  onMouseEnter={() => setHoveredBrand(b.brand)}
+                  onFocus={() => setHoveredBrand(b.brand)}
+                  aria-expanded={hoveredBrand === b.brand}
+                  aria-haspopup="true"
+                  className={`rounded-lg px-2.5 py-1.5 text-sm font-medium transition-colors ${
+                    hoveredBrand === b.brand
+                      ? "bg-slate-900 text-white"
+                      : "text-slate-600 hover:bg-slate-100 hover:text-slate-900"
+                  }`}
+                >
+                  {b.brand}
+                </button>
+              ))}
+            </div>
           </div>
+
+          {hoveredBrand && hoveredModels.length > 0 && (
+            <div className="border-t border-slate-200 bg-slate-50 shadow-inner">
+              <div className="mx-auto max-w-7xl px-4 py-4 sm:px-6 lg:px-8">
+                <p className="mb-3 text-sm font-semibold text-slate-900">
+                  {hoveredBrand}{" "}
+                  <span className="font-normal text-slate-500">
+                    — {hoveredModels.length} models (opens in new tab)
+                  </span>
+                </p>
+                <ul className="grid max-h-64 gap-1 overflow-y-auto sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+                  {hoveredModels.map((model) => (
+                    <li key={model.slug}>
+                      <Link
+                        href={`/cars/${model.slug}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="block rounded-lg px-3 py-2 text-sm transition-colors hover:bg-white hover:text-slate-900"
+                      >
+                        <span className="font-medium text-slate-800">
+                          {model.name}
+                        </span>
+                        <span className="mt-0.5 block text-xs text-slate-500">
+                          {model.priceRange}
+                        </span>
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+          )}
         </div>
       </nav>
-
-      {/* Brand panel — model + variant (desktop) */}
-      {activeBrand && (
-        <div
-          ref={panelRef}
-          className="hidden border-t border-slate-200 bg-slate-50 lg:block"
-        >
-          <div className="mx-auto max-w-7xl px-4 py-5 sm:px-6 lg:px-8">
-            <div className="mb-3 flex items-center justify-between">
-              <h2 className="text-sm font-semibold text-slate-900">
-                {activeBrand} — select model & variant
-              </h2>
-              <button
-                type="button"
-                onClick={() => setActiveBrand(null)}
-                className="rounded-lg px-2 py-1 text-sm text-slate-500 hover:bg-slate-200 hover:text-slate-800"
-                aria-label="Close brand menu"
-              >
-                Close
-              </button>
-            </div>
-            <CarSelector
-              key={activeBrand}
-              lockBrand={activeBrand}
-              showVariant
-              showPreview={false}
-              showViewButton
-              idPrefix={`nav-${activeBrand}`}
-            />
-          </div>
-        </div>
-      )}
 
       {/* Mobile menu */}
       <div
@@ -229,19 +237,31 @@ export default function Navbar() {
             <option value="">Select brand</option>
             {brands.map((b) => (
               <option key={b.brand} value={b.brand}>
-                {b.brand}
+                {b.brand} ({b.count} models)
               </option>
             ))}
           </select>
-          {mobileBrand && (
-            <CarSelector
-              key={mobileBrand}
-              lockBrand={mobileBrand}
-              showVariant
-              showPreview={false}
-              showViewButton
-              idPrefix="mobile-nav"
-            />
+          {mobileBrand && mobileModels.length > 0 && (
+            <ul className="max-h-64 space-y-0.5 overflow-y-auto rounded-lg border border-slate-200 bg-slate-50 p-2">
+              {mobileModels.map((model) => (
+                <li key={model.slug}>
+                  <Link
+                    href={`/cars/${model.slug}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="block rounded-lg px-3 py-2 text-sm hover:bg-white"
+                    onClick={() => setMenuOpen(false)}
+                  >
+                    <span className="font-medium text-slate-800">
+                      {model.name}
+                    </span>
+                    <span className="block text-xs text-slate-500">
+                      {model.priceRange}
+                    </span>
+                  </Link>
+                </li>
+              ))}
+            </ul>
           )}
         </div>
       </div>

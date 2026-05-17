@@ -31,6 +31,7 @@
       "value": "345 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "1984cc (7-speed DCT)"
   ],
@@ -45,11 +46,15 @@
       "power": "204PS",
       "torque": "320Nm",
       "mileage": "12.58kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1864Kg",
+      "powerWeight": "109.44PS/tonne",
+      "torqueWeight": "171.67Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Volkswagen Tayron 2.0L  Turbo Petrol Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:26:53.332Z",
-  "source": "https://www.v3cars.com/volkswagen-cars/tayron",
-  "v3carsImage": "/cars/volkswagen-tayron.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/884917tayron.png"
+  "syncedAt": "2026-05-17T13:03:51.456Z",
+  "source": "https://www.v3cars.com/volkswagen-cars/tayron"
 }

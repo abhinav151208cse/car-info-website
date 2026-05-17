@@ -2,8 +2,8 @@ import ContactSection from "@/components/ContactSection";
 import Link from "next/link";
 
 export const metadata = {
-  title: "Contact — CarInfo",
-  description: "Contact CarInfo for inquiries about cars and specifications.",
+  title: "Contact — AutoVerse",
+  description: "Contact AutoVerse for inquiries about cars and specifications.",
 };
 
 export default function ContactPage() {

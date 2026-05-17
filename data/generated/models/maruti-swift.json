@@ -7,7 +7,7 @@
   "summary": "Popular hatch with petrol and CNG, lightweight platform.",
   "segment": "hatch",
   "imageUrl": "https://www.marutisuzuki.com/-/media/marutisuzuki/india/vehicles/swift/hero/swift-hero.jpg",
-  "priceRangeMin": 6.59,
+  "priceRangeMin": 5.79,
   "priceRangeMax": 8.65,
   "dimensions": [
     {
@@ -39,11 +39,32 @@
       "value": "37 litres"
     }
   ],
+  "safety": [
+    "ADAS driver-assistance (top trims)"
+  ],
   "engines": [
     "1197cc (5-speed MT)",
     "1197cc (5-speed AMT)"
   ],
   "variants": [
+    {
+      "trim": "Swift LXI",
+      "nameSuffix": "",
+      "priceLakh": 5.79,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "82PS",
+      "torque": "112Nm",
+      "mileage": "24.80kmpl",
+      "cylinders": "3",
+      "kerbWeight": "920Kg",
+      "powerWeight": "89.13PS/tonne",
+      "torqueWeight": "121.74Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Swift 1.2L Petrol Manual Price List"
+    },
     {
       "trim": "Swift VXI",
       "nameSuffix": "",
@@ -54,6 +75,12 @@
       "power": "82PS",
       "torque": "112Nm",
       "mileage": "24.80kmpl",
+      "cylinders": "3",
+      "kerbWeight": "920Kg",
+      "powerWeight": "89.13PS/tonne",
+      "torqueWeight": "121.74Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Swift 1.2L Petrol Manual Price List"
     },
     {
@@ -66,6 +93,12 @@
       "power": "82PS",
       "torque": "112Nm",
       "mileage": "24.80kmpl",
+      "cylinders": "3",
+      "kerbWeight": "920Kg",
+      "powerWeight": "89.13PS/tonne",
+      "torqueWeight": "121.74Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Swift 1.2L Petrol Manual Price List"
     },
     {
@@ -78,6 +111,12 @@
       "power": "82PS",
       "torque": "112Nm",
       "mileage": "24.80kmpl",
+      "cylinders": "3",
+      "kerbWeight": "920Kg",
+      "powerWeight": "89.13PS/tonne",
+      "torqueWeight": "121.74Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Swift 1.2L Petrol Manual Price List"
     },
     {
@@ -90,7 +129,31 @@
       "power": "82PS",
       "torque": "112Nm",
       "mileage": "24.80kmpl",
+      "cylinders": "3",
+      "kerbWeight": "920Kg",
+      "powerWeight": "89.13PS/tonne",
+      "torqueWeight": "121.74Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Swift 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Swift VXI",
+      "nameSuffix": "",
+      "priceLakh": 7.04,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "81PS",
+      "torque": "112Nm",
+      "mileage": "25.75kmpl",
+      "cylinders": "3",
+      "kerbWeight": "925Kg",
+      "powerWeight": "87.57PS/tonne",
+      "torqueWeight": "121.08Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Swift 1.2L  Petrol Automatic Price List"
     },
     {
       "trim": "Swift VXI (O)",
@@ -102,6 +165,12 @@
       "power": "81PS",
       "torque": "112Nm",
       "mileage": "25.75kmpl",
+      "cylinders": "3",
+      "kerbWeight": "925Kg",
+      "powerWeight": "87.57PS/tonne",
+      "torqueWeight": "121.08Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Swift 1.2L  Petrol Automatic Price List"
     },
     {
@@ -114,6 +183,12 @@
       "power": "81PS",
       "torque": "112Nm",
       "mileage": "25.75kmpl",
+      "cylinders": "3",
+      "kerbWeight": "925Kg",
+      "powerWeight": "87.57PS/tonne",
+      "torqueWeight": "121.08Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Swift 1.2L  Petrol Automatic Price List"
     },
     {
@@ -126,7 +201,31 @@
       "power": "81PS",
       "torque": "112Nm",
       "mileage": "25.75kmpl",
+      "cylinders": "3",
+      "kerbWeight": "925Kg",
+      "powerWeight": "87.57PS/tonne",
+      "torqueWeight": "121.08Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Swift 1.2L  Petrol Automatic Price List"
+    },
+    {
+      "trim": "Swift VXI",
+      "nameSuffix": "",
+      "priceLakh": 7.45,
+      "fuelType": "CNG",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "70PS",
+      "torque": "102Nm",
+      "mileage": "32.85km/kg",
+      "cylinders": "3",
+      "kerbWeight": "990Kg",
+      "powerWeight": "70.71PS/tonne",
+      "torqueWeight": "102.83Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Maruti Suzuki Swift 1.2L  CNG Manual Price List"
     },
     {
       "trim": "Swift VXI (O)",
@@ -138,6 +237,12 @@
       "power": "70PS",
       "torque": "102Nm",
       "mileage": "32.85km/kg",
+      "cylinders": "3",
+      "kerbWeight": "990Kg",
+      "powerWeight": "70.71PS/tonne",
+      "torqueWeight": "102.83Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Swift 1.2L  CNG Manual Price List"
     },
     {
@@ -150,11 +255,15 @@
       "power": "70PS",
       "torque": "102Nm",
       "mileage": "32.85km/kg",
+      "cylinders": "3",
+      "kerbWeight": "990Kg",
+      "powerWeight": "70.71PS/tonne",
+      "torqueWeight": "102.83Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Maruti Suzuki Swift 1.2L  CNG Manual Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:17.272Z",
-  "source": "https://www.v3cars.com/maruti-arena-cars/swift",
-  "v3carsImage": "/cars/maruti-swift.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/119202swift.png"
+  "syncedAt": "2026-05-17T13:03:01.861Z",
+  "source": "https://www.v3cars.com/maruti-arena-cars/swift"
 }

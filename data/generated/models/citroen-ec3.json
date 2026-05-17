@@ -7,7 +7,7 @@
   "summary": "Affordable electric hatch based on C3.",
   "segment": "ev",
   "imageUrl": "https://www.citroen.in/content/dam/citroen/in/models/ec3/ec3-hero.jpg",
-  "priceRangeMin": 13.26,
+  "priceRangeMin": 12.9,
   "priceRangeMax": 13.53,
   "dimensions": [
     {
@@ -35,8 +35,27 @@
       "value": "170 mm"
     }
   ],
+  "safety": [],
   "engines": [],
   "variants": [
+    {
+      "trim": "Feel",
+      "nameSuffix": "",
+      "priceLakh": 12.9,
+      "fuelType": "Petrol",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Citroen eC3 Range 320km | 3.3kW AC | FWD Price List"
+    },
     {
       "trim": "Shine",
       "nameSuffix": "",
@@ -47,6 +66,12 @@
       "power": "—",
       "torque": "—",
       "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Citroen eC3 Range 320km | 3.3kW AC | FWD Price List"
     },
     {
@@ -59,6 +84,12 @@
       "power": "—",
       "torque": "—",
       "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Citroen eC3 Range 320km | 3.3kW AC | FWD Price List"
     },
     {
@@ -71,6 +102,12 @@
       "power": "—",
       "torque": "—",
       "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Citroen eC3 Range 320km | 3.3kW AC | FWD Price List"
     },
     {
@@ -83,11 +120,15 @@
       "power": "—",
       "torque": "—",
       "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Citroen eC3 Range 320km | 3.3kW AC | FWD Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:51.162Z",
-  "source": "https://www.v3cars.com/citroen-cars/ec3",
-  "v3carsImage": "/cars/citroen-ec3.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/688434e-c3.png"
+  "syncedAt": "2026-05-17T13:03:54.792Z",
+  "source": "https://www.v3cars.com/citroen-cars/ec3"
 }

@@ -7,7 +7,7 @@
   "summary": "Fronx-based compact SUV from Toyota.",
   "segment": "suv-b",
   "imageUrl": "https://www.toyota.co.in/content/dam/toyota/in/models/taisor/taisor-hero.jpg",
-  "priceRangeMin": 8.13,
+  "priceRangeMin": 7.25,
   "priceRangeMax": 12.23,
   "dimensions": [
     {
@@ -39,6 +39,7 @@
       "value": "37 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "1197cc (5-speed MT)",
     "1197cc (5-speed AMT)",
@@ -46,6 +47,24 @@
     "998cc (6-speed TC)"
   ],
   "variants": [
+    {
+      "trim": "E",
+      "nameSuffix": "",
+      "priceLakh": 7.25,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "21.71kmpl",
+      "cylinders": "4",
+      "kerbWeight": "970Kg",
+      "powerWeight": "92.78PS/tonne",
+      "torqueWeight": "116.49Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Toyota Taisor 1.2L  Petrol Manual Price List"
+    },
     {
       "trim": "S",
       "nameSuffix": "",
@@ -56,6 +75,12 @@
       "power": "90PS",
       "torque": "113Nm",
       "mileage": "21.71kmpl",
+      "cylinders": "4",
+      "kerbWeight": "970Kg",
+      "powerWeight": "92.78PS/tonne",
+      "torqueWeight": "116.49Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Taisor 1.2L  Petrol Manual Price List"
     },
     {
@@ -68,7 +93,31 @@
       "power": "90PS",
       "torque": "113Nm",
       "mileage": "21.71kmpl",
+      "cylinders": "4",
+      "kerbWeight": "970Kg",
+      "powerWeight": "92.78PS/tonne",
+      "torqueWeight": "116.49Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Taisor 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "S",
+      "nameSuffix": "",
+      "priceLakh": 8.72,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "22.79kmpl",
+      "cylinders": "4",
+      "kerbWeight": "975Kg",
+      "powerWeight": "92.31PS/tonne",
+      "torqueWeight": "115.90Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Toyota Taisor 1.2L Petrol Automatic Price List"
     },
     {
       "trim": "S Plus",
@@ -80,7 +129,31 @@
       "power": "90PS",
       "torque": "113Nm",
       "mileage": "22.79kmpl",
+      "cylinders": "4",
+      "kerbWeight": "975Kg",
+      "powerWeight": "92.31PS/tonne",
+      "torqueWeight": "115.90Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Taisor 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "G (100PS)",
+      "nameSuffix": "",
+      "priceLakh": 10,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "5-speed MT",
+      "power": "100PS",
+      "torque": "148Nm",
+      "mileage": "21.18kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1030Kg",
+      "powerWeight": "97.09PS/tonne",
+      "torqueWeight": "143.69Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Toyota Taisor 1.0L Turbo Petrol Manual (100PS) Price List"
     },
     {
       "trim": "V (100PS)",
@@ -92,7 +165,31 @@
       "power": "100PS",
       "torque": "148Nm",
       "mileage": "21.18kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1030Kg",
+      "powerWeight": "97.09PS/tonne",
+      "torqueWeight": "143.69Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Taisor 1.0L Turbo Petrol Manual (100PS) Price List"
+    },
+    {
+      "trim": "G (100PS)",
+      "nameSuffix": "",
+      "priceLakh": 11.35,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "6-speed TC",
+      "power": "100PS",
+      "torque": "148Nm",
+      "mileage": "19.86kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1060Kg",
+      "powerWeight": "94.34PS/tonne",
+      "torqueWeight": "139.62Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Toyota Taisor 1.0L  Turbo Petrol Automatic (100PS) Price List"
     },
     {
       "trim": "V (100PS)",
@@ -104,11 +201,33 @@
       "power": "100PS",
       "torque": "148Nm",
       "mileage": "19.86kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1060Kg",
+      "powerWeight": "94.34PS/tonne",
+      "torqueWeight": "139.62Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Taisor 1.0L  Turbo Petrol Automatic (100PS) Price List"
+    },
+    {
+      "trim": "E",
+      "nameSuffix": "",
+      "priceLakh": 8.24,
+      "fuelType": "CNG",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "78PS",
+      "torque": "99Nm",
+      "mileage": "28.51km/kg",
+      "cylinders": "4",
+      "kerbWeight": "1060Kg",
+      "powerWeight": "73.58PS/tonne",
+      "torqueWeight": "93.40Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Toyota Taisor 1.2L  CNG Manual Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:35.929Z",
-  "source": "https://www.v3cars.com/toyota-cars/taisor",
-  "v3carsImage": "/cars/toyota-taisor.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/231273taisor.png"
+  "syncedAt": "2026-05-17T13:03:30.842Z",
+  "source": "https://www.v3cars.com/toyota-cars/taisor"
 }

@@ -13,6 +13,12 @@ export type CarVariant = {
   power: string;
   torque: string;
   mileage: string;
+  cylinders?: string;
+  kerbWeight?: string;
+  powerWeight?: string;
+  torqueWeight?: string;
+  realWorldMileage?: string;
+  driveType?: string;
   specs: CarSpec[];
   features: string[];
 };
@@ -22,6 +28,7 @@ export type CarModel = {
   slug: string;
   name: string;
   brand: string;
+  segment?: string;
   modelYear: number;
   tagline: string;
   image: string;

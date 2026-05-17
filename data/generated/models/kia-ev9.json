@@ -31,6 +31,7 @@
       "value": "198 mm"
     }
   ],
+  "safety": [],
   "engines": [],
   "variants": [
     {
@@ -43,11 +44,15 @@
       "power": "—",
       "torque": "—",
       "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia EV9 Range 561km | AWD Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:26:48.824Z",
-  "source": "https://www.v3cars.com/kia-cars/ev9",
-  "v3carsImage": "/cars/kia-ev9.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/599042ev9.png"
+  "syncedAt": "2026-05-17T13:02:09.971Z",
+  "source": "https://www.v3cars.com/kia-cars/ev9"
 }

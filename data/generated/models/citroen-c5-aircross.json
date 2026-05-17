@@ -35,10 +35,29 @@
       "value": "53 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "1997cc (8-speed TC)"
   ],
   "variants": [
+    {
+      "trim": "Shine",
+      "nameSuffix": "",
+      "priceLakh": 37.32,
+      "fuelType": "Diesel",
+      "engine": "1997cc",
+      "transmission": "8-speed TC",
+      "power": "177PS",
+      "torque": "400Nm",
+      "mileage": "17.50kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1685Kg",
+      "powerWeight": "105.04PS/tonne",
+      "torqueWeight": "237.39Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Citroen C5 Aircross 2.0L Diesel Automatic Price List"
+    },
     {
       "trim": "Shine Dual Tone",
       "nameSuffix": "",
@@ -49,11 +68,15 @@
       "power": "177PS",
       "torque": "400Nm",
       "mileage": "17.50kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1685Kg",
+      "powerWeight": "105.04PS/tonne",
+      "torqueWeight": "237.39Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Citroen C5 Aircross 2.0L Diesel Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:53.567Z",
-  "source": "https://www.v3cars.com/citroen-cars/c5-aircross",
-  "v3carsImage": "/cars/citroen-c5-aircross.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/182805c5-aircross.png"
+  "syncedAt": "2026-05-17T13:03:58.427Z",
+  "source": "https://www.v3cars.com/citroen-cars/c5-aircross"
 }

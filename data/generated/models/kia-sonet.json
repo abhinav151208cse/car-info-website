@@ -7,7 +7,7 @@
   "summary": "Compact SUV with turbo-petrol, NA petrol and diesel powertrains and connected-car tech.",
   "segment": "suv-b",
   "imageUrl": "https://www.kia.com/content/dam/kia2/in/en/images/showroom/2024/sonet/sonet-ice-hero-pc.jpg",
-  "priceRangeMin": 7.7,
+  "priceRangeMin": 7.3,
   "priceRangeMax": 14.1,
   "dimensions": [
     {
@@ -39,6 +39,7 @@
       "value": "45 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "1493cc (6-speed MT)",
     "1493cc (6-speed TC)",
@@ -47,6 +48,24 @@
     "998cc (7-speed DCT)"
   ],
   "variants": [
+    {
+      "trim": "HTE (O)",
+      "nameSuffix": "",
+      "priceLakh": 8.98,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "22.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1233Kg",
+      "powerWeight": "94.08PS/tonne",
+      "torqueWeight": "202.76Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Kia Sonet 1.5L  Diesel Manual Price List"
+    },
     {
       "trim": "HTK (O)",
       "nameSuffix": "",
@@ -57,6 +76,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "22.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1233Kg",
+      "powerWeight": "94.08PS/tonne",
+      "torqueWeight": "202.76Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Sonet 1.5L  Diesel Manual Price List"
     },
     {
@@ -69,6 +94,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "22.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1233Kg",
+      "powerWeight": "94.08PS/tonne",
+      "torqueWeight": "202.76Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Sonet 1.5L  Diesel Manual Price List"
     },
     {
@@ -81,6 +112,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "22.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1233Kg",
+      "powerWeight": "94.08PS/tonne",
+      "torqueWeight": "202.76Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Sonet 1.5L  Diesel Manual Price List"
     },
     {
@@ -93,7 +130,31 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "22.30kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1233Kg",
+      "powerWeight": "94.08PS/tonne",
+      "torqueWeight": "202.76Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Sonet 1.5L  Diesel Manual Price List"
+    },
+    {
+      "trim": "HTK (O)",
+      "nameSuffix": "",
+      "priceLakh": 10.73,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "18.60kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1233Kg",
+      "powerWeight": "94.08PS/tonne",
+      "torqueWeight": "202.76Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Kia Sonet 1.5L  Diesel Automatic Price List"
     },
     {
       "trim": "HTX",
@@ -105,6 +166,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "18.60kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1233Kg",
+      "powerWeight": "94.08PS/tonne",
+      "torqueWeight": "202.76Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Sonet 1.5L  Diesel Automatic Price List"
     },
     {
@@ -117,6 +184,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "18.60kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1233Kg",
+      "powerWeight": "94.08PS/tonne",
+      "torqueWeight": "202.76Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Sonet 1.5L  Diesel Automatic Price List"
     },
     {
@@ -129,7 +202,31 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "18.60kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1233Kg",
+      "powerWeight": "94.08PS/tonne",
+      "torqueWeight": "202.76Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Sonet 1.5L  Diesel Automatic Price List"
+    },
+    {
+      "trim": "HTE",
+      "nameSuffix": "",
+      "priceLakh": 7.3,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "18.83kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1081Kg",
+      "powerWeight": "76.78PS/tonne",
+      "torqueWeight": "106.38Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Kia Sonet 1.2L  Petrol Manual Price List"
     },
     {
       "trim": "HTE (O)",
@@ -141,6 +238,12 @@
       "power": "83PS",
       "torque": "115Nm",
       "mileage": "18.83kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1081Kg",
+      "powerWeight": "76.78PS/tonne",
+      "torqueWeight": "106.38Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Sonet 1.2L  Petrol Manual Price List"
     },
     {
@@ -153,6 +256,12 @@
       "power": "83PS",
       "torque": "115Nm",
       "mileage": "18.83kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1081Kg",
+      "powerWeight": "76.78PS/tonne",
+      "torqueWeight": "106.38Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Sonet 1.2L  Petrol Manual Price List"
     },
     {
@@ -165,6 +274,12 @@
       "power": "83PS",
       "torque": "115Nm",
       "mileage": "18.83kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1081Kg",
+      "powerWeight": "76.78PS/tonne",
+      "torqueWeight": "106.38Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Sonet 1.2L  Petrol Manual Price List"
     },
     {
@@ -177,6 +292,12 @@
       "power": "83PS",
       "torque": "115Nm",
       "mileage": "18.83kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1081Kg",
+      "powerWeight": "76.78PS/tonne",
+      "torqueWeight": "106.38Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Sonet 1.2L  Petrol Manual Price List"
     },
     {
@@ -189,7 +310,31 @@
       "power": "83PS",
       "torque": "115Nm",
       "mileage": "18.83kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1081Kg",
+      "powerWeight": "76.78PS/tonne",
+      "torqueWeight": "106.38Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Sonet 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "HTK (120PS)",
+      "nameSuffix": "",
+      "priceLakh": 8.79,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "6-speed ACMT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "18.70kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1154Kg",
+      "powerWeight": "103.99PS/tonne",
+      "torqueWeight": "149.05Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Kia Sonet 1.0L Turbo Petrol Manual (120PS) Price List"
     },
     {
       "trim": "HTK (O) (120PS)",
@@ -201,6 +346,12 @@
       "power": "120PS",
       "torque": "172Nm",
       "mileage": "18.70kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1154Kg",
+      "powerWeight": "103.99PS/tonne",
+      "torqueWeight": "149.05Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Sonet 1.0L Turbo Petrol Manual (120PS) Price List"
     },
     {
@@ -213,6 +364,12 @@
       "power": "120PS",
       "torque": "172Nm",
       "mileage": "18.70kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1154Kg",
+      "powerWeight": "103.99PS/tonne",
+      "torqueWeight": "149.05Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Sonet 1.0L Turbo Petrol Manual (120PS) Price List"
     },
     {
@@ -225,6 +382,12 @@
       "power": "120PS",
       "torque": "172Nm",
       "mileage": "18.70kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1154Kg",
+      "powerWeight": "103.99PS/tonne",
+      "torqueWeight": "149.05Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Sonet 1.0L Turbo Petrol Manual (120PS) Price List"
     },
     {
@@ -237,7 +400,31 @@
       "power": "120PS",
       "torque": "172Nm",
       "mileage": "18.70kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1154Kg",
+      "powerWeight": "103.99PS/tonne",
+      "torqueWeight": "149.05Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Sonet 1.0L Turbo Petrol Manual (120PS) Price List"
+    },
+    {
+      "trim": "HTX",
+      "nameSuffix": "",
+      "priceLakh": 11.6,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "19.20kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1171Kg",
+      "powerWeight": "102.48PS/tonne",
+      "torqueWeight": "146.88Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Kia Sonet 1.0L  Turbo Petrol Automatic Price List"
     },
     {
       "trim": "GTX Plus",
@@ -249,6 +436,12 @@
       "power": "120PS",
       "torque": "172Nm",
       "mileage": "19.20kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1171Kg",
+      "powerWeight": "102.48PS/tonne",
+      "torqueWeight": "146.88Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Sonet 1.0L  Turbo Petrol Automatic Price List"
     },
     {
@@ -261,6 +454,12 @@
       "power": "120PS",
       "torque": "172Nm",
       "mileage": "19.20kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1171Kg",
+      "powerWeight": "102.48PS/tonne",
+      "torqueWeight": "146.88Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Sonet 1.0L  Turbo Petrol Automatic Price List"
     },
     {
@@ -273,11 +472,15 @@
       "power": "120PS",
       "torque": "172Nm",
       "mileage": "19.20kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1171Kg",
+      "powerWeight": "102.48PS/tonne",
+      "torqueWeight": "146.88Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Sonet 1.0L  Turbo Petrol Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:18:45.496Z",
-  "source": "https://www.v3cars.com/kia-cars/sonet",
-  "v3carsImage": "/cars/kia-sonet.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/369291sonet.png"
+  "syncedAt": "2026-05-17T13:02:04.040Z",
+  "source": "https://www.v3cars.com/kia-cars/sonet"
 }

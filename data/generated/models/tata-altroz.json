@@ -7,7 +7,7 @@
   "summary": "5-star rated hatch with turbo-petrol and diesel engines.",
   "segment": "hatch",
   "imageUrl": "https://www.tatamotors.com/content/dam/tata-motors/passenger-vehicles/altroz/altroz-ice/hero/altroz-hero-desktop.jpg",
-  "priceRangeMin": 7.1,
+  "priceRangeMin": 6.3,
   "priceRangeMax": 10.77,
   "dimensions": [
     {
@@ -39,6 +39,11 @@
       "value": "60 litres"
     }
   ],
+  "safety": [
+    "5-star Bharat NCAP safety rating",
+    "6 airbags (variant dependent)",
+    "360° camera (select trims)"
+  ],
   "engines": [
     "1199cc (5-speed MT)",
     "1497cc (5-speed MT)",
@@ -47,6 +52,24 @@
     "1199cc (5-speed AMT)"
   ],
   "variants": [
+    {
+      "trim": "Smart",
+      "nameSuffix": "",
+      "priceLakh": 6.3,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "19.33kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1036Kg",
+      "powerWeight": "84.94PS/tonne",
+      "torqueWeight": "111.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Altroz 1.2L  Petrol Manual Price List"
+    },
     {
       "trim": "Pure",
       "nameSuffix": "",
@@ -57,6 +80,12 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "19.33kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1036Kg",
+      "powerWeight": "84.94PS/tonne",
+      "torqueWeight": "111.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.2L  Petrol Manual Price List"
     },
     {
@@ -69,6 +98,12 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "19.33kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1036Kg",
+      "powerWeight": "84.94PS/tonne",
+      "torqueWeight": "111.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.2L  Petrol Manual Price List"
     },
     {
@@ -81,6 +116,12 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "19.33kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1036Kg",
+      "powerWeight": "84.94PS/tonne",
+      "torqueWeight": "111.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.2L  Petrol Manual Price List"
     },
     {
@@ -93,6 +134,12 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "19.33kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1036Kg",
+      "powerWeight": "84.94PS/tonne",
+      "torqueWeight": "111.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.2L  Petrol Manual Price List"
     },
     {
@@ -105,7 +152,31 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "19.33kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1036Kg",
+      "powerWeight": "84.94PS/tonne",
+      "torqueWeight": "111.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "Pure",
+      "nameSuffix": "",
+      "priceLakh": 8.15,
+      "fuelType": "Diesel",
+      "engine": "1497cc",
+      "transmission": "5-speed MT",
+      "power": "90PS",
+      "torque": "200Nm",
+      "mileage": "23.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1150Kg",
+      "powerWeight": "78.26PS/tonne",
+      "torqueWeight": "173.91Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Altroz 1.5L  Diesel Manual Price List"
     },
     {
       "trim": "Creative S",
@@ -117,6 +188,12 @@
       "power": "90PS",
       "torque": "200Nm",
       "mileage": "23.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1150Kg",
+      "powerWeight": "78.26PS/tonne",
+      "torqueWeight": "173.91Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.5L  Diesel Manual Price List"
     },
     {
@@ -129,7 +206,31 @@
       "power": "90PS",
       "torque": "200Nm",
       "mileage": "23.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1150Kg",
+      "powerWeight": "78.26PS/tonne",
+      "torqueWeight": "173.91Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.5L  Diesel Manual Price List"
+    },
+    {
+      "trim": "Pure",
+      "nameSuffix": "",
+      "priceLakh": 7.65,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "6-speed AMT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "19.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1036Kg",
+      "powerWeight": "84.94PS/tonne",
+      "torqueWeight": "111.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Altroz 1.2L Petrol Automatic Price List"
     },
     {
       "trim": "Pure S",
@@ -141,6 +242,12 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "19.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1036Kg",
+      "powerWeight": "84.94PS/tonne",
+      "torqueWeight": "111.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.2L Petrol Automatic Price List"
     },
     {
@@ -153,6 +260,12 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "19.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1036Kg",
+      "powerWeight": "84.94PS/tonne",
+      "torqueWeight": "111.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.2L Petrol Automatic Price List"
     },
     {
@@ -165,7 +278,31 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "19.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1036Kg",
+      "powerWeight": "84.94PS/tonne",
+      "torqueWeight": "111.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Smart",
+      "nameSuffix": "",
+      "priceLakh": 7.3,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "74PS",
+      "torque": "103Nm",
+      "mileage": "26.00km/kg",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Altroz 1.2L  CNG Manual Price List"
     },
     {
       "trim": "Pure",
@@ -177,6 +314,12 @@
       "power": "74PS",
       "torque": "103Nm",
       "mileage": "26.00km/kg",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.2L  CNG Manual Price List"
     },
     {
@@ -189,6 +332,12 @@
       "power": "74PS",
       "torque": "103Nm",
       "mileage": "26.00km/kg",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.2L  CNG Manual Price List"
     },
     {
@@ -201,6 +350,12 @@
       "power": "74PS",
       "torque": "103Nm",
       "mileage": "26.00km/kg",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.2L  CNG Manual Price List"
     },
     {
@@ -213,6 +368,12 @@
       "power": "74PS",
       "torque": "103Nm",
       "mileage": "26.00km/kg",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.2L  CNG Manual Price List"
     },
     {
@@ -225,7 +386,31 @@
       "power": "74PS",
       "torque": "103Nm",
       "mileage": "26.00km/kg",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.2L  CNG Manual Price List"
+    },
+    {
+      "trim": "Creative S",
+      "nameSuffix": "",
+      "priceLakh": 9.52,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "6-speed DCT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "18.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1036Kg",
+      "powerWeight": "84.94PS/tonne",
+      "torqueWeight": "111.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Altroz 1.2L  Petrol Automatic DCT 88PS Price List"
     },
     {
       "trim": "Accomplished S",
@@ -237,6 +422,12 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "18.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1036Kg",
+      "powerWeight": "84.94PS/tonne",
+      "torqueWeight": "111.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.2L  Petrol Automatic DCT 88PS Price List"
     },
     {
@@ -249,7 +440,31 @@
       "power": "88PS",
       "torque": "115Nm",
       "mileage": "18.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1036Kg",
+      "powerWeight": "84.94PS/tonne",
+      "torqueWeight": "111.00Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.2L  Petrol Automatic DCT 88PS Price List"
+    },
+    {
+      "trim": "Pure",
+      "nameSuffix": "",
+      "priceLakh": 8.7,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "74PS",
+      "torque": "103Nm",
+      "mileage": "26.00km/kg",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Altroz 1.2L CNG Automatic Price List"
     },
     {
       "trim": "Pure S",
@@ -261,6 +476,12 @@
       "power": "74PS",
       "torque": "103Nm",
       "mileage": "26.00km/kg",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.2L CNG Automatic Price List"
     },
     {
@@ -273,6 +494,12 @@
       "power": "74PS",
       "torque": "103Nm",
       "mileage": "26.00km/kg",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.2L CNG Automatic Price List"
     },
     {
@@ -285,6 +512,12 @@
       "power": "74PS",
       "torque": "103Nm",
       "mileage": "26.00km/kg",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.2L CNG Automatic Price List"
     },
     {
@@ -297,11 +530,15 @@
       "power": "74PS",
       "torque": "103Nm",
       "mileage": "26.00km/kg",
+      "cylinders": "3",
+      "kerbWeight": "-",
+      "powerWeight": "-",
+      "torqueWeight": "-",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Altroz 1.2L CNG Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:18:54.028Z",
-  "source": "https://www.v3cars.com/tata-cars/altroz",
-  "v3carsImage": "/cars/tata-altroz.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/655954altroz.png"
+  "syncedAt": "2026-05-17T13:02:16.278Z",
+  "source": "https://www.v3cars.com/tata-cars/altroz"
 }

@@ -7,7 +7,7 @@
   "summary": "Long-range electric Nexon with multiple battery packs.",
   "segment": "ev",
   "imageUrl": "https://www.tatamotors.com/content/dam/tata-motors/passenger-vehicles/nexon/nexon-ev/hero/nexon-ev-hero-desktop.jpg",
-  "priceRangeMin": 13.29,
+  "priceRangeMin": 12.49,
   "priceRangeMax": 17.19,
   "dimensions": [
     {
@@ -35,8 +35,27 @@
       "value": "205 mm"
     }
   ],
+  "safety": [],
   "engines": [],
   "variants": [
+    {
+      "trim": "Creative Plus",
+      "nameSuffix": "",
+      "priceLakh": 12.49,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Nexon EV Range 325km | 3.3kW AC | FWD Price List"
+    },
     {
       "trim": "Fearless",
       "nameSuffix": "",
@@ -47,6 +66,12 @@
       "power": "—",
       "torque": "—",
       "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon EV Range 325km | 3.3kW AC | FWD Price List"
     },
     {
@@ -59,6 +84,12 @@
       "power": "—",
       "torque": "—",
       "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon EV Range 325km | 3.3kW AC | FWD Price List"
     },
     {
@@ -71,6 +102,12 @@
       "power": "—",
       "torque": "—",
       "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon EV Range 325km | 3.3kW AC | FWD Price List"
     },
     {
@@ -83,7 +120,31 @@
       "power": "—",
       "torque": "—",
       "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon EV Range 325km | 3.3kW AC | FWD Price List"
+    },
+    {
+      "trim": "Creative",
+      "nameSuffix": "",
+      "priceLakh": 13.99,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Tata Nexon EV Range 489km | 7.2kW AC | FWD Price List"
     },
     {
       "trim": "Fearless",
@@ -95,6 +156,12 @@
       "power": "—",
       "torque": "—",
       "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon EV Range 489km | 7.2kW AC | FWD Price List"
     },
     {
@@ -107,6 +174,12 @@
       "power": "—",
       "torque": "—",
       "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon EV Range 489km | 7.2kW AC | FWD Price List"
     },
     {
@@ -119,6 +192,12 @@
       "power": "—",
       "torque": "—",
       "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon EV Range 489km | 7.2kW AC | FWD Price List"
     },
     {
@@ -131,11 +210,15 @@
       "power": "—",
       "torque": "—",
       "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Tata Nexon EV Range 489km | 7.2kW AC | FWD Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:01.114Z",
-  "source": "https://www.v3cars.com/tata-cars/nexon-ev",
-  "v3carsImage": "/cars/tata-nexon-ev.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/664485nexon-ev.png"
+  "syncedAt": "2026-05-17T13:02:24.944Z",
+  "source": "https://www.v3cars.com/tata-cars/nexon-ev"
 }

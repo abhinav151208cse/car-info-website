@@ -7,7 +7,7 @@
   "summary": "Sub-4m SUV with turbo-petrol, diesel and N Line variants.",
   "segment": "suv-b",
   "imageUrl": "https://www.hyundai.com/content/dam/hyundai/in/en/data/vehicle-images/venue/venue-ice/venue-hero.jpg",
-  "priceRangeMin": 8.9,
+  "priceRangeMin": 8,
   "priceRangeMax": 15.69,
   "dimensions": [
     {
@@ -39,6 +39,7 @@
       "value": "45 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "1197cc (5-speed MT)",
     "998cc (6-speed MT)",
@@ -47,6 +48,24 @@
     "1493cc (6-speed TC)"
   ],
   "variants": [
+    {
+      "trim": "HX2",
+      "nameSuffix": "",
+      "priceLakh": 8,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "18.05kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1081Kg",
+      "powerWeight": "76.78PS/tonne",
+      "torqueWeight": "106.38Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Hyundai Venue 1.2L Petrol Manual Price List"
+    },
     {
       "trim": "HX4",
       "nameSuffix": "",
@@ -57,6 +76,12 @@
       "power": "83PS",
       "torque": "115Nm",
       "mileage": "18.05kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1081Kg",
+      "powerWeight": "76.78PS/tonne",
+      "torqueWeight": "106.38Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.2L Petrol Manual Price List"
     },
     {
@@ -69,6 +94,12 @@
       "power": "83PS",
       "torque": "115Nm",
       "mileage": "18.05kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1081Kg",
+      "powerWeight": "76.78PS/tonne",
+      "torqueWeight": "106.38Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.2L Petrol Manual Price List"
     },
     {
@@ -81,6 +112,12 @@
       "power": "83PS",
       "torque": "115Nm",
       "mileage": "18.05kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1081Kg",
+      "powerWeight": "76.78PS/tonne",
+      "torqueWeight": "106.38Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.2L Petrol Manual Price List"
     },
     {
@@ -93,6 +130,12 @@
       "power": "83PS",
       "torque": "115Nm",
       "mileage": "18.05kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1081Kg",
+      "powerWeight": "76.78PS/tonne",
+      "torqueWeight": "106.38Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.2L Petrol Manual Price List"
     },
     {
@@ -105,6 +148,12 @@
       "power": "83PS",
       "torque": "115Nm",
       "mileage": "18.05kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1081Kg",
+      "powerWeight": "76.78PS/tonne",
+      "torqueWeight": "106.38Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.2L Petrol Manual Price List"
     },
     {
@@ -117,6 +166,12 @@
       "power": "83PS",
       "torque": "115Nm",
       "mileage": "18.05kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1081Kg",
+      "powerWeight": "76.78PS/tonne",
+      "torqueWeight": "106.38Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.2L Petrol Manual Price List"
     },
     {
@@ -129,6 +184,12 @@
       "power": "83PS",
       "torque": "115Nm",
       "mileage": "18.05kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1081Kg",
+      "powerWeight": "76.78PS/tonne",
+      "torqueWeight": "106.38Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.2L Petrol Manual Price List"
     },
     {
@@ -141,7 +202,31 @@
       "power": "83PS",
       "torque": "115Nm",
       "mileage": "18.05kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1081Kg",
+      "powerWeight": "76.78PS/tonne",
+      "torqueWeight": "106.38Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "HX2",
+      "nameSuffix": "",
+      "priceLakh": 8.9,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "6-speed MT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "18.74kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1155Kg",
+      "powerWeight": "103.90PS/tonne",
+      "torqueWeight": "148.92Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Hyundai Venue 1.0L Turbo Petrol Manual (120PS) Price List"
     },
     {
       "trim": "HX5",
@@ -153,6 +238,12 @@
       "power": "120PS",
       "torque": "172Nm",
       "mileage": "18.74kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1155Kg",
+      "powerWeight": "103.90PS/tonne",
+      "torqueWeight": "148.92Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.0L Turbo Petrol Manual (120PS) Price List"
     },
     {
@@ -165,6 +256,12 @@
       "power": "120PS",
       "torque": "172Nm",
       "mileage": "18.74kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1155Kg",
+      "powerWeight": "103.90PS/tonne",
+      "torqueWeight": "148.92Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.0L Turbo Petrol Manual (120PS) Price List"
     },
     {
@@ -177,7 +274,31 @@
       "power": "120PS",
       "torque": "172Nm",
       "mileage": "18.74kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1155Kg",
+      "powerWeight": "103.90PS/tonne",
+      "torqueWeight": "148.92Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.0L Turbo Petrol Manual (120PS) Price List"
+    },
+    {
+      "trim": "HX2",
+      "nameSuffix": "",
+      "priceLakh": 9.8,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "20.99kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1177Kg",
+      "powerWeight": "98.56PS/tonne",
+      "torqueWeight": "212.40Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Hyundai Venue 1.5L Diesel Manual Price List"
     },
     {
       "trim": "HX5",
@@ -189,6 +310,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "20.99kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1177Kg",
+      "powerWeight": "98.56PS/tonne",
+      "torqueWeight": "212.40Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.5L Diesel Manual Price List"
     },
     {
@@ -201,6 +328,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "20.99kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1177Kg",
+      "powerWeight": "98.56PS/tonne",
+      "torqueWeight": "212.40Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.5L Diesel Manual Price List"
     },
     {
@@ -213,7 +346,31 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "20.99kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1177Kg",
+      "powerWeight": "98.56PS/tonne",
+      "torqueWeight": "212.40Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.5L Diesel Manual Price List"
+    },
+    {
+      "trim": "HX5",
+      "nameSuffix": "",
+      "priceLakh": 10.82,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "20.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1171Kg",
+      "powerWeight": "102.48PS/tonne",
+      "torqueWeight": "146.88Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Hyundai Venue 1.0L  Turbo Petrol Automatic Price List"
     },
     {
       "trim": "HX6",
@@ -225,6 +382,12 @@
       "power": "120PS",
       "torque": "172Nm",
       "mileage": "20.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1171Kg",
+      "powerWeight": "102.48PS/tonne",
+      "torqueWeight": "146.88Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.0L  Turbo Petrol Automatic Price List"
     },
     {
@@ -237,6 +400,12 @@
       "power": "120PS",
       "torque": "172Nm",
       "mileage": "20.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1171Kg",
+      "powerWeight": "102.48PS/tonne",
+      "torqueWeight": "146.88Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.0L  Turbo Petrol Automatic Price List"
     },
     {
@@ -249,6 +418,12 @@
       "power": "120PS",
       "torque": "172Nm",
       "mileage": "20.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1171Kg",
+      "powerWeight": "102.48PS/tonne",
+      "torqueWeight": "146.88Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.0L  Turbo Petrol Automatic Price List"
     },
     {
@@ -261,6 +436,12 @@
       "power": "120PS",
       "torque": "172Nm",
       "mileage": "20.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1171Kg",
+      "powerWeight": "102.48PS/tonne",
+      "torqueWeight": "146.88Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.0L  Turbo Petrol Automatic Price List"
     },
     {
@@ -273,6 +454,12 @@
       "power": "120PS",
       "torque": "172Nm",
       "mileage": "20.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1171Kg",
+      "powerWeight": "102.48PS/tonne",
+      "torqueWeight": "146.88Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.0L  Turbo Petrol Automatic Price List"
     },
     {
@@ -285,7 +472,31 @@
       "power": "120PS",
       "torque": "172Nm",
       "mileage": "20.00kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1171Kg",
+      "powerWeight": "102.48PS/tonne",
+      "torqueWeight": "146.88Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "HX5",
+      "nameSuffix": "",
+      "priceLakh": 11.73,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "17.90kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1177Kg",
+      "powerWeight": "98.56PS/tonne",
+      "torqueWeight": "212.40Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Hyundai Venue 1.5L  Diesel Automatic Price List"
     },
     {
       "trim": "HX10",
@@ -297,6 +508,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "17.90kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1177Kg",
+      "powerWeight": "98.56PS/tonne",
+      "torqueWeight": "212.40Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.5L  Diesel Automatic Price List"
     },
     {
@@ -309,11 +526,15 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "17.90kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1177Kg",
+      "powerWeight": "98.56PS/tonne",
+      "torqueWeight": "212.40Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Venue 1.5L  Diesel Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:04.779Z",
-  "source": "https://www.v3cars.com/hyundai-cars/venue",
-  "v3carsImage": "/cars/hyundai-venue.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/523969venue.png"
+  "syncedAt": "2026-05-17T13:02:30.226Z",
+  "source": "https://www.v3cars.com/hyundai-cars/venue"
 }

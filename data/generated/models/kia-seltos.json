@@ -7,7 +7,7 @@
   "summary": "Mid-size SUV with petrol, turbo-petrol and diesel options, Level 2 ADAS on top trims, and dual 12.3-inch displays.",
   "segment": "suv-c",
   "imageUrl": "https://www.kia.com/content/dam/kia2/in/en/images/showroom/2024/seltos/seltos-ice-hero-pc.jpg",
-  "priceRangeMin": 12.09,
+  "priceRangeMin": 10.99,
   "priceRangeMax": 19.99,
   "dimensions": [
     {
@@ -39,6 +39,10 @@
       "value": "50 litres"
     }
   ],
+  "safety": [
+    "5-star Bharat NCAP safety rating",
+    "ADAS driver-assistance (top trims)"
+  ],
   "engines": [
     "1497cc (6-speed MT)",
     "1497cc (CVT)",
@@ -49,6 +53,24 @@
   ],
   "variants": [
     {
+      "trim": "HTE",
+      "nameSuffix": "",
+      "priceLakh": 10.99,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.00PS/tonne",
+      "torqueWeight": "115.20Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Kia Seltos 1.5L  Petrol Manual Price List"
+    },
+    {
       "trim": "HTE (O)",
       "nameSuffix": "",
       "priceLakh": 12.09,
@@ -58,6 +80,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.00PS/tonne",
+      "torqueWeight": "115.20Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Petrol Manual Price List"
     },
     {
@@ -70,6 +98,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.00PS/tonne",
+      "torqueWeight": "115.20Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Petrol Manual Price List"
     },
     {
@@ -82,6 +116,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.00PS/tonne",
+      "torqueWeight": "115.20Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Petrol Manual Price List"
     },
     {
@@ -94,6 +134,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.00PS/tonne",
+      "torqueWeight": "115.20Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Petrol Manual Price List"
     },
     {
@@ -106,7 +152,31 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.00kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.00PS/tonne",
+      "torqueWeight": "115.20Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Petrol Manual Price List"
+    },
+    {
+      "trim": "HTE (O)",
+      "nameSuffix": "",
+      "priceLakh": 13.39,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "CVT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.00PS/tonne",
+      "torqueWeight": "115.20Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Kia Seltos 1.5L  Petrol Automatic Price List"
     },
     {
       "trim": "HTK",
@@ -118,6 +188,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.00PS/tonne",
+      "torqueWeight": "115.20Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Petrol Automatic Price List"
     },
     {
@@ -130,6 +206,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.00PS/tonne",
+      "torqueWeight": "115.20Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Petrol Automatic Price List"
     },
     {
@@ -142,6 +224,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.00PS/tonne",
+      "torqueWeight": "115.20Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Petrol Automatic Price List"
     },
     {
@@ -154,6 +242,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.00PS/tonne",
+      "torqueWeight": "115.20Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Petrol Automatic Price List"
     },
     {
@@ -166,6 +260,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.00PS/tonne",
+      "torqueWeight": "115.20Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Petrol Automatic Price List"
     },
     {
@@ -178,6 +278,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.00PS/tonne",
+      "torqueWeight": "115.20Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Petrol Automatic Price List"
     },
     {
@@ -190,6 +296,12 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.00PS/tonne",
+      "torqueWeight": "115.20Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Petrol Automatic Price List"
     },
     {
@@ -202,7 +314,31 @@
       "power": "115PS",
       "torque": "144Nm",
       "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1250Kg",
+      "powerWeight": "92.00PS/tonne",
+      "torqueWeight": "115.20Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Petrol Automatic Price List"
+    },
+    {
+      "trim": "HTE (O)",
+      "nameSuffix": "",
+      "priceLakh": 12.89,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "6-speed ACMT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1300Kg",
+      "powerWeight": "123.08PS/tonne",
+      "torqueWeight": "194.62Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Kia Seltos 1.5L  Turbo Petrol Manual (160PS) Price List"
     },
     {
       "trim": "HTK",
@@ -214,6 +350,12 @@
       "power": "160PS",
       "torque": "253Nm",
       "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1300Kg",
+      "powerWeight": "123.08PS/tonne",
+      "torqueWeight": "194.62Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Turbo Petrol Manual (160PS) Price List"
     },
     {
@@ -226,7 +368,31 @@
       "power": "160PS",
       "torque": "253Nm",
       "mileage": "17.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1300Kg",
+      "powerWeight": "123.08PS/tonne",
+      "torqueWeight": "194.62Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Turbo Petrol Manual (160PS) Price List"
+    },
+    {
+      "trim": "HTK (O)",
+      "nameSuffix": "",
+      "priceLakh": 16.29,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "17.90kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1300Kg",
+      "powerWeight": "123.08PS/tonne",
+      "torqueWeight": "194.62Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Kia Seltos 1.5L  Turbo Petrol Automatic (160PS) Price List"
     },
     {
       "trim": "HTX",
@@ -238,6 +404,12 @@
       "power": "160PS",
       "torque": "253Nm",
       "mileage": "17.90kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1300Kg",
+      "powerWeight": "123.08PS/tonne",
+      "torqueWeight": "194.62Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Turbo Petrol Automatic (160PS) Price List"
     },
     {
@@ -250,6 +422,12 @@
       "power": "160PS",
       "torque": "253Nm",
       "mileage": "17.90kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1300Kg",
+      "powerWeight": "123.08PS/tonne",
+      "torqueWeight": "194.62Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Turbo Petrol Automatic (160PS) Price List"
     },
     {
@@ -262,6 +440,12 @@
       "power": "160PS",
       "torque": "253Nm",
       "mileage": "17.90kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1300Kg",
+      "powerWeight": "123.08PS/tonne",
+      "torqueWeight": "194.62Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Turbo Petrol Automatic (160PS) Price List"
     },
     {
@@ -274,6 +458,12 @@
       "power": "160PS",
       "torque": "253Nm",
       "mileage": "17.90kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1300Kg",
+      "powerWeight": "123.08PS/tonne",
+      "torqueWeight": "194.62Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Turbo Petrol Automatic (160PS) Price List"
     },
     {
@@ -286,6 +476,12 @@
       "power": "160PS",
       "torque": "253Nm",
       "mileage": "17.90kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1300Kg",
+      "powerWeight": "123.08PS/tonne",
+      "torqueWeight": "194.62Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Turbo Petrol Automatic (160PS) Price List"
     },
     {
@@ -298,7 +494,31 @@
       "power": "160PS",
       "torque": "253Nm",
       "mileage": "17.90kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1300Kg",
+      "powerWeight": "123.08PS/tonne",
+      "torqueWeight": "194.62Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Turbo Petrol Automatic (160PS) Price List"
+    },
+    {
+      "trim": "HTE",
+      "nameSuffix": "",
+      "priceLakh": 12.59,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "20.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1350Kg",
+      "powerWeight": "85.93PS/tonne",
+      "torqueWeight": "185.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Kia Seltos 1.5L Diesel Manual Price List"
     },
     {
       "trim": "HTE (O)",
@@ -310,6 +530,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "20.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1350Kg",
+      "powerWeight": "85.93PS/tonne",
+      "torqueWeight": "185.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L Diesel Manual Price List"
     },
     {
@@ -322,6 +548,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "20.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1350Kg",
+      "powerWeight": "85.93PS/tonne",
+      "torqueWeight": "185.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L Diesel Manual Price List"
     },
     {
@@ -334,6 +566,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "20.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1350Kg",
+      "powerWeight": "85.93PS/tonne",
+      "torqueWeight": "185.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L Diesel Manual Price List"
     },
     {
@@ -346,6 +584,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "20.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1350Kg",
+      "powerWeight": "85.93PS/tonne",
+      "torqueWeight": "185.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L Diesel Manual Price List"
     },
     {
@@ -358,7 +602,31 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "20.70kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1350Kg",
+      "powerWeight": "85.93PS/tonne",
+      "torqueWeight": "185.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L Diesel Manual Price List"
+    },
+    {
+      "trim": "HTE (O)",
+      "nameSuffix": "",
+      "priceLakh": 14.99,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "19.10kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1350Kg",
+      "powerWeight": "85.93PS/tonne",
+      "torqueWeight": "185.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Kia Seltos 1.5L  Diesel Automatic Price List"
     },
     {
       "trim": "HTK",
@@ -370,6 +638,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "19.10kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1350Kg",
+      "powerWeight": "85.93PS/tonne",
+      "torqueWeight": "185.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Diesel Automatic Price List"
     },
     {
@@ -382,6 +656,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "19.10kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1350Kg",
+      "powerWeight": "85.93PS/tonne",
+      "torqueWeight": "185.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Diesel Automatic Price List"
     },
     {
@@ -394,6 +674,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "19.10kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1350Kg",
+      "powerWeight": "85.93PS/tonne",
+      "torqueWeight": "185.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Diesel Automatic Price List"
     },
     {
@@ -406,6 +692,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "19.10kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1350Kg",
+      "powerWeight": "85.93PS/tonne",
+      "torqueWeight": "185.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Diesel Automatic Price List"
     },
     {
@@ -418,6 +710,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "19.10kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1350Kg",
+      "powerWeight": "85.93PS/tonne",
+      "torqueWeight": "185.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Diesel Automatic Price List"
     },
     {
@@ -430,6 +728,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "19.10kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1350Kg",
+      "powerWeight": "85.93PS/tonne",
+      "torqueWeight": "185.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Diesel Automatic Price List"
     },
     {
@@ -442,6 +746,12 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "19.10kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1350Kg",
+      "powerWeight": "85.93PS/tonne",
+      "torqueWeight": "185.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Diesel Automatic Price List"
     },
     {
@@ -454,11 +764,15 @@
       "power": "116PS",
       "torque": "250Nm",
       "mileage": "19.10kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1350Kg",
+      "powerWeight": "85.93PS/tonne",
+      "torqueWeight": "185.19Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia Seltos 1.5L  Diesel Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:18:44.672Z",
-  "source": "https://www.v3cars.com/kia-cars/seltos",
-  "v3carsImage": "/cars/kia-seltos.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/318350seltos.png"
+  "syncedAt": "2026-05-17T13:02:02.763Z",
+  "source": "https://www.v3cars.com/kia-cars/seltos"
 }

@@ -7,7 +7,7 @@
   "summary": "Flexible MPV with removable third row.",
   "segment": "muv",
   "imageUrl": "https://www.renault.co.in/content/dam/renault/in/models/triber/triber-hero.jpg",
-  "priceRangeMin": 6.7,
+  "priceRangeMin": 5.81,
   "priceRangeMax": 8.69,
   "dimensions": [
     {
@@ -39,11 +39,30 @@
       "value": "40 litres"
     }
   ],
+  "safety": [],
   "engines": [
     "999cc (5-speed MT)",
     "999cc (5-speed AMT)"
   ],
   "variants": [
+    {
+      "trim": "Authentic",
+      "nameSuffix": "",
+      "priceLakh": 5.81,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "5-speed MT",
+      "power": "72PS",
+      "torque": "96Nm",
+      "mileage": "18.40kmpl",
+      "cylinders": "3",
+      "kerbWeight": "927Kg",
+      "powerWeight": "77.67PS/tonne",
+      "torqueWeight": "103.56Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Renault Triber 1.0L Petrol Manual Price List"
+    },
     {
       "trim": "Evolution",
       "nameSuffix": "",
@@ -54,6 +73,12 @@
       "power": "72PS",
       "torque": "96Nm",
       "mileage": "18.40kmpl",
+      "cylinders": "3",
+      "kerbWeight": "927Kg",
+      "powerWeight": "77.67PS/tonne",
+      "torqueWeight": "103.56Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Renault Triber 1.0L Petrol Manual Price List"
     },
     {
@@ -66,6 +91,12 @@
       "power": "72PS",
       "torque": "96Nm",
       "mileage": "18.40kmpl",
+      "cylinders": "3",
+      "kerbWeight": "927Kg",
+      "powerWeight": "77.67PS/tonne",
+      "torqueWeight": "103.56Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Renault Triber 1.0L Petrol Manual Price List"
     },
     {
@@ -78,6 +109,12 @@
       "power": "72PS",
       "torque": "96Nm",
       "mileage": "18.40kmpl",
+      "cylinders": "3",
+      "kerbWeight": "927Kg",
+      "powerWeight": "77.67PS/tonne",
+      "torqueWeight": "103.56Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Renault Triber 1.0L Petrol Manual Price List"
     },
     {
@@ -90,7 +127,31 @@
       "power": "72PS",
       "torque": "96Nm",
       "mileage": "18.40kmpl",
+      "cylinders": "3",
+      "kerbWeight": "927Kg",
+      "powerWeight": "77.67PS/tonne",
+      "torqueWeight": "103.56Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Renault Triber 1.0L Petrol Manual Price List"
+    },
+    {
+      "trim": "Emotion",
+      "nameSuffix": "",
+      "priceLakh": 8.48,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "5-speed AMT",
+      "power": "72PS",
+      "torque": "96Nm",
+      "mileage": "18.30kmpl",
+      "cylinders": "3",
+      "kerbWeight": "961Kg",
+      "powerWeight": "74.92PS/tonne",
+      "torqueWeight": "99.90Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Renault Triber 1.0L  Petrol Automatic Price List"
     },
     {
       "trim": "Emotion Dual Tone",
@@ -102,11 +163,15 @@
       "power": "72PS",
       "torque": "96Nm",
       "mileage": "18.30kmpl",
+      "cylinders": "3",
+      "kerbWeight": "961Kg",
+      "powerWeight": "74.92PS/tonne",
+      "torqueWeight": "99.90Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Renault Triber 1.0L  Petrol Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:43.990Z",
-  "source": "https://www.v3cars.com/renault-cars/triber",
-  "v3carsImage": "/cars/renault-triber.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/656687triber.png"
+  "syncedAt": "2026-05-17T13:03:43.694Z",
+  "source": "https://www.v3cars.com/renault-cars/triber"
 }

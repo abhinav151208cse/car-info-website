@@ -2,12 +2,13 @@
 
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
+import SearchableSelect from "@/components/SearchableSelect";
 import {
   getBrands,
   getModelsByBrand,
   getCarModel,
-  variantLabel,
 } from "@/lib/catalog-nav";
+import { buildVariantSelectOptions } from "@/lib/variant-label";
 import { onCarImageError } from "@/lib/image-fallback";
 
 type Props = {
@@ -134,27 +135,23 @@ export default function CarSelector({
         </div>
 
         {showVariant && (
-          <div>
-            <label htmlFor={`${idPrefix}-variant`} className={labelClass}>
-              Variant
-            </label>
-            <select
-              id={`${idPrefix}-variant`}
-              value={variantId}
-              disabled={!modelSlug || variants.length === 0}
-              onChange={(e) => setVariantId(e.target.value)}
-              className={selectClass}
-            >
-              <option value="">
-                {modelSlug ? "Select variant" : "Select model first"}
-              </option>
-              {variants.map((v) => (
-                <option key={v.id} value={v.id}>
-                  {variantLabel(v)}
-                </option>
-              ))}
-            </select>
-          </div>
+          <SearchableSelect
+            id={`${idPrefix}-variant`}
+            label="Variant"
+            labelClassName={labelClass}
+            value={variantId}
+            onChange={setVariantId}
+            disabled={!modelSlug || !car || variants.length === 0}
+            options={car ? buildVariantSelectOptions(car) : []}
+            emptyOption={{
+              id: "",
+              label: modelSlug ? "Select variant" : "Select model first",
+            }}
+            searchPlaceholder="Search…"
+            className={large ? "mt-0" : ""}
+            triggerClassName={selectClass.replace(/^w-full\s+/, "")}
+            size={large ? "large" : "default"}
+          />
         )}
       </div>
 

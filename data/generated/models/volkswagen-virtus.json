@@ -7,7 +7,7 @@
   "summary": "Mid-size sedan with 1.0 and 1.5 TSI engines.",
   "segment": "sedan",
   "imageUrl": "https://www.volkswagen.co.in/content/dam/vw/in/models/virtus/virtus-hero.jpg",
-  "priceRangeMin": 13.46,
+  "priceRangeMin": 10.5,
   "priceRangeMax": 19,
   "dimensions": [
     {
@@ -39,12 +39,33 @@
       "value": "45 litres"
     }
   ],
+  "safety": [
+    "360° camera (select trims)"
+  ],
   "engines": [
     "999cc (6-speed MT)",
     "999cc (6-speed TC)",
     "1498cc (7-speed DCT)"
   ],
   "variants": [
+    {
+      "trim": "Comfortline",
+      "nameSuffix": "",
+      "priceLakh": 10.5,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "178Nm",
+      "mileage": "20.08kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1100Kg",
+      "powerWeight": "104.55PS/tonne",
+      "torqueWeight": "161.82Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Volkswagen Virtus 1.0L Turbo Petrol Manual Price List"
+    },
     {
       "trim": "Highline",
       "nameSuffix": "",
@@ -55,6 +76,12 @@
       "power": "115PS",
       "torque": "178Nm",
       "mileage": "20.08kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1100Kg",
+      "powerWeight": "104.55PS/tonne",
+      "torqueWeight": "161.82Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Volkswagen Virtus 1.0L Turbo Petrol Manual Price List"
     },
     {
@@ -67,6 +94,12 @@
       "power": "115PS",
       "torque": "178Nm",
       "mileage": "20.08kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1100Kg",
+      "powerWeight": "104.55PS/tonne",
+      "torqueWeight": "161.82Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Volkswagen Virtus 1.0L Turbo Petrol Manual Price List"
     },
     {
@@ -79,6 +112,12 @@
       "power": "115PS",
       "torque": "178Nm",
       "mileage": "20.08kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1100Kg",
+      "powerWeight": "104.55PS/tonne",
+      "torqueWeight": "161.82Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Volkswagen Virtus 1.0L Turbo Petrol Manual Price List"
     },
     {
@@ -91,7 +130,31 @@
       "power": "115PS",
       "torque": "178Nm",
       "mileage": "20.08kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1100Kg",
+      "powerWeight": "104.55PS/tonne",
+      "torqueWeight": "161.82Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Volkswagen Virtus 1.0L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Highline",
+      "nameSuffix": "",
+      "priceLakh": 14.66,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed TC",
+      "power": "115PS",
+      "torque": "178Nm",
+      "mileage": "18.45kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1225Kg",
+      "powerWeight": "93.88PS/tonne",
+      "torqueWeight": "145.31Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Volkswagen Virtus 1.0L Turbo Petrol Automatic Price List"
     },
     {
       "trim": "Highline Plus",
@@ -103,6 +166,12 @@
       "power": "115PS",
       "torque": "178Nm",
       "mileage": "18.45kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1225Kg",
+      "powerWeight": "93.88PS/tonne",
+      "torqueWeight": "145.31Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Volkswagen Virtus 1.0L Turbo Petrol Automatic Price List"
     },
     {
@@ -115,6 +184,12 @@
       "power": "115PS",
       "torque": "178Nm",
       "mileage": "18.45kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1225Kg",
+      "powerWeight": "93.88PS/tonne",
+      "torqueWeight": "145.31Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Volkswagen Virtus 1.0L Turbo Petrol Automatic Price List"
     },
     {
@@ -127,7 +202,31 @@
       "power": "115PS",
       "torque": "178Nm",
       "mileage": "18.45kmpl",
+      "cylinders": "3",
+      "kerbWeight": "1225Kg",
+      "powerWeight": "93.88PS/tonne",
+      "torqueWeight": "145.31Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Volkswagen Virtus 1.0L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "GT Plus (150PS)",
+      "nameSuffix": "",
+      "priceLakh": 18.8,
+      "fuelType": "Petrol",
+      "engine": "1498cc",
+      "transmission": "7-speed DCT",
+      "power": "150PS",
+      "torque": "250Nm",
+      "mileage": "19.62kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1275Kg",
+      "powerWeight": "117.65PS/tonne",
+      "torqueWeight": "196.08Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Volkswagen Virtus 1.5L Turbo Petrol Automatic (150PS) Price List"
     },
     {
       "trim": "GT Plus Sport (150PS)",
@@ -139,11 +238,15 @@
       "power": "150PS",
       "torque": "250Nm",
       "mileage": "19.62kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1275Kg",
+      "powerWeight": "117.65PS/tonne",
+      "torqueWeight": "196.08Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Volkswagen Virtus 1.5L Turbo Petrol Automatic (150PS) Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:46.309Z",
-  "source": "https://www.v3cars.com/volkswagen-cars/virtus",
-  "v3carsImage": "/cars/volkswagen-virtus.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/897731virtus.png"
+  "syncedAt": "2026-05-17T13:03:47.567Z",
+  "source": "https://www.v3cars.com/volkswagen-cars/virtus"
 }

@@ -2,7 +2,7 @@ import CompareView from "@/components/CompareView";
 import Link from "next/link";
 
 export const metadata = {
-  title: "Compare Cars — CarInfo",
+  title: "Compare Cars — AutoVerse",
   description:
     "Compare up to 3 car variants side by side — prices, specifications, and features.",
 };

@@ -35,6 +35,9 @@
       "value": "178 mm"
     }
   ],
+  "safety": [
+    "360° camera (select trims)"
+  ],
   "engines": [],
   "variants": [
     {
@@ -47,11 +50,15 @@
       "power": "—",
       "torque": "—",
       "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Kia EV6 Range 663km | 7.4kW AC | AWD Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:26:47.980Z",
-  "source": "https://www.v3cars.com/kia-cars/ev6",
-  "v3carsImage": "/cars/kia-ev6.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/387812ev6.png"
+  "syncedAt": "2026-05-17T13:02:08.863Z",
+  "source": "https://www.v3cars.com/kia-cars/ev6"
 }

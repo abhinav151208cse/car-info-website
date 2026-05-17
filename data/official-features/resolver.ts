@@ -7,6 +7,8 @@ import { skodaKylaqFeatures } from "./skoda-kylaq";
 import { tataNexonFeatures } from "./tata-nexon";
 import { tataPunchFeatures } from "./tata-punch";
 import { brandKeyFromSlug, brandLadders } from "./brand-ladder";
+import { getSegmentFeaturePack } from "./segment-enrichment";
+import { getCarBySlug } from "@/lib/cars";
 
 const configs: Record<string, CarFeatureConfig> = {
   "kia-seltos": kiaSeltosFeatures,
@@ -229,6 +231,14 @@ export function resolveOfficialFeatures(
   let merged = applyCumulative(config, trimKey);
   merged = mergePacks(merged, cosmeticTrimNotes(variant.trim));
   merged = mergePacks(merged, powertrainNotes(variant));
+
+  const car = getCarBySlug(carSlug);
+  if (car?.segment) {
+    merged = mergePacks(merged, getSegmentFeaturePack(car.segment));
+  }
+  if (car?.safety?.length) {
+    merged = mergePacks(merged, { safety: car.safety });
+  }
 
   const result: Partial<Record<FeatureCategory, string[]>> = {};
   for (const key of Object.keys(merged) as FeatureCategory[]) {

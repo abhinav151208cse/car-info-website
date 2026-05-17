@@ -35,6 +35,7 @@
       "value": "163 mm"
     }
   ],
+  "safety": [],
   "engines": [],
   "variants": [
     {
@@ -47,11 +48,15 @@
       "power": "—",
       "torque": "—",
       "mileage": "—",
+      "cylinders": "—",
+      "kerbWeight": "—",
+      "powerWeight": "—",
+      "torqueWeight": "—",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Hyundai Ioniq 5 Range 690km | 84kWh | RWD Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:26:50.878Z",
-  "source": "https://www.v3cars.com/hyundai-cars/ioniq-5",
-  "v3carsImage": "/cars/hyundai-ioniq-5.webp",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/9613012026-hyundai-ioniq-5.webp"
+  "syncedAt": "2026-05-17T13:02:57.695Z",
+  "source": "https://www.v3cars.com/hyundai-cars/ioniq-5"
 }

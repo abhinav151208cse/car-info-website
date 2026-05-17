@@ -35,10 +35,31 @@
       "value": "50 litres"
     }
   ],
+  "safety": [
+    "360° camera (select trims)"
+  ],
   "engines": [
     "2487cc (CVT)"
   ],
   "variants": [
+    {
+      "trim": "Elegant",
+      "nameSuffix": "",
+      "priceLakh": 47.48,
+      "fuelType": "Hybrid",
+      "engine": "2487cc",
+      "transmission": "CVT",
+      "power": "230PS",
+      "torque": "221Nm",
+      "mileage": "25.49kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1645Kg",
+      "powerWeight": "139.82PS/tonne",
+      "torqueWeight": "134.35Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
+      "section": "Toyota Camry 2.5L Hybrid Automatic Price List"
+    },
     {
       "trim": "Sprint Edition",
       "nameSuffix": "",
@@ -49,11 +70,15 @@
       "power": "230PS",
       "torque": "221Nm",
       "mileage": "25.49kmpl",
+      "cylinders": "4",
+      "kerbWeight": "1645Kg",
+      "powerWeight": "139.82PS/tonne",
+      "torqueWeight": "134.35Nm/tonne",
+      "realWorldMileage": "—",
+      "driveType": "—",
       "section": "Toyota Camry 2.5L Hybrid Automatic Price List"
     }
   ],
-  "syncedAt": "2026-05-17T10:19:40.955Z",
-  "source": "https://www.v3cars.com/toyota-cars/camry",
-  "v3carsImage": "/cars/toyota-camry.png",
-  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/214895camry.png"
+  "syncedAt": "2026-05-17T13:03:38.559Z",
+  "source": "https://www.v3cars.com/toyota-cars/camry"
 }
