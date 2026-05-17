@@ -1,7 +1,9 @@
 /**
  * 2026 model-year data (India, ex-showroom) sourced from:
- * Kia India, Hyundai India, Tata Motors, Autocar India, v3cars.com, Times of India (Jan 2026).
+ * Kia, Hyundai, Tata Motors, Skoda India, Autocar India, v3cars.com, CarWale, NDTV Auto.
  */
+
+import { additionalCars } from "./cars-catalog-additions";
 
 const seltosDimensions = [
   { label: "Length", value: "4,460 mm" },
@@ -833,6 +835,7 @@ const catalog = [
       },
     ],
   },
+  ...additionalCars,
 ];
 
 export default catalog;

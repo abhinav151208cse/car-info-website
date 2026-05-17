@@ -12,7 +12,7 @@ export default function Home() {
           Car Details Website
         </h1>
         <p className="mb-10 text-slate-600">
-          2026 model year — Kia Seltos, Hyundai Creta & Tata Nexon
+          2026 model year — Seltos, Creta, Nexon, Punch, Venue & Kylaq
         </p>
 
         <div id="cars" className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
