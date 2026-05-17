@@ -1,0 +1,305 @@
+{
+  "slug": "tata-punch",
+  "name": "Tata Punch",
+  "brand": "Tata",
+  "modelYear": 2026,
+  "tagline": "India's safest micro-SUV",
+  "summary": "Sub-4m SUV with strong safety ratings, petrol, CNG and electric powertrains.",
+  "segment": "suv-b",
+  "imageUrl": "https://www.tatamotors.com/content/dam/tata-motors/passenger-vehicles/punch/punch-ice/hero-banner/punch-hero-desktop.jpg",
+  "priceRangeMin": 6.55,
+  "priceRangeMax": 10.6,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3876 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1742 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1615 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2445 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "366 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "193 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "37 litres"
+    }
+  ],
+  "engines": [
+    "1199cc (5-speed MT)",
+    "1199cc (5-speed AMT)",
+    "1199cc (6-speed MT)"
+  ],
+  "variants": [
+    {
+      "trim": "Pure",
+      "nameSuffix": "",
+      "priceLakh": 6.55,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "20.09kmpl",
+      "section": "Tata Punch 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Pure Plus",
+      "nameSuffix": "",
+      "priceLakh": 7.05,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "20.09kmpl",
+      "section": "Tata Punch 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Pure Plus S",
+      "nameSuffix": "",
+      "priceLakh": 7.4,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "20.09kmpl",
+      "section": "Tata Punch 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Adventure",
+      "nameSuffix": "",
+      "priceLakh": 7.65,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "20.09kmpl",
+      "section": "Tata Punch 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Adventure S",
+      "nameSuffix": "",
+      "priceLakh": 8,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "20.09kmpl",
+      "section": "Tata Punch 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Accomplished",
+      "nameSuffix": "",
+      "priceLakh": 8.35,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "20.09kmpl",
+      "section": "Tata Punch 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Accomplished Plus S",
+      "nameSuffix": "",
+      "priceLakh": 9.05,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "20.09kmpl",
+      "section": "Tata Punch 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Pure Plus S",
+      "nameSuffix": "",
+      "priceLakh": 7.95,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "18.80kmpl",
+      "section": "Tata Punch 1.2L  Petrol Automatic Price List"
+    },
+    {
+      "trim": "Adventure",
+      "nameSuffix": "",
+      "priceLakh": 8.2,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "18.80kmpl",
+      "section": "Tata Punch 1.2L  Petrol Automatic Price List"
+    },
+    {
+      "trim": "Accomplished",
+      "nameSuffix": "",
+      "priceLakh": 8.9,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "18.80kmpl",
+      "section": "Tata Punch 1.2L  Petrol Automatic Price List"
+    },
+    {
+      "trim": "Accomplished Plus S",
+      "nameSuffix": "",
+      "priceLakh": 9.6,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "18.80kmpl",
+      "section": "Tata Punch 1.2L  Petrol Automatic Price List"
+    },
+    {
+      "trim": "Pure",
+      "nameSuffix": "",
+      "priceLakh": 7.55,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "73PS",
+      "torque": "103Nm",
+      "mileage": "26.99km/kg",
+      "section": "Tata Punch 1.2L CNG Manual Price List"
+    },
+    {
+      "trim": "Pure Plus",
+      "nameSuffix": "",
+      "priceLakh": 8.05,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "73PS",
+      "torque": "103Nm",
+      "mileage": "26.99km/kg",
+      "section": "Tata Punch 1.2L CNG Manual Price List"
+    },
+    {
+      "trim": "Pure Plus S",
+      "nameSuffix": "",
+      "priceLakh": 8.4,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "73PS",
+      "torque": "103Nm",
+      "mileage": "26.99km/kg",
+      "section": "Tata Punch 1.2L CNG Manual Price List"
+    },
+    {
+      "trim": "Adventure",
+      "nameSuffix": "",
+      "priceLakh": 8.65,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "73PS",
+      "torque": "103Nm",
+      "mileage": "26.99km/kg",
+      "section": "Tata Punch 1.2L CNG Manual Price List"
+    },
+    {
+      "trim": "Adventure S",
+      "nameSuffix": "",
+      "priceLakh": 9,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "73PS",
+      "torque": "103Nm",
+      "mileage": "26.99km/kg",
+      "section": "Tata Punch 1.2L CNG Manual Price List"
+    },
+    {
+      "trim": "Accomplished",
+      "nameSuffix": "",
+      "priceLakh": 9.35,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "73PS",
+      "torque": "103Nm",
+      "mileage": "26.99km/kg",
+      "section": "Tata Punch 1.2L CNG Manual Price List"
+    },
+    {
+      "trim": "Accomplished Plus S",
+      "nameSuffix": "",
+      "priceLakh": 9.85,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "6-speed MT",
+      "power": "120PS",
+      "torque": "170Nm",
+      "mileage": "-",
+      "section": "Tata Punch 1.2L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Adventure",
+      "nameSuffix": "",
+      "priceLakh": 9.2,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "73PS",
+      "torque": "103Nm",
+      "mileage": "26.99km/kg",
+      "section": "Tata Punch 1.2L  CNG Automatic Price List"
+    },
+    {
+      "trim": "Adventure S",
+      "nameSuffix": "",
+      "priceLakh": 9.55,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "73PS",
+      "torque": "103Nm",
+      "mileage": "26.99km/kg",
+      "section": "Tata Punch 1.2L  CNG Automatic Price List"
+    },
+    {
+      "trim": "Accomplished Plus S",
+      "nameSuffix": "",
+      "priceLakh": 10.6,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "73PS",
+      "torque": "103Nm",
+      "mileage": "26.99km/kg",
+      "section": "Tata Punch 1.2L  CNG Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:18:51.526Z",
+  "source": "https://www.v3cars.com/tata-cars/punch",
+  "v3carsImage": "/cars/tata-punch.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/357473punch.png"
+}

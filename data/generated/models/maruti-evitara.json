@@ -1,0 +1,65 @@
+{
+  "slug": "maruti-evitara",
+  "name": "Maruti e Vitara",
+  "brand": "Maruti Suzuki",
+  "modelYear": 2026,
+  "tagline": "Electric Vitara",
+  "summary": "Maruti's first mass-market electric SUV.",
+  "segment": "ev",
+  "imageUrl": "https://www.nexaexperience.com/-/media/nexa/evitara/hero/evitara-hero.jpg",
+  "priceRangeMin": 19.79,
+  "priceRangeMax": 20.01,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4275 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1800 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1640 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2700 mm"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "180 mm"
+    }
+  ],
+  "engines": [],
+  "variants": [
+    {
+      "trim": "eVitara Alpha 61kWh",
+      "nameSuffix": "",
+      "priceLakh": 19.79,
+      "fuelType": "Petrol",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Maruti Suzuki eVitara Range 543km | 7.4kW AC | FWD Price List"
+    },
+    {
+      "trim": "eVitara Alpha 61kWh DT",
+      "nameSuffix": "",
+      "priceLakh": 20.01,
+      "fuelType": "Petrol",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Maruti Suzuki eVitara Range 543km | 7.4kW AC | FWD Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:30.689Z",
+  "source": "https://www.v3cars.com/maruti-nexa-cars/evitara",
+  "v3carsImage": "/cars/maruti-evitara.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/792643e-vitara.png"
+}

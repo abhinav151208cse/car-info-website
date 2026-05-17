@@ -1,0 +1,354 @@
+{
+  "slug": "hyundai-alcazar",
+  "name": "Hyundai Alcazar",
+  "brand": "Hyundai",
+  "modelYear": 2026,
+  "tagline": "6/7-seater premium SUV",
+  "summary": "Three-row SUV with petrol and diesel, captain seats available.",
+  "segment": "suv-d",
+  "imageUrl": "https://www.hyundai.com/content/dam/hyundai/in/en/data/vehicle-images/alcazar/alcazar-hero.jpg",
+  "priceRangeMin": 16.62,
+  "priceRangeMax": 21.21,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4560 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1800 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1710 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2760 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "180 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "200 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "50 litres"
+    }
+  ],
+  "engines": [
+    "1493cc (6-speed MT)",
+    "1493cc (6-speed TC)",
+    "1482cc (6-speed MT)",
+    "1482cc (7-speed DCT)"
+  ],
+  "variants": [
+    {
+      "trim": "Prestige 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 16.62,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "20.40kmpl",
+      "section": "Hyundai Alcazar 1.5L Diesel Manual Price List"
+    },
+    {
+      "trim": "Corporate 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 17.36,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "20.40kmpl",
+      "section": "Hyundai Alcazar 1.5L Diesel Manual Price List"
+    },
+    {
+      "trim": "Platinum 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 18.93,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "20.40kmpl",
+      "section": "Hyundai Alcazar 1.5L Diesel Manual Price List"
+    },
+    {
+      "trim": "Platinum 7 Seater Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 19.07,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "20.40kmpl",
+      "section": "Hyundai Alcazar 1.5L Diesel Manual Price List"
+    },
+    {
+      "trim": "Platinum 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 20.22,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "18.10kmpl",
+      "section": "Hyundai Alcazar 1.5L  Diesel Automatic Price List"
+    },
+    {
+      "trim": "Platinum  6 Seater",
+      "nameSuffix": "",
+      "priceLakh": 20.31,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "18.10kmpl",
+      "section": "Hyundai Alcazar 1.5L  Diesel Automatic Price List"
+    },
+    {
+      "trim": "Platinum 7 Seater Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 20.37,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "18.10kmpl",
+      "section": "Hyundai Alcazar 1.5L  Diesel Automatic Price List"
+    },
+    {
+      "trim": "Platinum 6 Seater Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 20.46,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "18.10kmpl",
+      "section": "Hyundai Alcazar 1.5L  Diesel Automatic Price List"
+    },
+    {
+      "trim": "Signature 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 20.87,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "18.10kmpl",
+      "section": "Hyundai Alcazar 1.5L  Diesel Automatic Price List"
+    },
+    {
+      "trim": "Signature 7 Seater Knight",
+      "nameSuffix": "",
+      "priceLakh": 21.01,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "18.10kmpl",
+      "section": "Hyundai Alcazar 1.5L  Diesel Automatic Price List"
+    },
+    {
+      "trim": "Signature 7 Seater Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 21.01,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "18.10kmpl",
+      "section": "Hyundai Alcazar 1.5L  Diesel Automatic Price List"
+    },
+    {
+      "trim": "Signature 6 Seater",
+      "nameSuffix": "",
+      "priceLakh": 21.06,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "18.10kmpl",
+      "section": "Hyundai Alcazar 1.5L  Diesel Automatic Price List"
+    },
+    {
+      "trim": "Signature 6 Seater Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 21.21,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "18.10kmpl",
+      "section": "Hyundai Alcazar 1.5L  Diesel Automatic Price List"
+    },
+    {
+      "trim": "Prestige 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 16.73,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "6-speed MT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "17.50kmpl",
+      "section": "Hyundai Alcazar 1.5L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Platinum 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 18.93,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "6-speed MT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "17.50kmpl",
+      "section": "Hyundai Alcazar 1.5L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Platinum 7 Seater Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 19.07,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "6-speed MT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "17.50kmpl",
+      "section": "Hyundai Alcazar 1.5L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Platinum 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 20.22,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "18.00kmpl",
+      "section": "Hyundai Alcazar 1.5L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Platinum  6 Seater",
+      "nameSuffix": "",
+      "priceLakh": 20.31,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "18.00kmpl",
+      "section": "Hyundai Alcazar 1.5L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Platinum 7 Seater Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 20.37,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "18.00kmpl",
+      "section": "Hyundai Alcazar 1.5L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Platinum 6 Seater Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 20.46,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "18.00kmpl",
+      "section": "Hyundai Alcazar 1.5L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Signature 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 20.87,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "18.00kmpl",
+      "section": "Hyundai Alcazar 1.5L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Signature 7 Seater Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 21.01,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "18.00kmpl",
+      "section": "Hyundai Alcazar 1.5L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Signature 7 Seater Knight",
+      "nameSuffix": "",
+      "priceLakh": 21.01,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "18.00kmpl",
+      "section": "Hyundai Alcazar 1.5L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Signature 6 Seater",
+      "nameSuffix": "",
+      "priceLakh": 21.06,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "18.00kmpl",
+      "section": "Hyundai Alcazar 1.5L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Signature 6S Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 21.21,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "18.00kmpl",
+      "section": "Hyundai Alcazar 1.5L  Turbo Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:08.346Z",
+  "source": "https://www.v3cars.com/hyundai-cars/alcazar",
+  "v3carsImage": "/cars/hyundai-alcazar.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/071685alcazar.png"
+}

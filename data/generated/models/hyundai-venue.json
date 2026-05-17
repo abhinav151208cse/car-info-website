@@ -1,0 +1,319 @@
+{
+  "slug": "hyundai-venue",
+  "name": "Hyundai Venue",
+  "brand": "Hyundai",
+  "modelYear": 2026,
+  "tagline": "Connected compact SUV",
+  "summary": "Sub-4m SUV with turbo-petrol, diesel and N Line variants.",
+  "segment": "suv-b",
+  "imageUrl": "https://www.hyundai.com/content/dam/hyundai/in/en/data/vehicle-images/venue/venue-ice/venue-hero.jpg",
+  "priceRangeMin": 8.9,
+  "priceRangeMax": 15.69,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3995 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1800 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1665 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2520 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "375 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "190 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "45 litres"
+    }
+  ],
+  "engines": [
+    "1197cc (5-speed MT)",
+    "998cc (6-speed MT)",
+    "1493cc (6-speed MT)",
+    "998cc (7-speed DCT)",
+    "1493cc (6-speed TC)"
+  ],
+  "variants": [
+    {
+      "trim": "HX4",
+      "nameSuffix": "",
+      "priceLakh": 8.9,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "18.05kmpl",
+      "section": "Hyundai Venue 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "HX5",
+      "nameSuffix": "",
+      "priceLakh": 9.35,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "18.05kmpl",
+      "section": "Hyundai Venue 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "HX5 Plus",
+      "nameSuffix": "",
+      "priceLakh": 10,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "18.05kmpl",
+      "section": "Hyundai Venue 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "HX5 Plus DT",
+      "nameSuffix": "",
+      "priceLakh": 10.18,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "18.05kmpl",
+      "section": "Hyundai Venue 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "HX6",
+      "nameSuffix": "",
+      "priceLakh": 10.43,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "18.05kmpl",
+      "section": "Hyundai Venue 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "HX6 DT",
+      "nameSuffix": "",
+      "priceLakh": 10.61,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "18.05kmpl",
+      "section": "Hyundai Venue 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "HX6T",
+      "nameSuffix": "",
+      "priceLakh": 10.8,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "18.05kmpl",
+      "section": "Hyundai Venue 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "HX6T DT",
+      "nameSuffix": "",
+      "priceLakh": 10.98,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "18.05kmpl",
+      "section": "Hyundai Venue 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "HX5",
+      "nameSuffix": "",
+      "priceLakh": 9.89,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "6-speed MT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "18.74kmpl",
+      "section": "Hyundai Venue 1.0L Turbo Petrol Manual (120PS) Price List"
+    },
+    {
+      "trim": "HX8",
+      "nameSuffix": "",
+      "priceLakh": 11.91,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "6-speed MT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "18.74kmpl",
+      "section": "Hyundai Venue 1.0L Turbo Petrol Manual (120PS) Price List"
+    },
+    {
+      "trim": "HX8 DT",
+      "nameSuffix": "",
+      "priceLakh": 12.08,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "6-speed MT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "18.74kmpl",
+      "section": "Hyundai Venue 1.0L Turbo Petrol Manual (120PS) Price List"
+    },
+    {
+      "trim": "HX5",
+      "nameSuffix": "",
+      "priceLakh": 10.79,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "20.99kmpl",
+      "section": "Hyundai Venue 1.5L Diesel Manual Price List"
+    },
+    {
+      "trim": "HX7",
+      "nameSuffix": "",
+      "priceLakh": 12.61,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "20.99kmpl",
+      "section": "Hyundai Venue 1.5L Diesel Manual Price List"
+    },
+    {
+      "trim": "HX7 DT",
+      "nameSuffix": "",
+      "priceLakh": 12.79,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "20.99kmpl",
+      "section": "Hyundai Venue 1.5L Diesel Manual Price List"
+    },
+    {
+      "trim": "HX6",
+      "nameSuffix": "",
+      "priceLakh": 12.08,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "20.00kmpl",
+      "section": "Hyundai Venue 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "HX6 DT",
+      "nameSuffix": "",
+      "priceLakh": 12.26,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "20.00kmpl",
+      "section": "Hyundai Venue 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "HX8",
+      "nameSuffix": "",
+      "priceLakh": 12.95,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "20.00kmpl",
+      "section": "Hyundai Venue 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "HX8 DT",
+      "nameSuffix": "",
+      "priceLakh": 13.03,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "20.00kmpl",
+      "section": "Hyundai Venue 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "HX10",
+      "nameSuffix": "",
+      "priceLakh": 14.56,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "20.00kmpl",
+      "section": "Hyundai Venue 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "HX10 DT",
+      "nameSuffix": "",
+      "priceLakh": 14.74,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "20.00kmpl",
+      "section": "Hyundai Venue 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "HX10",
+      "nameSuffix": "",
+      "priceLakh": 15.51,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "17.90kmpl",
+      "section": "Hyundai Venue 1.5L  Diesel Automatic Price List"
+    },
+    {
+      "trim": "HX10 DT",
+      "nameSuffix": "",
+      "priceLakh": 15.69,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "17.90kmpl",
+      "section": "Hyundai Venue 1.5L  Diesel Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:04.779Z",
+  "source": "https://www.v3cars.com/hyundai-cars/venue",
+  "v3carsImage": "/cars/hyundai-venue.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/523969venue.png"
+}

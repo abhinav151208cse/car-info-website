@@ -1,0 +1,136 @@
+{
+  "slug": "hyundai-creta-n-line",
+  "name": "Hyundai Creta N Line",
+  "brand": "Hyundai",
+  "modelYear": 2026,
+  "tagline": "Sporty Creta derivative",
+  "summary": "Turbo-petrol focused N Line with exclusive styling.",
+  "segment": "suv-c",
+  "imageUrl": "https://www.hyundai.com/content/dam/hyundai/in/en/data/vehicle-images/creta-n-line/creta-nline-hero.jpg",
+  "priceRangeMin": 17.88,
+  "priceRangeMax": 20.1,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4300 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1790 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1635 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2610 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "433 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "190 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "50 litres"
+    }
+  ],
+  "engines": [
+    "1482cc (7-speed DCT)",
+    "1482cc (6-speed MT)"
+  ],
+  "variants": [
+    {
+      "trim": "N8 Matte Grey",
+      "nameSuffix": "",
+      "priceLakh": 17.88,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "15.37kmpl",
+      "section": "Hyundai Creta N Line 1.5L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "N8 Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 17.97,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "15.37kmpl",
+      "section": "Hyundai Creta N Line 1.5L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "N10",
+      "nameSuffix": "",
+      "priceLakh": 19.95,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "15.37kmpl",
+      "section": "Hyundai Creta N Line 1.5L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "N10 Matte Grey",
+      "nameSuffix": "",
+      "priceLakh": 20,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "15.37kmpl",
+      "section": "Hyundai Creta N Line 1.5L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "N10 Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 20.1,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "15.37kmpl",
+      "section": "Hyundai Creta N Line 1.5L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "N10 Matte Grey",
+      "nameSuffix": "",
+      "priceLakh": 19.08,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "6-speed MT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "18.00kmpl",
+      "section": "Hyundai Creta N Line 1.5L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "N10 Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 19.17,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "6-speed MT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "18.00kmpl",
+      "section": "Hyundai Creta N Line 1.5L  Turbo Petrol Manual Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:10.830Z",
+  "source": "https://www.v3cars.com/hyundai-cars/creta-n-line",
+  "v3carsImage": "/cars/hyundai-creta-n-line.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/571583creta-n-line.png"
+}

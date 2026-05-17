@@ -1,0 +1,100 @@
+{
+  "slug": "tata-tiago-nrg",
+  "name": "Tata Tiago NRG",
+  "brand": "Tata",
+  "modelYear": 2026,
+  "tagline": "Cross-hatch with rugged styling",
+  "summary": "Raised Tiago derivative with crossover cladding.",
+  "segment": "hatch",
+  "imageUrl": "https://www.tatamotors.com/content/dam/tata-motors/passenger-vehicles/tiago-nrg/hero/tiago-nrg-hero-desktop.jpg",
+  "priceRangeMin": 6.74,
+  "priceRangeMax": 8.2,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3802 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1677 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1537 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2400 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "242 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "181 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "35 litres"
+    }
+  ],
+  "engines": [
+    "1199cc (5-speed MT)",
+    "1199cc (5-speed AMT)"
+  ],
+  "variants": [
+    {
+      "trim": "XZ",
+      "nameSuffix": "",
+      "priceLakh": 6.74,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "86PS",
+      "torque": "113Nm",
+      "mileage": "20.09kmpl",
+      "section": "Tata Tiago NRG 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "XZA",
+      "nameSuffix": "",
+      "priceLakh": 7.26,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "86PS",
+      "torque": "113Nm",
+      "mileage": "20.09kmpl",
+      "section": "Tata Tiago NRG 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "XZ",
+      "nameSuffix": "",
+      "priceLakh": 7.68,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "73PS",
+      "torque": "95Nm",
+      "mileage": "26.49km/kg",
+      "section": "Tata Tiago NRG 1.2L CNG Manual Price List"
+    },
+    {
+      "trim": "XZA",
+      "nameSuffix": "",
+      "priceLakh": 8.2,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "73PS",
+      "torque": "95Nm",
+      "mileage": "26.49km/kg",
+      "section": "Tata Tiago NRG 1.2L  CNG Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:26:49.817Z",
+  "source": "https://www.v3cars.com/tata-cars/tiago-nrg",
+  "v3carsImage": "/cars/tata-tiago-nrg.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/572708tiago-nrg.png"
+}

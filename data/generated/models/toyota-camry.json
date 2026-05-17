@@ -1,0 +1,59 @@
+{
+  "slug": "toyota-camry",
+  "name": "Toyota Camry",
+  "brand": "Toyota",
+  "modelYear": 2026,
+  "tagline": "Hybrid executive sedan",
+  "summary": "Premium hybrid sedan with strong efficiency.",
+  "segment": "sedan",
+  "imageUrl": "https://www.toyota.co.in/content/dam/toyota/in/models/camry/camry-hero.jpg",
+  "priceRangeMin": 47.48,
+  "priceRangeMax": 47.48,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4920 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1840 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1455 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2825 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "524 litres"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "50 litres"
+    }
+  ],
+  "engines": [
+    "2487cc (CVT)"
+  ],
+  "variants": [
+    {
+      "trim": "Sprint Edition",
+      "nameSuffix": "",
+      "priceLakh": 47.48,
+      "fuelType": "Hybrid",
+      "engine": "2487cc",
+      "transmission": "CVT",
+      "power": "230PS",
+      "torque": "221Nm",
+      "mileage": "25.49kmpl",
+      "section": "Toyota Camry 2.5L Hybrid Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:40.955Z",
+  "source": "https://www.v3cars.com/toyota-cars/camry",
+  "v3carsImage": "/cars/toyota-camry.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/214895camry.png"
+}

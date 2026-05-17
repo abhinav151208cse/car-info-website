@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "sync:catalog": "node scripts/sync-v3cars-catalog.mjs",
+    "build:catalog": "node scripts/compile-catalog.mjs",
+    "download:images": "node scripts/download-car-images.mjs"
   },
   "dependencies": {
     "next": "16.2.6",

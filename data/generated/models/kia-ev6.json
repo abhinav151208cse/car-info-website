@@ -1,0 +1,57 @@
+{
+  "slug": "kia-ev6",
+  "name": "Kia EV6",
+  "brand": "Kia",
+  "modelYear": 2026,
+  "tagline": "Electric crossover on E-GMP",
+  "summary": "Premium EV with ultra-fast charging and long-range battery options.",
+  "segment": "ev",
+  "imageUrl": "https://www.kia.com/content/dam/kia2/in/en/images/showroom/ev6/ev6-hero-pc.jpg",
+  "priceRangeMin": 65.97,
+  "priceRangeMax": 65.97,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4695 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1890 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1570 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2900 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "690 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "178 mm"
+    }
+  ],
+  "engines": [],
+  "variants": [
+    {
+      "trim": "GT LINE AWD",
+      "nameSuffix": "",
+      "priceLakh": 65.97,
+      "fuelType": "Petrol",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Kia EV6 Range 663km | 7.4kW AC | AWD Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:26:47.980Z",
+  "source": "https://www.v3cars.com/kia-cars/ev6",
+  "v3carsImage": "/cars/kia-ev6.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/387812ev6.png"
+}

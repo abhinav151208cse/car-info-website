@@ -1,6 +1,4 @@
-import CarGrid from "@/components/CarGrid";
-import ContactSection from "@/components/ContactSection";
-import Link from "next/link";
+import CarExplorer from "@/components/CarExplorer";
 
 export default function Home() {
   return (
@@ -10,31 +8,13 @@ export default function Home() {
           Car Details Website
         </h1>
         <p className="mb-6 text-slate-600">
-          2026 model year — Seltos, Creta, Nexon, Punch, Venue & Kylaq
+          2026 model year — Kia, Tata, Hyundai, Maruti Suzuki, Skoda, Toyota,
+          Renault, Volkswagen & Citroën (ex-showroom prices from official
+          sources via v3cars.com, May 2026)
         </p>
 
-        <section
-          id="compare"
-          className="mb-10 scroll-mt-24 rounded-2xl border border-slate-200 bg-white p-6 shadow-sm sm:p-8"
-        >
-          <h2 className="text-xl font-bold text-slate-900">Compare cars</h2>
-          <p className="mt-2 max-w-2xl text-slate-600">
-            Add up to 3 variants from any model and compare prices,
-            specifications, and features side by side — including exterior,
-            interior, and entertainment.
-          </p>
-          <Link
-            href="/compare"
-            className="mt-4 inline-flex rounded-lg bg-slate-900 px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-slate-700"
-          >
-            Open compare tool
-          </Link>
-        </section>
-
-        <CarGrid />
+        <CarExplorer />
       </div>
-
-      <ContactSection />
     </main>
   );
 }

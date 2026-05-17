@@ -1,0 +1,160 @@
+{
+  "slug": "skoda-kylaq",
+  "name": "Skoda Kylaq",
+  "brand": "Skoda",
+  "modelYear": 2026,
+  "tagline": "European compact SUV",
+  "summary": "1.0 TSI SUV with premium cabin and safety kit.",
+  "segment": "suv-b",
+  "imageUrl": "https://www.skoda-auto.co.in/content/dam/skoda/in/models/kylaq/hero/kylaq-hero.jpg",
+  "priceRangeMin": 8.25,
+  "priceRangeMax": 12.99,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3995 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1783 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1619 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2566 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "360 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "189 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "45 litres"
+    }
+  ],
+  "engines": [
+    "999cc (6-speed MT)",
+    "999cc (6-speed TC)"
+  ],
+  "variants": [
+    {
+      "trim": "Classic Plus",
+      "nameSuffix": "",
+      "priceLakh": 8.25,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.68kmpl",
+      "section": "Skoda Kylaq 1.0L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Signature",
+      "nameSuffix": "",
+      "priceLakh": 9.43,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.68kmpl",
+      "section": "Skoda Kylaq 1.0L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Signature Plus",
+      "nameSuffix": "",
+      "priceLakh": 10.77,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.68kmpl",
+      "section": "Skoda Kylaq 1.0L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Prestige",
+      "nameSuffix": "",
+      "priceLakh": 11.75,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.68kmpl",
+      "section": "Skoda Kylaq 1.0L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Prestige Plus",
+      "nameSuffix": "",
+      "priceLakh": 11.99,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.68kmpl",
+      "section": "Skoda Kylaq 1.0L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Signature",
+      "nameSuffix": "",
+      "priceLakh": 10.43,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.05kmpl",
+      "section": "Skoda Kylaq 1.0L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Signature Plus",
+      "nameSuffix": "",
+      "priceLakh": 11.77,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.05kmpl",
+      "section": "Skoda Kylaq 1.0L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Prestige",
+      "nameSuffix": "",
+      "priceLakh": 12.75,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.05kmpl",
+      "section": "Skoda Kylaq 1.0L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Prestige Plus",
+      "nameSuffix": "",
+      "priceLakh": 12.99,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.05kmpl",
+      "section": "Skoda Kylaq 1.0L Turbo Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:31.451Z",
+  "source": "https://www.v3cars.com/skoda-cars/kylaq",
+  "v3carsImage": "/cars/skoda-kylaq.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/589325kylaq.png"
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "skoda-kushaq",
+  "name": "Skoda Kushaq",
+  "brand": "Skoda",
+  "modelYear": 2026,
+  "tagline": "Made-in-India C-SUV",
+  "summary": "Mid-size SUV with 1.0 and 1.5 TSI engines.",
+  "segment": "suv-c",
+  "imageUrl": "https://www.skoda-auto.co.in/content/dam/skoda/in/models/kushaq/hero/kushaq-hero.jpg",
+  "priceRangeMin": 14.59,
+  "priceRangeMax": 18.99,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4229 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1760 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1612 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2651 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "385 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "188 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "50 litres"
+    }
+  ],
+  "engines": [
+    "999cc (6-speed MT)",
+    "999cc (8-speed TC)",
+    "1498cc (7-speed DCT)"
+  ],
+  "variants": [
+    {
+      "trim": "Signature",
+      "nameSuffix": "",
+      "priceLakh": 14.59,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.66kmpl",
+      "section": "Skoda Kushaq 1.0L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Sportline",
+      "nameSuffix": "",
+      "priceLakh": 14.74,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.66kmpl",
+      "section": "Skoda Kushaq 1.0L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Prestige",
+      "nameSuffix": "",
+      "priceLakh": 16.79,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.66kmpl",
+      "section": "Skoda Kushaq 1.0L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Signature",
+      "nameSuffix": "",
+      "priceLakh": 15.59,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "8-speed TC",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.09kmpl",
+      "section": "Skoda Kushaq 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Sportline",
+      "nameSuffix": "",
+      "priceLakh": 15.74,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "8-speed TC",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.09kmpl",
+      "section": "Skoda Kushaq 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Prestige",
+      "nameSuffix": "",
+      "priceLakh": 17.59,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "8-speed TC",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.09kmpl",
+      "section": "Skoda Kushaq 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Monte Carlo",
+      "nameSuffix": "",
+      "priceLakh": 17.89,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "8-speed TC",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.09kmpl",
+      "section": "Skoda Kushaq 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Monte Carlo (150PS)",
+      "nameSuffix": "",
+      "priceLakh": 18.99,
+      "fuelType": "Petrol",
+      "engine": "1498cc",
+      "transmission": "7-speed DCT",
+      "power": "150PS",
+      "torque": "250Nm",
+      "mileage": "18.72kmpl",
+      "section": "Skoda Kushaq 1.5L  Turbo Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:32.281Z",
+  "source": "https://www.v3cars.com/skoda-cars/kushaq",
+  "v3carsImage": "/cars/skoda-kushaq.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/448057kushaq.png"
+}

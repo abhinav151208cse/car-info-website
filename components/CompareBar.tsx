@@ -2,6 +2,7 @@
 
 import { useCompare } from "@/context/CompareContext";
 import { resolveCompareColumn } from "@/lib/compare";
+import { onCarImageError } from "@/lib/image-fallback";
 import Link from "next/link";
 
 export default function CompareBar() {
@@ -34,6 +35,7 @@ export default function CompareBar() {
                   src={col.image}
                   alt=""
                   className="h-9 w-12 rounded object-cover"
+                  onError={onCarImageError}
                 />
                 <div className="min-w-0">
                   <p className="truncate text-xs font-semibold text-slate-900">

@@ -1,0 +1,136 @@
+{
+  "slug": "renault-kiger",
+  "name": "Renault Kiger",
+  "brand": "Renault",
+  "modelYear": 2026,
+  "tagline": "Compact SUV",
+  "summary": "Sub-4m SUV with turbo petrol engine.",
+  "segment": "suv-b",
+  "imageUrl": "https://www.renault.co.in/content/dam/renault/in/models/kiger/kiger-hero.jpg",
+  "priceRangeMin": 6.5,
+  "priceRangeMax": 10.34,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3990 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1750 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1605 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2500 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "405 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "205 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "40 litres"
+    }
+  ],
+  "engines": [
+    "999cc (5-speed MT)",
+    "999cc (CVT)"
+  ],
+  "variants": [
+    {
+      "trim": "Emotion",
+      "nameSuffix": "",
+      "priceLakh": 10.34,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "5-speed MT",
+      "power": "100PS",
+      "torque": "160Nm",
+      "mileage": "20.38kmpl",
+      "section": "Renault Kiger 1.0L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Evolution",
+      "nameSuffix": "",
+      "priceLakh": 6.5,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "CVT",
+      "power": "100PS",
+      "torque": "152Nm",
+      "mileage": "20.38kmpl",
+      "section": "Renault Kiger 1.0L Petrol Manual Price List"
+    },
+    {
+      "trim": "Techno",
+      "nameSuffix": "",
+      "priceLakh": 7.5,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "CVT",
+      "power": "100PS",
+      "torque": "152Nm",
+      "mileage": "20.38kmpl",
+      "section": "Renault Kiger 1.0L Petrol Manual Price List"
+    },
+    {
+      "trim": "Emotion",
+      "nameSuffix": "",
+      "priceLakh": 8.37,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "CVT",
+      "power": "100PS",
+      "torque": "152Nm",
+      "mileage": "20.38kmpl",
+      "section": "Renault Kiger 1.0L Petrol Manual Price List"
+    },
+    {
+      "trim": "Emotion Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 8.58,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "CVT",
+      "power": "100PS",
+      "torque": "152Nm",
+      "mileage": "20.38kmpl",
+      "section": "Renault Kiger 1.0L Petrol Manual Price List"
+    },
+    {
+      "trim": "Techno",
+      "nameSuffix": "",
+      "priceLakh": 7.96,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "5-speed MT",
+      "power": "72PS",
+      "torque": "96Nm",
+      "mileage": "19.83kmpl",
+      "section": "Renault Kiger 1.0L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Techno Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 8.17,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "5-speed MT",
+      "power": "72PS",
+      "torque": "96Nm",
+      "mileage": "19.83kmpl",
+      "section": "Renault Kiger 1.0L Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:44.819Z",
+  "source": "https://www.v3cars.com/renault-cars/kiger",
+  "v3carsImage": "/cars/renault-kiger.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/821156kiger.png"
+}

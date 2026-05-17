@@ -1,0 +1,125 @@
+{
+  "slug": "citroen-aircross",
+  "name": "Citroen Aircross",
+  "brand": "Citroen",
+  "modelYear": 2026,
+  "tagline": "Comfort-focused SUV",
+  "summary": "C3 Aircross SUV with multiple engines.",
+  "segment": "suv-b",
+  "imageUrl": "https://www.citroen.in/content/dam/citroen/in/models/aircross/aircross-hero.jpg",
+  "priceRangeMin": 9.99,
+  "priceRangeMax": 14.57,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4323 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1796 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1669 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2671 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "444 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "200 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "45 litres"
+    }
+  ],
+  "engines": [
+    "1199cc (6-speed MT)",
+    "1199cc (6-speed TC)",
+    "1199cc (5-speed MT)"
+  ],
+  "variants": [
+    {
+      "trim": "Max 5 Seater",
+      "nameSuffix": "",
+      "priceLakh": 12.82,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "6-speed MT",
+      "power": "110PS",
+      "torque": "190Nm",
+      "mileage": "18.50kmpl",
+      "section": "Citroen Aircross 1.2L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Max 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 13.2,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "6-speed MT",
+      "power": "110PS",
+      "torque": "190Nm",
+      "mileage": "18.50kmpl",
+      "section": "Citroen Aircross 1.2L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Max 7 Seater Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 13.2,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "6-speed MT",
+      "power": "110PS",
+      "torque": "190Nm",
+      "mileage": "18.50kmpl",
+      "section": "Citroen Aircross 1.2L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Max 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 14.37,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "6-speed TC",
+      "power": "110PS",
+      "torque": "205Nm",
+      "mileage": "17.60kmpl",
+      "section": "Citroen Aircross 1.2L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Max Dual Tone 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 14.57,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "6-speed TC",
+      "power": "110PS",
+      "torque": "205Nm",
+      "mileage": "17.60kmpl",
+      "section": "Citroen Aircross 1.2L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Plus (82PS)",
+      "nameSuffix": "",
+      "priceLakh": 9.99,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "82PS",
+      "torque": "115Nm",
+      "mileage": "17.50kmpl",
+      "section": "Citroen Aircross 1.2L Petrol Manual (82PS) Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:51.989Z",
+  "source": "https://www.v3cars.com/citroen-cars/aircross",
+  "v3carsImage": "/cars/citroen-aircross.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/217374aircross.png"
+}

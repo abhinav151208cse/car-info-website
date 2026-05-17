@@ -1,0 +1,149 @@
+{
+  "slug": "volkswagen-taigun",
+  "name": "Volkswagen Taigun",
+  "brand": "Volkswagen",
+  "modelYear": 2026,
+  "tagline": "European C-SUV",
+  "summary": "Sister model to Kushaq with VW styling.",
+  "segment": "suv-c",
+  "imageUrl": "https://www.volkswagen.co.in/content/dam/vw/in/models/taigun/taigun-hero.jpg",
+  "priceRangeMin": 12.7,
+  "priceRangeMax": 19.3,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4221 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1760 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1612 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2651 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "385 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "188 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "50 litres"
+    }
+  ],
+  "engines": [
+    "999cc (6-speed MT)",
+    "999cc (8-speed TC)",
+    "1498cc (7-speed DCT)"
+  ],
+  "variants": [
+    {
+      "trim": "Highline",
+      "nameSuffix": "",
+      "priceLakh": 12.7,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.98kmpl",
+      "section": "Volkswagen Taigun 1.0L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Highline Plus",
+      "nameSuffix": "",
+      "priceLakh": 14.3,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.98kmpl",
+      "section": "Volkswagen Taigun 1.0L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "GT Line",
+      "nameSuffix": "",
+      "priceLakh": 14.6,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.98kmpl",
+      "section": "Volkswagen Taigun 1.0L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Topline",
+      "nameSuffix": "",
+      "priceLakh": 16,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.98kmpl",
+      "section": "Volkswagen Taigun 1.0L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Highline Plus",
+      "nameSuffix": "",
+      "priceLakh": 15.45,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "8-speed TC",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.54kmpl",
+      "section": "Volkswagen Taigun 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "GT Line",
+      "nameSuffix": "",
+      "priceLakh": 15.75,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "8-speed TC",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.54kmpl",
+      "section": "Volkswagen Taigun 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Topline",
+      "nameSuffix": "",
+      "priceLakh": 17.18,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "8-speed TC",
+      "power": "116PS",
+      "torque": "178Nm",
+      "mileage": "19.54kmpl",
+      "section": "Volkswagen Taigun 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "GT Plus Sport",
+      "nameSuffix": "",
+      "priceLakh": 19.3,
+      "fuelType": "Petrol",
+      "engine": "1498cc",
+      "transmission": "7-speed DCT",
+      "power": "150PS",
+      "torque": "250Nm",
+      "mileage": "18.85kmpl",
+      "section": "Volkswagen Taigun 1.5L  Turbo Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:47.125Z",
+  "source": "https://www.v3cars.com/volkswagen-cars/taigun",
+  "v3carsImage": "/cars/volkswagen-taigun.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/250254taigun.png"
+}

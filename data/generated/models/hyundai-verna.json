@@ -1,0 +1,270 @@
+{
+  "slug": "hyundai-verna",
+  "name": "Hyundai Verna",
+  "brand": "Hyundai",
+  "modelYear": 2026,
+  "tagline": "Premium mid-size sedan",
+  "summary": "Sedan with NA petrol, turbo-petrol and ADAS on top trims.",
+  "segment": "sedan",
+  "imageUrl": "https://www.hyundai.com/content/dam/hyundai/in/en/data/vehicle-images/verna/verna-hero.jpg",
+  "priceRangeMin": 12.25,
+  "priceRangeMax": 18.4,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4565 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1765 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1475 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2670 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "528 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "165 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "45 litres"
+    }
+  ],
+  "engines": [
+    "1497cc (6-speed MT)",
+    "1497cc (CVT)",
+    "1482cc (6-speed MT)",
+    "1482cc (7-speed DCT)"
+  ],
+  "variants": [
+    {
+      "trim": "HX4",
+      "nameSuffix": "",
+      "priceLakh": 12.25,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "18.60kmpl",
+      "section": "Hyundai Verna 1.5L Petrol Manual Price List"
+    },
+    {
+      "trim": "HX6",
+      "nameSuffix": "",
+      "priceLakh": 13.19,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "18.60kmpl",
+      "section": "Hyundai Verna 1.5L Petrol Manual Price List"
+    },
+    {
+      "trim": "HX 6 DT",
+      "nameSuffix": "",
+      "priceLakh": 13.34,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "18.60kmpl",
+      "section": "Hyundai Verna 1.5L Petrol Manual Price List"
+    },
+    {
+      "trim": "HX6+",
+      "nameSuffix": "",
+      "priceLakh": 13.81,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "18.60kmpl",
+      "section": "Hyundai Verna 1.5L Petrol Manual Price List"
+    },
+    {
+      "trim": "HX 6+ DT",
+      "nameSuffix": "",
+      "priceLakh": 13.96,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "18.60kmpl",
+      "section": "Hyundai Verna 1.5L Petrol Manual Price List"
+    },
+    {
+      "trim": "HX8",
+      "nameSuffix": "",
+      "priceLakh": 14.88,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "18.60kmpl",
+      "section": "Hyundai Verna 1.5L Petrol Manual Price List"
+    },
+    {
+      "trim": "HX 8 DT",
+      "nameSuffix": "",
+      "priceLakh": 15.03,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "18.60kmpl",
+      "section": "Hyundai Verna 1.5L Petrol Manual Price List"
+    },
+    {
+      "trim": "HX 6 DT",
+      "nameSuffix": "",
+      "priceLakh": 14.55,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "CVT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "19.60kmpl",
+      "section": "Hyundai Verna 1.5L Petrol Automatic Price List"
+    },
+    {
+      "trim": "HX6+",
+      "nameSuffix": "",
+      "priceLakh": 15.02,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "CVT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "19.60kmpl",
+      "section": "Hyundai Verna 1.5L Petrol Automatic Price List"
+    },
+    {
+      "trim": "HX8",
+      "nameSuffix": "",
+      "priceLakh": 16.09,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "CVT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "19.60kmpl",
+      "section": "Hyundai Verna 1.5L Petrol Automatic Price List"
+    },
+    {
+      "trim": "HX 8 DT",
+      "nameSuffix": "",
+      "priceLakh": 16.24,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "CVT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "19.60kmpl",
+      "section": "Hyundai Verna 1.5L Petrol Automatic Price List"
+    },
+    {
+      "trim": "HX10",
+      "nameSuffix": "",
+      "priceLakh": 17.15,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "CVT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "19.60kmpl",
+      "section": "Hyundai Verna 1.5L Petrol Automatic Price List"
+    },
+    {
+      "trim": "HX 10 DT",
+      "nameSuffix": "",
+      "priceLakh": 17.3,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "CVT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "19.60kmpl",
+      "section": "Hyundai Verna 1.5L Petrol Automatic Price List"
+    },
+    {
+      "trim": "HX 8 DT",
+      "nameSuffix": "",
+      "priceLakh": 16.43,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "6-speed MT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "20.00kmpl",
+      "section": "Hyundai Verna 1.5L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "HX8",
+      "nameSuffix": "",
+      "priceLakh": 17.62,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "18.28kmpl",
+      "section": "Hyundai Verna 1.5L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "HX 8 DT",
+      "nameSuffix": "",
+      "priceLakh": 17.77,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "18.28kmpl",
+      "section": "Hyundai Verna 1.5L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "HX10",
+      "nameSuffix": "",
+      "priceLakh": 18.25,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "18.28kmpl",
+      "section": "Hyundai Verna 1.5L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "HX 10 DT",
+      "nameSuffix": "",
+      "priceLakh": 18.4,
+      "fuelType": "Petrol",
+      "engine": "1482cc",
+      "transmission": "7-speed DCT",
+      "power": "160PS",
+      "torque": "253Nm",
+      "mileage": "18.28kmpl",
+      "section": "Hyundai Verna 1.5L Turbo Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:06.620Z",
+  "source": "https://www.v3cars.com/hyundai-cars/verna",
+  "v3carsImage": "/cars/hyundai-verna.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/368290verna.png"
+}

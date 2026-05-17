@@ -1,0 +1,59 @@
+{
+  "slug": "toyota-land-cruiser",
+  "name": "Toyota Land Cruiser",
+  "brand": "Toyota",
+  "modelYear": 2026,
+  "tagline": "Legendary off-roader",
+  "summary": "Ultimate Toyota SUV with diesel V6.",
+  "segment": "luxury",
+  "imageUrl": "https://www.toyota.co.in/content/dam/toyota/in/models/land-cruiser/lc-hero.jpg",
+  "priceRangeMin": 225,
+  "priceRangeMax": 225,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4980 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1980 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1950 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2850 mm"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "235 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "80 litres"
+    }
+  ],
+  "engines": [
+    "3346cc (10-speed TC)"
+  ],
+  "variants": [
+    {
+      "trim": "GR S",
+      "nameSuffix": "",
+      "priceLakh": 225,
+      "fuelType": "Diesel",
+      "engine": "3346cc",
+      "transmission": "10-speed TC",
+      "power": "309PS",
+      "torque": "700Nm",
+      "mileage": "-",
+      "section": "Toyota Land Cruiser 3.3L Diesel Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:42.446Z",
+  "source": "https://www.v3cars.com/toyota-cars/land-cruiser",
+  "v3carsImage": "/cars/toyota-land-cruiser.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/919475land-cruiser.png"
+}

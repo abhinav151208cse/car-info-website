@@ -1,0 +1,283 @@
+{
+  "slug": "tata-sierra",
+  "name": "Tata Sierra",
+  "brand": "Tata",
+  "modelYear": 2026,
+  "tagline": "Iconic nameplate reborn",
+  "summary": "Lifestyle SUV with modern design and petrol/EV powertrains.",
+  "segment": "suv-c",
+  "imageUrl": "https://www.tatamotors.com/content/dam/tata-motors/passenger-vehicles/sierra/sierra-ice/hero/sierra-hero-desktop.jpg",
+  "priceRangeMin": 12.99,
+  "priceRangeMax": 21.29,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4340 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1841 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1715 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2730 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "350 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "205 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "50 litres"
+    }
+  ],
+  "engines": [
+    "1498cc (6-speed MT)",
+    "1497cc (6-speed MT)",
+    "1498cc (7-speed DCT)",
+    "1497cc (6-speed TC)",
+    "1498cc (6-speed TC)"
+  ],
+  "variants": [
+    {
+      "trim": "Pure",
+      "nameSuffix": "",
+      "priceLakh": 12.99,
+      "fuelType": "Petrol",
+      "engine": "1498cc",
+      "transmission": "6-speed MT",
+      "power": "106PS",
+      "torque": "145Nm",
+      "mileage": "17.40kmpl",
+      "section": "Tata Sierra 1.5L Petrol Manual Price List"
+    },
+    {
+      "trim": "Pure Plus",
+      "nameSuffix": "",
+      "priceLakh": 14.49,
+      "fuelType": "Petrol",
+      "engine": "1498cc",
+      "transmission": "6-speed MT",
+      "power": "106PS",
+      "torque": "145Nm",
+      "mileage": "17.40kmpl",
+      "section": "Tata Sierra 1.5L Petrol Manual Price List"
+    },
+    {
+      "trim": "Adventure",
+      "nameSuffix": "",
+      "priceLakh": 15.29,
+      "fuelType": "Petrol",
+      "engine": "1498cc",
+      "transmission": "6-speed MT",
+      "power": "106PS",
+      "torque": "145Nm",
+      "mileage": "17.40kmpl",
+      "section": "Tata Sierra 1.5L Petrol Manual Price List"
+    },
+    {
+      "trim": "Adventure Plus",
+      "nameSuffix": "",
+      "priceLakh": 15.99,
+      "fuelType": "Petrol",
+      "engine": "1498cc",
+      "transmission": "6-speed MT",
+      "power": "106PS",
+      "torque": "145Nm",
+      "mileage": "17.40kmpl",
+      "section": "Tata Sierra 1.5L Petrol Manual Price List"
+    },
+    {
+      "trim": "Accomplished",
+      "nameSuffix": "",
+      "priceLakh": 17.99,
+      "fuelType": "Petrol",
+      "engine": "1498cc",
+      "transmission": "6-speed MT",
+      "power": "106PS",
+      "torque": "145Nm",
+      "mileage": "17.40kmpl",
+      "section": "Tata Sierra 1.5L Petrol Manual Price List"
+    },
+    {
+      "trim": "Pure",
+      "nameSuffix": "",
+      "priceLakh": 14.49,
+      "fuelType": "Diesel",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "118PS",
+      "torque": "260Nm",
+      "mileage": "-",
+      "section": "Tata Sierra 1.5L Diesel Manual Price List"
+    },
+    {
+      "trim": "Pure Plus",
+      "nameSuffix": "",
+      "priceLakh": 15.99,
+      "fuelType": "Diesel",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "118PS",
+      "torque": "260Nm",
+      "mileage": "-",
+      "section": "Tata Sierra 1.5L Diesel Manual Price List"
+    },
+    {
+      "trim": "Adventure",
+      "nameSuffix": "",
+      "priceLakh": 16.49,
+      "fuelType": "Diesel",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "118PS",
+      "torque": "260Nm",
+      "mileage": "-",
+      "section": "Tata Sierra 1.5L Diesel Manual Price List"
+    },
+    {
+      "trim": "Adventure Plus",
+      "nameSuffix": "",
+      "priceLakh": 17.19,
+      "fuelType": "Diesel",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "118PS",
+      "torque": "260Nm",
+      "mileage": "-",
+      "section": "Tata Sierra 1.5L Diesel Manual Price List"
+    },
+    {
+      "trim": "Accomplished",
+      "nameSuffix": "",
+      "priceLakh": 18.99,
+      "fuelType": "Diesel",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "118PS",
+      "torque": "260Nm",
+      "mileage": "-",
+      "section": "Tata Sierra 1.5L Diesel Manual Price List"
+    },
+    {
+      "trim": "Accomplished Plus",
+      "nameSuffix": "",
+      "priceLakh": 20.29,
+      "fuelType": "Diesel",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "118PS",
+      "torque": "260Nm",
+      "mileage": "-",
+      "section": "Tata Sierra 1.5L Diesel Manual Price List"
+    },
+    {
+      "trim": "Pure Plus",
+      "nameSuffix": "",
+      "priceLakh": 15.99,
+      "fuelType": "Petrol",
+      "engine": "1498cc",
+      "transmission": "7-speed DCT",
+      "power": "106PS",
+      "torque": "145Nm",
+      "mileage": "-",
+      "section": "Tata Sierra 1.5L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Adventure",
+      "nameSuffix": "",
+      "priceLakh": 16.79,
+      "fuelType": "Petrol",
+      "engine": "1498cc",
+      "transmission": "7-speed DCT",
+      "power": "106PS",
+      "torque": "145Nm",
+      "mileage": "-",
+      "section": "Tata Sierra 1.5L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Pure Plus",
+      "nameSuffix": "",
+      "priceLakh": 17.49,
+      "fuelType": "Diesel",
+      "engine": "1497cc",
+      "transmission": "6-speed TC",
+      "power": "118PS",
+      "torque": "280Nm",
+      "mileage": "-",
+      "section": "Tata Sierra 1.5L Diesel Automatic Price List"
+    },
+    {
+      "trim": "Adventure Plus",
+      "nameSuffix": "",
+      "priceLakh": 18.49,
+      "fuelType": "Diesel",
+      "engine": "1497cc",
+      "transmission": "6-speed TC",
+      "power": "118PS",
+      "torque": "280Nm",
+      "mileage": "-",
+      "section": "Tata Sierra 1.5L Diesel Automatic Price List"
+    },
+    {
+      "trim": "Accomplished",
+      "nameSuffix": "",
+      "priceLakh": 19.99,
+      "fuelType": "Diesel",
+      "engine": "1497cc",
+      "transmission": "6-speed TC",
+      "power": "118PS",
+      "torque": "280Nm",
+      "mileage": "-",
+      "section": "Tata Sierra 1.5L Diesel Automatic Price List"
+    },
+    {
+      "trim": "Accomplished Plus",
+      "nameSuffix": "",
+      "priceLakh": 21.29,
+      "fuelType": "Diesel",
+      "engine": "1497cc",
+      "transmission": "6-speed TC",
+      "power": "118PS",
+      "torque": "280Nm",
+      "mileage": "-",
+      "section": "Tata Sierra 1.5L Diesel Automatic Price List"
+    },
+    {
+      "trim": "Accomplished",
+      "nameSuffix": "",
+      "priceLakh": 19.99,
+      "fuelType": "Petrol",
+      "engine": "1498cc",
+      "transmission": "6-speed TC",
+      "power": "160PS",
+      "torque": "255Nm",
+      "mileage": "-",
+      "section": "Tata Sierra 1.5L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Accomplished Plus",
+      "nameSuffix": "",
+      "priceLakh": 20.99,
+      "fuelType": "Petrol",
+      "engine": "1498cc",
+      "transmission": "6-speed TC",
+      "power": "160PS",
+      "torque": "255Nm",
+      "mileage": "-",
+      "section": "Tata Sierra 1.5L  Turbo Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:18:58.879Z",
+  "source": "https://www.v3cars.com/tata-cars/sierra",
+  "v3carsImage": "/cars/tata-sierra.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/001807sierra.png"
+}

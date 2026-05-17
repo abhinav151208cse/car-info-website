@@ -1,0 +1,124 @@
+{
+  "slug": "toyota-fortuner",
+  "name": "Toyota Fortuner",
+  "brand": "Toyota",
+  "modelYear": 2026,
+  "tagline": "Full-size SUV",
+  "summary": "Body-on-frame SUV with petrol and diesel, 4x4 available.",
+  "segment": "suv-d",
+  "imageUrl": "https://www.toyota.co.in/content/dam/toyota/in/models/fortuner/fortuner-hero.jpg",
+  "priceRangeMin": 39.35,
+  "priceRangeMax": 50.46,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4795 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1855 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1835 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2745 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "296 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "225 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "80 litres"
+    }
+  ],
+  "engines": [
+    "2694cc (6-speed TC)",
+    "2755cc (6-speed MT)"
+  ],
+  "variants": [
+    {
+      "trim": "4WD",
+      "nameSuffix": "",
+      "priceLakh": 39.35,
+      "fuelType": "Diesel",
+      "engine": "2694cc",
+      "transmission": "6-speed TC",
+      "power": "166PS",
+      "torque": "245Nm",
+      "mileage": "-",
+      "section": "Toyota Fortuner 2.8L Diesel Manual Price List"
+    },
+    {
+      "trim": "Legender 4WD",
+      "nameSuffix": "",
+      "priceLakh": 45.08,
+      "fuelType": "Diesel",
+      "engine": "2694cc",
+      "transmission": "6-speed TC",
+      "power": "166PS",
+      "torque": "245Nm",
+      "mileage": "-",
+      "section": "Toyota Fortuner 2.8L Diesel Manual Price List"
+    },
+    {
+      "trim": "Legender 2WD",
+      "nameSuffix": "",
+      "priceLakh": 42.92,
+      "fuelType": "Diesel",
+      "engine": "2755cc",
+      "transmission": "6-speed MT",
+      "power": "204PS",
+      "torque": "420Nm",
+      "mileage": "14.60kmpl",
+      "section": "Toyota Fortuner 2.8L Diesel Automatic Price List"
+    },
+    {
+      "trim": "4WD",
+      "nameSuffix": "",
+      "priceLakh": 43.12,
+      "fuelType": "Diesel",
+      "engine": "2755cc",
+      "transmission": "6-speed MT",
+      "power": "204PS",
+      "torque": "420Nm",
+      "mileage": "14.60kmpl",
+      "section": "Toyota Fortuner 2.8L Diesel Automatic Price List"
+    },
+    {
+      "trim": "Legender 4WD",
+      "nameSuffix": "",
+      "priceLakh": 48.29,
+      "fuelType": "Diesel",
+      "engine": "2755cc",
+      "transmission": "6-speed MT",
+      "power": "204PS",
+      "torque": "420Nm",
+      "mileage": "14.60kmpl",
+      "section": "Toyota Fortuner 2.8L Diesel Automatic Price List"
+    },
+    {
+      "trim": "GR S 4WD",
+      "nameSuffix": "",
+      "priceLakh": 50.46,
+      "fuelType": "Diesel",
+      "engine": "2755cc",
+      "transmission": "6-speed MT",
+      "power": "204PS",
+      "torque": "420Nm",
+      "mileage": "14.60kmpl",
+      "section": "Toyota Fortuner 2.8L Diesel Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:40.208Z",
+  "source": "https://www.v3cars.com/toyota-cars/fortuner",
+  "v3carsImage": "/cars/toyota-fortuner.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/875173fortuner.png"
+}

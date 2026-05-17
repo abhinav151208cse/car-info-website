@@ -1,0 +1,245 @@
+{
+  "slug": "maruti-victoris",
+  "name": "Maruti Victoris",
+  "brand": "Maruti Suzuki",
+  "modelYear": 2026,
+  "tagline": "Arena mid-size SUV",
+  "summary": "New Victoris SUV with petrol and strong hybrid options.",
+  "segment": "suv-c",
+  "imageUrl": "https://www.marutisuzuki.com/-/media/marutisuzuki/india/vehicles/victoris/hero/victoris-hero.jpg",
+  "priceRangeMin": 11.8,
+  "priceRangeMax": 19.99,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4360 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1795 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1655 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2600 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "439 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "210 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "45 litres"
+    }
+  ],
+  "engines": [
+    "1462cc (5-speed MT)",
+    "1462cc (6-speed TC)",
+    "1490cc (CVT)"
+  ],
+  "variants": [
+    {
+      "trim": "Victoris VXI",
+      "nameSuffix": "",
+      "priceLakh": 11.8,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "21.18kmpl",
+      "section": "Maruti Suzuki Victoris 1.5L  Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "Victoris ZXI",
+      "nameSuffix": "",
+      "priceLakh": 13.57,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "21.18kmpl",
+      "section": "Maruti Suzuki Victoris 1.5L  Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "Victoris ZXI (O)",
+      "nameSuffix": "",
+      "priceLakh": 14.08,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "21.18kmpl",
+      "section": "Maruti Suzuki Victoris 1.5L  Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "Victoris ZXI Plus",
+      "nameSuffix": "",
+      "priceLakh": 15.24,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "21.18kmpl",
+      "section": "Maruti Suzuki Victoris 1.5L  Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "Victoris ZXI Plus (O)",
+      "nameSuffix": "",
+      "priceLakh": 15.82,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "21.18kmpl",
+      "section": "Maruti Suzuki Victoris 1.5L  Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "Victoris ZXI",
+      "nameSuffix": "",
+      "priceLakh": 15.28,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "21.06kmpl",
+      "section": "Maruti Suzuki Victoris 1.5L  Mild Hybrid Petrol Automatic Price List"
+    },
+    {
+      "trim": "Victoris ZXI (O)",
+      "nameSuffix": "",
+      "priceLakh": 15.79,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "21.06kmpl",
+      "section": "Maruti Suzuki Victoris 1.5L  Mild Hybrid Petrol Automatic Price List"
+    },
+    {
+      "trim": "Victoris ZXI Plus",
+      "nameSuffix": "",
+      "priceLakh": 17.34,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "21.06kmpl",
+      "section": "Maruti Suzuki Victoris 1.5L  Mild Hybrid Petrol Automatic Price List"
+    },
+    {
+      "trim": "Victoris ZXI Plus (O)",
+      "nameSuffix": "",
+      "priceLakh": 17.92,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "21.06kmpl",
+      "section": "Maruti Suzuki Victoris 1.5L  Mild Hybrid Petrol Automatic Price List"
+    },
+    {
+      "trim": "Victoris Zxi",
+      "nameSuffix": "",
+      "priceLakh": 17.95,
+      "fuelType": "Hybrid",
+      "engine": "1490cc",
+      "transmission": "CVT",
+      "power": "113PS",
+      "torque": "122Nm",
+      "mileage": "28.65kmpl",
+      "section": "Maruti Suzuki Victoris 1.5L  Hybrid Automatic Price List"
+    },
+    {
+      "trim": "Victoris Zxi O",
+      "nameSuffix": "",
+      "priceLakh": 18.54,
+      "fuelType": "Hybrid",
+      "engine": "1490cc",
+      "transmission": "CVT",
+      "power": "113PS",
+      "torque": "122Nm",
+      "mileage": "28.65kmpl",
+      "section": "Maruti Suzuki Victoris 1.5L  Hybrid Automatic Price List"
+    },
+    {
+      "trim": "Victoris Zxi Plus",
+      "nameSuffix": "",
+      "priceLakh": 19.62,
+      "fuelType": "Hybrid",
+      "engine": "1490cc",
+      "transmission": "CVT",
+      "power": "113PS",
+      "torque": "122Nm",
+      "mileage": "28.65kmpl",
+      "section": "Maruti Suzuki Victoris 1.5L  Hybrid Automatic Price List"
+    },
+    {
+      "trim": "Victoris Zxi Plus O",
+      "nameSuffix": "",
+      "priceLakh": 19.99,
+      "fuelType": "Hybrid",
+      "engine": "1490cc",
+      "transmission": "CVT",
+      "power": "113PS",
+      "torque": "122Nm",
+      "mileage": "28.65kmpl",
+      "section": "Maruti Suzuki Victoris 1.5L  Hybrid Automatic Price List"
+    },
+    {
+      "trim": "Victoris Vxi",
+      "nameSuffix": "",
+      "priceLakh": 12.8,
+      "fuelType": "CNG",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "122Nm",
+      "mileage": "27.02km/kg",
+      "section": "Maruti Suzuki Victoris 1.5L  CNG Manual Price List"
+    },
+    {
+      "trim": "Victoris Zxi",
+      "nameSuffix": "",
+      "priceLakh": 14.72,
+      "fuelType": "CNG",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "122Nm",
+      "mileage": "27.02km/kg",
+      "section": "Maruti Suzuki Victoris 1.5L  CNG Manual Price List"
+    },
+    {
+      "trim": "Victoris ZXI Plus 4WD",
+      "nameSuffix": "",
+      "priceLakh": 19.37,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "19.07kmpl",
+      "section": "Maruti Suzuki Victoris 1.5L  Mild Hybrid Petrol Automatic 103PS Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:15.535Z",
+  "source": "https://www.v3cars.com/maruti-arena-cars/victoris",
+  "v3carsImage": "/cars/maruti-victoris.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/357392victoris.png"
+}

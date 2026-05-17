@@ -1,0 +1,76 @@
+{
+  "slug": "maruti-jimny",
+  "name": "Maruti Jimny",
+  "brand": "Maruti Suzuki",
+  "modelYear": 2026,
+  "tagline": "Compact off-roader",
+  "summary": "Ladder-frame 4x4 with petrol engine and retro design.",
+  "segment": "suv-b",
+  "imageUrl": "https://www.nexaexperience.com/-/media/nexa/jimny/hero/jimny-hero.jpg",
+  "priceRangeMin": 13.23,
+  "priceRangeMax": 14.29,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3985 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1645 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1720 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2590 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "219 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "210 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "40 litres"
+    }
+  ],
+  "engines": [
+    "1462cc (5-speed MT)",
+    "1462cc (4-speed TC)"
+  ],
+  "variants": [
+    {
+      "trim": "Jimny Alpha",
+      "nameSuffix": "",
+      "priceLakh": 13.23,
+      "fuelType": "Petrol",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "105PS",
+      "torque": "134Nm",
+      "mileage": "16.94kmpl",
+      "section": "Maruti Suzuki Jimny 1.5L Petrol Manual Price List"
+    },
+    {
+      "trim": "Jimny Alpha",
+      "nameSuffix": "",
+      "priceLakh": 14.29,
+      "fuelType": "Petrol",
+      "engine": "1462cc",
+      "transmission": "4-speed TC",
+      "power": "105PS",
+      "torque": "134Nm",
+      "mileage": "16.39kmpl",
+      "section": "Maruti Suzuki Jimny 1.5L Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:24.730Z",
+  "source": "https://www.v3cars.com/maruti-nexa-cars/jimny",
+  "v3carsImage": "/cars/maruti-jimny.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/524433jimny.png"
+}

@@ -1,0 +1,232 @@
+{
+  "slug": "hyundai-i20",
+  "name": "Hyundai i20",
+  "brand": "Hyundai",
+  "modelYear": 2026,
+  "tagline": "Premium hatchback",
+  "summary": "Feature-rich hatch with NA and turbo petrol engines.",
+  "segment": "hatch",
+  "imageUrl": "https://www.hyundai.com/content/dam/hyundai/in/en/data/vehicle-images/i20/i20-hero.jpg",
+  "priceRangeMin": 6.74,
+  "priceRangeMax": 10.57,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3995 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1775 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1505 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2580 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "311 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "170 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "37 litres"
+    }
+  ],
+  "engines": [
+    "1197cc (5-speed MT)",
+    "1197cc (CVT)"
+  ],
+  "variants": [
+    {
+      "trim": "Magna Executive",
+      "nameSuffix": "",
+      "priceLakh": 6.74,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "20.35kmpl",
+      "section": "Hyundai i20 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Magna",
+      "nameSuffix": "",
+      "priceLakh": 7,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "20.35kmpl",
+      "section": "Hyundai i20 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Sportz",
+      "nameSuffix": "",
+      "priceLakh": 7.75,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "20.35kmpl",
+      "section": "Hyundai i20 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Sportz Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 7.84,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "20.35kmpl",
+      "section": "Hyundai i20 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Sportz (O)",
+      "nameSuffix": "",
+      "priceLakh": 8.28,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "20.35kmpl",
+      "section": "Hyundai i20 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Sportz (O) Knight Edition",
+      "nameSuffix": "",
+      "priceLakh": 8.37,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "20.35kmpl",
+      "section": "Hyundai i20 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Asta",
+      "nameSuffix": "",
+      "priceLakh": 8.62,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "20.35kmpl",
+      "section": "Hyundai i20 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Asta (O)",
+      "nameSuffix": "",
+      "priceLakh": 9.15,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "20.35kmpl",
+      "section": "Hyundai i20 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Asta (O) Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 9.32,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "20.35kmpl",
+      "section": "Hyundai i20 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Sportz",
+      "nameSuffix": "",
+      "priceLakh": 8.76,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "CVT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "19.65kmpl",
+      "section": "Hyundai i20 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Sportz (O)",
+      "nameSuffix": "",
+      "priceLakh": 9.2,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "CVT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "19.65kmpl",
+      "section": "Hyundai i20 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Asta (O)",
+      "nameSuffix": "",
+      "priceLakh": 10.34,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "CVT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "19.65kmpl",
+      "section": "Hyundai i20 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Asta (O) Knight Edition",
+      "nameSuffix": "",
+      "priceLakh": 10.44,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "CVT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "19.65kmpl",
+      "section": "Hyundai i20 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Asta Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 10.48,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "CVT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "19.65kmpl",
+      "section": "Hyundai i20 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Asta (O) Dual Tone Knight Edition",
+      "nameSuffix": "",
+      "priceLakh": 10.57,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "CVT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "19.65kmpl",
+      "section": "Hyundai i20 1.2L Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:07.459Z",
+  "source": "https://www.v3cars.com/hyundai-cars/i20",
+  "v3carsImage": "/cars/hyundai-i20.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/373985i20.png"
+}

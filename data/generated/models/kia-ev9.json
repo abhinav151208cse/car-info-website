@@ -1,0 +1,53 @@
+{
+  "slug": "kia-ev9",
+  "name": "Kia EV9",
+  "brand": "Kia",
+  "modelYear": 2026,
+  "tagline": "Three-row electric flagship SUV",
+  "summary": "Large electric SUV with 6/7-seat layouts and advanced driver assistance.",
+  "segment": "ev",
+  "imageUrl": "https://www.kia.com/content/dam/kia2/in/en/images/showroom/ev9/ev9-hero-pc.jpg",
+  "priceRangeMin": 130,
+  "priceRangeMax": 130,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "5015 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1980 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1780 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "3100 mm"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "198 mm"
+    }
+  ],
+  "engines": [],
+  "variants": [
+    {
+      "trim": "GT Line AWD",
+      "nameSuffix": "",
+      "priceLakh": 130,
+      "fuelType": "Petrol",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Kia EV9 Range 561km | AWD Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:26:48.824Z",
+  "source": "https://www.v3cars.com/kia-cars/ev9",
+  "v3carsImage": "/cars/kia-ev9.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/599042ev9.png"
+}

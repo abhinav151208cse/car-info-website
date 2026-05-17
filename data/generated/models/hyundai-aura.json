@@ -1,0 +1,148 @@
+{
+  "slug": "hyundai-aura",
+  "name": "Hyundai Aura",
+  "brand": "Hyundai",
+  "modelYear": 2026,
+  "tagline": "Compact sedan",
+  "summary": "Sub-4m sedan with petrol and CNG options.",
+  "segment": "sedan",
+  "imageUrl": "https://www.hyundai.com/content/dam/hyundai/in/en/data/vehicle-images/aura/aura-hero.jpg",
+  "priceRangeMin": 6.84,
+  "priceRangeMax": 8.54,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3995 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1680 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1520 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2450 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "402 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "165 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "37 litres"
+    }
+  ],
+  "engines": [
+    "1197cc (5-speed MT)",
+    "1197cc (5-speed AMT)"
+  ],
+  "variants": [
+    {
+      "trim": "Corporate",
+      "nameSuffix": "",
+      "priceLakh": 6.84,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "114Nm",
+      "mileage": "20.50kmpl",
+      "section": "Hyundai Aura 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "S",
+      "nameSuffix": "",
+      "priceLakh": 6.86,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "114Nm",
+      "mileage": "20.50kmpl",
+      "section": "Hyundai Aura 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "SX",
+      "nameSuffix": "",
+      "priceLakh": 7.64,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "114Nm",
+      "mileage": "20.50kmpl",
+      "section": "Hyundai Aura 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "SX (O)",
+      "nameSuffix": "",
+      "priceLakh": 8.1,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "114Nm",
+      "mileage": "20.50kmpl",
+      "section": "Hyundai Aura 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "SX Plus",
+      "nameSuffix": "",
+      "priceLakh": 8.29,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "83PS",
+      "torque": "114Nm",
+      "mileage": "20.30kmpl",
+      "section": "Hyundai Aura 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "S",
+      "nameSuffix": "",
+      "priceLakh": 7.76,
+      "fuelType": "CNG",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "69PS",
+      "torque": "95Nm",
+      "mileage": "28.00km/kg",
+      "section": "Hyundai Aura 1.2L CNG Manual Price List"
+    },
+    {
+      "trim": "Corporate",
+      "nameSuffix": "",
+      "priceLakh": 7.85,
+      "fuelType": "CNG",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "69PS",
+      "torque": "95Nm",
+      "mileage": "28.00km/kg",
+      "section": "Hyundai Aura 1.2L CNG Manual Price List"
+    },
+    {
+      "trim": "SX",
+      "nameSuffix": "",
+      "priceLakh": 8.54,
+      "fuelType": "CNG",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "69PS",
+      "torque": "95Nm",
+      "mileage": "28.00km/kg",
+      "section": "Hyundai Aura 1.2L CNG Manual Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:09.130Z",
+  "source": "https://www.v3cars.com/hyundai-cars/aura",
+  "v3carsImage": "/cars/hyundai-aura.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/093580aura.png"
+}

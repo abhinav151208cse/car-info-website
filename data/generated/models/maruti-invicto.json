@@ -1,0 +1,75 @@
+{
+  "slug": "maruti-invicto",
+  "name": "Maruti Invicto",
+  "brand": "Maruti Suzuki",
+  "modelYear": 2026,
+  "tagline": "Premium hybrid MPV",
+  "summary": "Toyota-derived hybrid MPV sold through Nexa.",
+  "segment": "muv",
+  "imageUrl": "https://www.nexaexperience.com/-/media/nexa/invicto/hero/invicto-hero.jpg",
+  "priceRangeMin": 25.02,
+  "priceRangeMax": 28.61,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4755 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1850 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1795 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2850 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "239 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "185 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "52 litres"
+    }
+  ],
+  "engines": [
+    "1987cc (CVT)"
+  ],
+  "variants": [
+    {
+      "trim": "Invicto Zeta Plus 8S",
+      "nameSuffix": "",
+      "priceLakh": 25.02,
+      "fuelType": "Hybrid",
+      "engine": "1987cc",
+      "transmission": "CVT",
+      "power": "186PS",
+      "torque": "206Nm",
+      "mileage": "23.24kmpl",
+      "section": "Maruti Suzuki Invicto 2.0L  Hybrid Automatic Price List"
+    },
+    {
+      "trim": "Invicto Alpha Plus 7S",
+      "nameSuffix": "",
+      "priceLakh": 28.61,
+      "fuelType": "Hybrid",
+      "engine": "1987cc",
+      "transmission": "CVT",
+      "power": "186PS",
+      "torque": "206Nm",
+      "mileage": "23.24kmpl",
+      "section": "Maruti Suzuki Invicto 2.0L  Hybrid Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:23.872Z",
+  "source": "https://www.v3cars.com/maruti-nexa-cars/invicto",
+  "v3carsImage": "/cars/maruti-invicto.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/043325invicto.png"
+}

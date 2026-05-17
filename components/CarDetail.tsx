@@ -1,20 +1,31 @@
 "use client";
 
 import Link from "next/link";
-import { useMemo, useState } from "react";
+import { useSearchParams } from "next/navigation";
+import { useEffect, useMemo, useState } from "react";
 import type { CarModel } from "@/lib/cars";
 import AddToCompareButton from "@/components/AddToCompareButton";
 import {
   buildVariantDetailSections,
   countDetailItems,
 } from "@/lib/variant-details";
+import { onCarImageError } from "@/lib/image-fallback";
 
 type Props = {
   car: CarModel;
 };
 
 export default function CarDetail({ car }: Props) {
+  const searchParams = useSearchParams();
   const [selectedId, setSelectedId] = useState(car.variants[0].id);
+
+  useEffect(() => {
+    const fromUrl = searchParams.get("variant");
+    if (fromUrl && car.variants.some((v) => v.id === fromUrl)) {
+      setSelectedId(fromUrl);
+    }
+  }, [searchParams, car]);
+
   const variant =
     car.variants.find((v) => v.id === selectedId) ?? car.variants[0];
 
@@ -45,6 +56,7 @@ export default function CarDetail({ car }: Props) {
                 src={car.image}
                 alt={car.name}
                 className="h-64 w-full object-cover sm:h-80"
+                onError={onCarImageError}
               />
               <div className="p-6 sm:p-8">
                 <p className="text-sm font-semibold uppercase tracking-wide text-slate-500">

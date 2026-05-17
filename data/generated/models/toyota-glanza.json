@@ -1,0 +1,124 @@
+{
+  "slug": "toyota-glanza",
+  "name": "Toyota Glanza",
+  "brand": "Toyota",
+  "modelYear": 2026,
+  "tagline": "Premium hatch",
+  "summary": "Baleno-based hatch sold by Toyota.",
+  "segment": "hatch",
+  "imageUrl": "https://www.toyota.co.in/content/dam/toyota/in/models/glanza/glanza-hero.jpg",
+  "priceRangeMin": 7.34,
+  "priceRangeMax": 9.44,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3990 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1745 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1500 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2520 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "318 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "170 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "37 litres"
+    }
+  ],
+  "engines": [
+    "1197cc (5-speed MT)",
+    "1197cc (5-speed AMT)"
+  ],
+  "variants": [
+    {
+      "trim": "S",
+      "nameSuffix": "",
+      "priceLakh": 7.34,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "22.35kmpl",
+      "section": "Toyota Glanza 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "G",
+      "nameSuffix": "",
+      "priceLakh": 8.29,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "22.35kmpl",
+      "section": "Toyota Glanza 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "V",
+      "nameSuffix": "",
+      "priceLakh": 9.12,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "22.35kmpl",
+      "section": "Toyota Glanza 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "G",
+      "nameSuffix": "",
+      "priceLakh": 8.86,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "22.94kmpl",
+      "section": "Toyota Glanza 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "V",
+      "nameSuffix": "",
+      "priceLakh": 9.44,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "22.94kmpl",
+      "section": "Toyota Glanza 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "G",
+      "nameSuffix": "",
+      "priceLakh": 9.14,
+      "fuelType": "CNG",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "78PS",
+      "torque": "99Nm",
+      "mileage": "30.61km/kg",
+      "section": "Toyota Glanza 1.2L  CNG Manual Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:35.176Z",
+  "source": "https://www.v3cars.com/toyota-cars/glanza",
+  "v3carsImage": "/cars/toyota-glanza.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/179165glanza.png"
+}

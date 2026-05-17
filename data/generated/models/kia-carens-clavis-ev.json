@@ -1,0 +1,225 @@
+{
+  "slug": "kia-carens-clavis-ev",
+  "name": "Kia Carens Clavis EV",
+  "brand": "Kia",
+  "modelYear": 2026,
+  "tagline": "Electric 7-seater MPV",
+  "summary": "Battery-electric MPV based on the Carens Clavis platform.",
+  "segment": "ev",
+  "imageUrl": "https://www.kia.com/content/dam/kia2/in/en/images/showroom/2025/carens-clavis-ev/clavis-ev-hero-pc.jpg",
+  "priceRangeMin": 19.99,
+  "priceRangeMax": 24.99,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4550 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1800 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1730 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2780 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "216 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "200 mm"
+    }
+  ],
+  "engines": [],
+  "variants": [
+    {
+      "trim": "HTX (E) 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 19.99,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Kia Carens Clavis EV Range 404km | 11.0kW AC | FWD Price List"
+    },
+    {
+      "trim": "HTX (E) 6 Seater",
+      "nameSuffix": "",
+      "priceLakh": 19.99,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Kia Carens Clavis EV Range 404km | 11.0kW AC | FWD Price List"
+    },
+    {
+      "trim": "HTX 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 20.49,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Kia Carens Clavis EV Range 404km | 11.0kW AC | FWD Price List"
+    },
+    {
+      "trim": "HTX 6 Seater",
+      "nameSuffix": "",
+      "priceLakh": 20.49,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Kia Carens Clavis EV Range 404km | 11.0kW AC | FWD Price List"
+    },
+    {
+      "trim": "HTX (E) 6 Seater",
+      "nameSuffix": "",
+      "priceLakh": 21.99,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Kia Carens Clavis EV Range 490km | 11.0kW AC | FWD Price List"
+    },
+    {
+      "trim": "HTX 6 Seater",
+      "nameSuffix": "",
+      "priceLakh": 22.49,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Kia Carens Clavis EV Range 490km | 11.0kW AC | FWD Price List"
+    },
+    {
+      "trim": "HTX 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 22.49,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Kia Carens Clavis EV Range 490km | 11.0kW AC | FWD Price List"
+    },
+    {
+      "trim": "GTX 6 Seater",
+      "nameSuffix": "",
+      "priceLakh": 22.99,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Kia Carens Clavis EV Range 490km | 11.0kW AC | FWD Price List"
+    },
+    {
+      "trim": "GTX 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 22.99,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Kia Carens Clavis EV Range 490km | 11.0kW AC | FWD Price List"
+    },
+    {
+      "trim": "HTX Plus 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 24.49,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Kia Carens Clavis EV Range 490km | 11.0kW AC | FWD Price List"
+    },
+    {
+      "trim": "HTX Plus 6 Seater",
+      "nameSuffix": "",
+      "priceLakh": 24.49,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Kia Carens Clavis EV Range 490km | 11.0kW AC | FWD Price List"
+    },
+    {
+      "trim": "GTX Plus 6 Seater",
+      "nameSuffix": "",
+      "priceLakh": 24.99,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Kia Carens Clavis EV Range 490km | 11.0kW AC | FWD Price List"
+    },
+    {
+      "trim": "X-LINE 6 Seater",
+      "nameSuffix": "",
+      "priceLakh": 24.99,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Kia Carens Clavis EV Range 490km | 11.0kW AC | FWD Price List"
+    },
+    {
+      "trim": "GTX Plus 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 24.99,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Kia Carens Clavis EV Range 490km | 11.0kW AC | FWD Price List"
+    },
+    {
+      "trim": "X-LINE 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 24.99,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Kia Carens Clavis EV Range 490km | 11.0kW AC | FWD Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:18:50.693Z",
+  "source": "https://www.v3cars.com/kia-cars/carens-clavis-ev",
+  "v3carsImage": "/cars/kia-carens-clavis-ev.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/463752clavis-ev.png"
+}

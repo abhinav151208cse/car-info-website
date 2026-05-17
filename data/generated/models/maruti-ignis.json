@@ -1,0 +1,112 @@
+{
+  "slug": "maruti-ignis",
+  "name": "Maruti Ignis",
+  "brand": "Maruti Suzuki",
+  "modelYear": 2026,
+  "tagline": "Urban crossover hatch",
+  "summary": "Compact Nexa hatch with distinctive styling.",
+  "segment": "hatch",
+  "imageUrl": "https://www.nexaexperience.com/-/media/nexa/ignis/hero/ignis-hero.jpg",
+  "priceRangeMin": 5.85,
+  "priceRangeMax": 7.42,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3700 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1690 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1595 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2435 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "260 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "180 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "32 litres"
+    }
+  ],
+  "engines": [
+    "1197cc (5-speed MT)",
+    "1197cc (5-speed AMT)"
+  ],
+  "variants": [
+    {
+      "trim": "Ignis Delta",
+      "nameSuffix": "",
+      "priceLakh": 5.85,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "113Nm",
+      "mileage": "20.89kmpl",
+      "section": "Maruti Suzuki Ignis 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Ignis Zeta",
+      "nameSuffix": "",
+      "priceLakh": 6.38,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "113Nm",
+      "mileage": "20.89kmpl",
+      "section": "Maruti Suzuki Ignis 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Ignis Alpha",
+      "nameSuffix": "",
+      "priceLakh": 6.97,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "113Nm",
+      "mileage": "20.89kmpl",
+      "section": "Maruti Suzuki Ignis 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Ignis Zeta",
+      "nameSuffix": "",
+      "priceLakh": 6.83,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "83PS",
+      "torque": "113Nm",
+      "mileage": "20.89kmpl",
+      "section": "Maruti Suzuki Ignis 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Ignis Alpha",
+      "nameSuffix": "",
+      "priceLakh": 7.42,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "83PS",
+      "torque": "113Nm",
+      "mileage": "20.89kmpl",
+      "section": "Maruti Suzuki Ignis 1.2L Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:29.981Z",
+  "source": "https://www.v3cars.com/maruti-nexa-cars/ignis",
+  "v3carsImage": "/cars/maruti-ignis.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/957449ignis.png"
+}

@@ -1,0 +1,161 @@
+{
+  "slug": "skoda-slavia",
+  "name": "Skoda Slavia",
+  "brand": "Skoda",
+  "modelYear": 2026,
+  "tagline": "Premium mid-size sedan",
+  "summary": "Spacious sedan with turbo petrol engines.",
+  "segment": "sedan",
+  "imageUrl": "https://www.skoda-auto.co.in/content/dam/skoda/in/models/slavia/hero/slavia-hero.jpg",
+  "priceRangeMin": 13.28,
+  "priceRangeMax": 17.99,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4541 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1752 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1507 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2651 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "521 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "179 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "45 litres"
+    }
+  ],
+  "engines": [
+    "999cc (6-speed MT)",
+    "999cc (6-speed TC)",
+    "1498cc (7-speed DCT)"
+  ],
+  "variants": [
+    {
+      "trim": "Signature",
+      "nameSuffix": "",
+      "priceLakh": 13.28,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "178Nm",
+      "mileage": "20.32kmpl",
+      "section": "Skoda Slavia 1.0L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Sportline",
+      "nameSuffix": "",
+      "priceLakh": 13.49,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "178Nm",
+      "mileage": "20.32kmpl",
+      "section": "Skoda Slavia 1.0L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Prestige",
+      "nameSuffix": "",
+      "priceLakh": 15,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "178Nm",
+      "mileage": "20.32kmpl",
+      "section": "Skoda Slavia 1.0L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Monte Carlo",
+      "nameSuffix": "",
+      "priceLakh": 15,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "178Nm",
+      "mileage": "20.32kmpl",
+      "section": "Skoda Slavia 1.0L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Sportline",
+      "nameSuffix": "",
+      "priceLakh": 14.55,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed TC",
+      "power": "115PS",
+      "torque": "178Nm",
+      "mileage": "18.73kmpl",
+      "section": "Skoda Slavia 1.0L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Prestige",
+      "nameSuffix": "",
+      "priceLakh": 16.43,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed TC",
+      "power": "115PS",
+      "torque": "178Nm",
+      "mileage": "18.73kmpl",
+      "section": "Skoda Slavia 1.0L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Monte Carlo",
+      "nameSuffix": "",
+      "priceLakh": 16.49,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed TC",
+      "power": "115PS",
+      "torque": "178Nm",
+      "mileage": "18.73kmpl",
+      "section": "Skoda Slavia 1.0L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Prestige (150PS)",
+      "nameSuffix": "",
+      "priceLakh": 17.93,
+      "fuelType": "Petrol",
+      "engine": "1498cc",
+      "transmission": "7-speed DCT",
+      "power": "150PS",
+      "torque": "250Nm",
+      "mileage": "19.00kmpl",
+      "section": "Skoda Slavia 1.5L Turbo Petrol Automatic (150PS) Price List"
+    },
+    {
+      "trim": "Monte Carlo (150PS)",
+      "nameSuffix": "",
+      "priceLakh": 17.99,
+      "fuelType": "Petrol",
+      "engine": "1498cc",
+      "transmission": "7-speed DCT",
+      "power": "150PS",
+      "torque": "250Nm",
+      "mileage": "19.00kmpl",
+      "section": "Skoda Slavia 1.5L Turbo Petrol Automatic (150PS) Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:33.114Z",
+  "source": "https://www.v3cars.com/skoda-cars/slavia",
+  "v3carsImage": "/cars/skoda-slavia.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/018705slavia.png"
+}

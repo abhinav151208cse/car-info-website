@@ -1,0 +1,171 @@
+{
+  "slug": "toyota-innova-hycross",
+  "name": "Toyota Innova Hycross",
+  "brand": "Toyota",
+  "modelYear": 2026,
+  "tagline": "Hybrid MPV",
+  "summary": "Premium Innova with petrol hybrid powertrain.",
+  "segment": "muv",
+  "imageUrl": "https://www.toyota.co.in/content/dam/toyota/in/models/innova-hycross/hycross-hero.jpg",
+  "priceRangeMin": 18.38,
+  "priceRangeMax": 31.3,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4755 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1850 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1795 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2850 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "300 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "185 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "52 litres"
+    }
+  ],
+  "engines": [
+    "1987cc (CVT)"
+  ],
+  "variants": [
+    {
+      "trim": "G FLT 8S",
+      "nameSuffix": "",
+      "priceLakh": 18.38,
+      "fuelType": "Petrol",
+      "engine": "1987cc",
+      "transmission": "CVT",
+      "power": "174PS",
+      "torque": "204Nm",
+      "mileage": "16.13kmpl",
+      "section": "Toyota Innova Hycross 2.0L Petrol Automatic Price List"
+    },
+    {
+      "trim": "GX 7S",
+      "nameSuffix": "",
+      "priceLakh": 19.15,
+      "fuelType": "Petrol",
+      "engine": "1987cc",
+      "transmission": "CVT",
+      "power": "174PS",
+      "torque": "204Nm",
+      "mileage": "16.13kmpl",
+      "section": "Toyota Innova Hycross 2.0L Petrol Automatic Price List"
+    },
+    {
+      "trim": "GX 8S",
+      "nameSuffix": "",
+      "priceLakh": 19.2,
+      "fuelType": "Petrol",
+      "engine": "1987cc",
+      "transmission": "CVT",
+      "power": "174PS",
+      "torque": "204Nm",
+      "mileage": "16.13kmpl",
+      "section": "Toyota Innova Hycross 2.0L Petrol Automatic Price List"
+    },
+    {
+      "trim": "GX(O) 8S",
+      "nameSuffix": "",
+      "priceLakh": 20.43,
+      "fuelType": "Petrol",
+      "engine": "1987cc",
+      "transmission": "CVT",
+      "power": "174PS",
+      "torque": "204Nm",
+      "mileage": "16.13kmpl",
+      "section": "Toyota Innova Hycross 2.0L Petrol Automatic Price List"
+    },
+    {
+      "trim": "GX(O) 7S",
+      "nameSuffix": "",
+      "priceLakh": 20.56,
+      "fuelType": "Petrol",
+      "engine": "1987cc",
+      "transmission": "CVT",
+      "power": "174PS",
+      "torque": "204Nm",
+      "mileage": "16.13kmpl",
+      "section": "Toyota Innova Hycross 2.0L Petrol Automatic Price List"
+    },
+    {
+      "trim": "VX 8S",
+      "nameSuffix": "",
+      "priceLakh": 26.35,
+      "fuelType": "Hybrid",
+      "engine": "1987cc",
+      "transmission": "CVT",
+      "power": "186PS",
+      "torque": "206Nm",
+      "mileage": "21.10kmpl",
+      "section": "Toyota Innova Hycross 2.0L Hybrid Automatic Price List"
+    },
+    {
+      "trim": "VX(O) 8S",
+      "nameSuffix": "",
+      "priceLakh": 27.89,
+      "fuelType": "Hybrid",
+      "engine": "1987cc",
+      "transmission": "CVT",
+      "power": "186PS",
+      "torque": "206Nm",
+      "mileage": "21.10kmpl",
+      "section": "Toyota Innova Hycross 2.0L Hybrid Automatic Price List"
+    },
+    {
+      "trim": "VX(O) 7S",
+      "nameSuffix": "",
+      "priceLakh": 28.27,
+      "fuelType": "Hybrid",
+      "engine": "1987cc",
+      "transmission": "CVT",
+      "power": "186PS",
+      "torque": "206Nm",
+      "mileage": "21.10kmpl",
+      "section": "Toyota Innova Hycross 2.0L Hybrid Automatic Price List"
+    },
+    {
+      "trim": "ZX",
+      "nameSuffix": "",
+      "priceLakh": 30.66,
+      "fuelType": "Hybrid",
+      "engine": "1987cc",
+      "transmission": "CVT",
+      "power": "186PS",
+      "torque": "206Nm",
+      "mileage": "21.10kmpl",
+      "section": "Toyota Innova Hycross 2.0L Hybrid Automatic Price List"
+    },
+    {
+      "trim": "ZX (O)",
+      "nameSuffix": "",
+      "priceLakh": 31.3,
+      "fuelType": "Hybrid",
+      "engine": "1987cc",
+      "transmission": "CVT",
+      "power": "186PS",
+      "torque": "206Nm",
+      "mileage": "21.10kmpl",
+      "section": "Toyota Innova Hycross 2.0L Hybrid Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:38.385Z",
+  "source": "https://www.v3cars.com/toyota-cars/innova-hycross",
+  "v3carsImage": "/cars/toyota-innova-hycross.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/701749innova-hycross.png"
+}

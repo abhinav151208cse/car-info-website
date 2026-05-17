@@ -1,0 +1,307 @@
+{
+  "slug": "tata-altroz",
+  "name": "Tata Altroz",
+  "brand": "Tata",
+  "modelYear": 2026,
+  "tagline": "Premium hatchback",
+  "summary": "5-star rated hatch with turbo-petrol and diesel engines.",
+  "segment": "hatch",
+  "imageUrl": "https://www.tatamotors.com/content/dam/tata-motors/passenger-vehicles/altroz/altroz-ice/hero/altroz-hero-desktop.jpg",
+  "priceRangeMin": 7.1,
+  "priceRangeMax": 10.77,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3990 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1755 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1523 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2501 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "345 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "165 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "60 litres"
+    }
+  ],
+  "engines": [
+    "1199cc (5-speed MT)",
+    "1497cc (5-speed MT)",
+    "1199cc (6-speed AMT)",
+    "1199cc (6-speed DCT)",
+    "1199cc (5-speed AMT)"
+  ],
+  "variants": [
+    {
+      "trim": "Pure",
+      "nameSuffix": "",
+      "priceLakh": 7.1,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "19.33kmpl",
+      "section": "Tata Altroz 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "Pure S",
+      "nameSuffix": "",
+      "priceLakh": 7.42,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "19.33kmpl",
+      "section": "Tata Altroz 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "Creative",
+      "nameSuffix": "",
+      "priceLakh": 8.02,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "19.33kmpl",
+      "section": "Tata Altroz 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "Creative S",
+      "nameSuffix": "",
+      "priceLakh": 8.37,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "19.33kmpl",
+      "section": "Tata Altroz 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "Accomplished S",
+      "nameSuffix": "",
+      "priceLakh": 9.22,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "19.33kmpl",
+      "section": "Tata Altroz 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "Creative S",
+      "nameSuffix": "",
+      "priceLakh": 9.42,
+      "fuelType": "Diesel",
+      "engine": "1497cc",
+      "transmission": "5-speed MT",
+      "power": "90PS",
+      "torque": "200Nm",
+      "mileage": "23.00kmpl",
+      "section": "Tata Altroz 1.5L  Diesel Manual Price List"
+    },
+    {
+      "trim": "Accomplished S",
+      "nameSuffix": "",
+      "priceLakh": 10.27,
+      "fuelType": "Diesel",
+      "engine": "1497cc",
+      "transmission": "5-speed MT",
+      "power": "90PS",
+      "torque": "200Nm",
+      "mileage": "23.00kmpl",
+      "section": "Tata Altroz 1.5L  Diesel Manual Price List"
+    },
+    {
+      "trim": "Pure S",
+      "nameSuffix": "",
+      "priceLakh": 7.97,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "6-speed AMT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "19.00kmpl",
+      "section": "Tata Altroz 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Creative",
+      "nameSuffix": "",
+      "priceLakh": 8.57,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "6-speed AMT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "19.00kmpl",
+      "section": "Tata Altroz 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Creative S",
+      "nameSuffix": "",
+      "priceLakh": 8.92,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "6-speed AMT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "19.00kmpl",
+      "section": "Tata Altroz 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Pure",
+      "nameSuffix": "",
+      "priceLakh": 8.1,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "74PS",
+      "torque": "103Nm",
+      "mileage": "26.00km/kg",
+      "section": "Tata Altroz 1.2L  CNG Manual Price List"
+    },
+    {
+      "trim": "Pure S",
+      "nameSuffix": "",
+      "priceLakh": 8.42,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "74PS",
+      "torque": "103Nm",
+      "mileage": "26.00km/kg",
+      "section": "Tata Altroz 1.2L  CNG Manual Price List"
+    },
+    {
+      "trim": "Creative",
+      "nameSuffix": "",
+      "priceLakh": 9.02,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "74PS",
+      "torque": "103Nm",
+      "mileage": "26.00km/kg",
+      "section": "Tata Altroz 1.2L  CNG Manual Price List"
+    },
+    {
+      "trim": "Creative S",
+      "nameSuffix": "",
+      "priceLakh": 9.27,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "74PS",
+      "torque": "103Nm",
+      "mileage": "26.00km/kg",
+      "section": "Tata Altroz 1.2L  CNG Manual Price List"
+    },
+    {
+      "trim": "Accomplished S",
+      "nameSuffix": "",
+      "priceLakh": 10.22,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "74PS",
+      "torque": "103Nm",
+      "mileage": "26.00km/kg",
+      "section": "Tata Altroz 1.2L  CNG Manual Price List"
+    },
+    {
+      "trim": "Accomplished S",
+      "nameSuffix": "",
+      "priceLakh": 10.37,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "6-speed DCT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "18.00kmpl",
+      "section": "Tata Altroz 1.2L  Petrol Automatic DCT 88PS Price List"
+    },
+    {
+      "trim": "Accomplished Plus S",
+      "nameSuffix": "",
+      "priceLakh": 10.62,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "6-speed DCT",
+      "power": "88PS",
+      "torque": "115Nm",
+      "mileage": "18.00kmpl",
+      "section": "Tata Altroz 1.2L  Petrol Automatic DCT 88PS Price List"
+    },
+    {
+      "trim": "Pure S",
+      "nameSuffix": "",
+      "priceLakh": 9,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "74PS",
+      "torque": "103Nm",
+      "mileage": "26.00km/kg",
+      "section": "Tata Altroz 1.2L CNG Automatic Price List"
+    },
+    {
+      "trim": "Creative",
+      "nameSuffix": "",
+      "priceLakh": 9.57,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "74PS",
+      "torque": "103Nm",
+      "mileage": "26.00km/kg",
+      "section": "Tata Altroz 1.2L CNG Automatic Price List"
+    },
+    {
+      "trim": "Creative S",
+      "nameSuffix": "",
+      "priceLakh": 9.82,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "74PS",
+      "torque": "103Nm",
+      "mileage": "26.00km/kg",
+      "section": "Tata Altroz 1.2L CNG Automatic Price List"
+    },
+    {
+      "trim": "Accomplished S",
+      "nameSuffix": "",
+      "priceLakh": 10.77,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "74PS",
+      "torque": "103Nm",
+      "mileage": "26.00km/kg",
+      "section": "Tata Altroz 1.2L CNG Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:18:54.028Z",
+  "source": "https://www.v3cars.com/tata-cars/altroz",
+  "v3carsImage": "/cars/tata-altroz.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/655954altroz.png"
+}

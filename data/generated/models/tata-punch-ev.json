@@ -1,0 +1,93 @@
+{
+  "slug": "tata-punch-ev",
+  "name": "Tata Punch EV",
+  "brand": "Tata",
+  "modelYear": 2026,
+  "tagline": "Electric micro-SUV",
+  "summary": "Battery-electric Punch with fast-charging support.",
+  "segment": "ev",
+  "imageUrl": "https://www.tatamotors.com/content/dam/tata-motors/passenger-vehicles/punch/punch-ev/hero/punch-ev-hero-desktop.jpg",
+  "priceRangeMin": 10.29,
+  "priceRangeMax": 12.59,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3880 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1742 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1622 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2445 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "366 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "195 mm"
+    }
+  ],
+  "engines": [],
+  "variants": [
+    {
+      "trim": "Smart Plus",
+      "nameSuffix": "",
+      "priceLakh": 10.29,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Tata Punch EV Range 365km | 3.3kW AC | FWD Price List"
+    },
+    {
+      "trim": "Adventure",
+      "nameSuffix": "",
+      "priceLakh": 11.59,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Tata Punch EV Range 464km | 7.2kW AC | FWD Price List"
+    },
+    {
+      "trim": "Empowered",
+      "nameSuffix": "",
+      "priceLakh": 12.29,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Tata Punch EV Range 464km | 7.2kW AC | FWD Price List"
+    },
+    {
+      "trim": "Empowered Plus S",
+      "nameSuffix": "",
+      "priceLakh": 12.59,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Tata Punch EV Range 464km | 7.2kW AC | FWD Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:01.884Z",
+  "source": "https://www.v3cars.com/tata-cars/punch-ev",
+  "v3carsImage": "/cars/tata-punch-ev.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/227042punch-ev.png"
+}

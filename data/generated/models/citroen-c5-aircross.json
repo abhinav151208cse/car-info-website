@@ -1,0 +1,59 @@
+{
+  "slug": "citroen-c5-aircross",
+  "name": "Citroen C5 Aircross",
+  "brand": "Citroen",
+  "modelYear": 2026,
+  "tagline": "Premium SUV",
+  "summary": "D-segment SUV with diesel automatic.",
+  "segment": "suv-d",
+  "imageUrl": "https://www.citroen.in/content/dam/citroen/in/models/c5-aircross/c5-hero.jpg",
+  "priceRangeMin": 37.32,
+  "priceRangeMax": 37.32,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4500 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1969 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1710 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2730 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "580 litres"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "53 litres"
+    }
+  ],
+  "engines": [
+    "1997cc (8-speed TC)"
+  ],
+  "variants": [
+    {
+      "trim": "Shine Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 37.32,
+      "fuelType": "Diesel",
+      "engine": "1997cc",
+      "transmission": "8-speed TC",
+      "power": "177PS",
+      "torque": "400Nm",
+      "mileage": "17.50kmpl",
+      "section": "Citroen C5 Aircross 2.0L Diesel Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:53.567Z",
+  "source": "https://www.v3cars.com/citroen-cars/c5-aircross",
+  "v3carsImage": "/cars/citroen-c5-aircross.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/182805c5-aircross.png"
+}

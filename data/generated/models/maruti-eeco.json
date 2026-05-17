@@ -1,0 +1,159 @@
+{
+  "slug": "maruti-eeco",
+  "name": "Maruti Eeco",
+  "brand": "Maruti Suzuki",
+  "modelYear": 2026,
+  "tagline": "Versatile van/MPV",
+  "summary": "Affordable 5/7-seater with petrol and CNG.",
+  "segment": "muv",
+  "imageUrl": "https://www.marutisuzuki.com/-/media/marutisuzuki/india/vehicles/eeco/hero/eeco-hero.jpg",
+  "priceRangeMin": 5.21,
+  "priceRangeMax": 6.61,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3675 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1475 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1825 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2350 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "540 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "160 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "40 litres"
+    }
+  ],
+  "engines": [
+    "1196cc (5-speed MT)"
+  ],
+  "variants": [
+    {
+      "trim": "Eeco 5 Seater STD (O)",
+      "nameSuffix": "",
+      "priceLakh": 5.21,
+      "fuelType": "Petrol",
+      "engine": "1196cc",
+      "transmission": "5-speed MT",
+      "power": "73PS",
+      "torque": "98Nm",
+      "mileage": "16.11kmpl",
+      "section": "Maruti Suzuki Eeco 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "Eeco Cargo",
+      "nameSuffix": "",
+      "priceLakh": 5.39,
+      "fuelType": "Petrol",
+      "engine": "1196cc",
+      "transmission": "5-speed MT",
+      "power": "73PS",
+      "torque": "98Nm",
+      "mileage": "16.11kmpl",
+      "section": "Maruti Suzuki Eeco 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "Eeco Tour 6 Seater STD",
+      "nameSuffix": "",
+      "priceLakh": 5.46,
+      "fuelType": "Petrol",
+      "engine": "1196cc",
+      "transmission": "5-speed MT",
+      "power": "73PS",
+      "torque": "98Nm",
+      "mileage": "16.11kmpl",
+      "section": "Maruti Suzuki Eeco 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "Eeco STD (O) 6 Seater",
+      "nameSuffix": "",
+      "priceLakh": 5.47,
+      "fuelType": "Petrol",
+      "engine": "1196cc",
+      "transmission": "5-speed MT",
+      "power": "73PS",
+      "torque": "98Nm",
+      "mileage": "16.11kmpl",
+      "section": "Maruti Suzuki Eeco 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "Eeco Tour 5 Seater AC",
+      "nameSuffix": "",
+      "priceLakh": 5.51,
+      "fuelType": "Petrol",
+      "engine": "1196cc",
+      "transmission": "5-speed MT",
+      "power": "73PS",
+      "torque": "98Nm",
+      "mileage": "16.11kmpl",
+      "section": "Maruti Suzuki Eeco 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "Eeco 5 Seater AC (O)",
+      "nameSuffix": "",
+      "priceLakh": 5.54,
+      "fuelType": "Petrol",
+      "engine": "1196cc",
+      "transmission": "5-speed MT",
+      "power": "73PS",
+      "torque": "98Nm",
+      "mileage": "16.11kmpl",
+      "section": "Maruti Suzuki Eeco 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "Eeco Tour 5 Seater AC",
+      "nameSuffix": "",
+      "priceLakh": 6.33,
+      "fuelType": "CNG",
+      "engine": "1196cc",
+      "transmission": "5-speed MT",
+      "power": "63PS",
+      "torque": "85Nm",
+      "mileage": "20.88km/kg",
+      "section": "Maruti Suzuki Eeco 1.2L CNG Manual Price List"
+    },
+    {
+      "trim": "Eeco 5 Seater AC (O)",
+      "nameSuffix": "",
+      "priceLakh": 6.36,
+      "fuelType": "CNG",
+      "engine": "1196cc",
+      "transmission": "5-speed MT",
+      "power": "63PS",
+      "torque": "85Nm",
+      "mileage": "20.88km/kg",
+      "section": "Maruti Suzuki Eeco 1.2L CNG Manual Price List"
+    },
+    {
+      "trim": "Eeco Cargo AC",
+      "nameSuffix": "",
+      "priceLakh": 6.61,
+      "fuelType": "CNG",
+      "engine": "1196cc",
+      "transmission": "5-speed MT",
+      "power": "63PS",
+      "torque": "85Nm",
+      "mileage": "20.88km/kg",
+      "section": "Maruti Suzuki Eeco 1.2L CNG Manual Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:23.113Z",
+  "source": "https://www.v3cars.com/maruti-arena-cars/eeco",
+  "v3carsImage": "/cars/maruti-eeco.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/443182eeco.png"
+}

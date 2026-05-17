@@ -1,0 +1,124 @@
+{
+  "slug": "maruti-dzire",
+  "name": "Maruti Dzire",
+  "brand": "Maruti Suzuki",
+  "modelYear": 2026,
+  "tagline": "Best-selling compact sedan",
+  "summary": "Efficient sedan with petrol and CNG, high fuel economy.",
+  "segment": "sedan",
+  "imageUrl": "https://www.marutisuzuki.com/-/media/marutisuzuki/india/vehicles/dzire/hero/dzire-hero.jpg",
+  "priceRangeMin": 7.17,
+  "priceRangeMax": 9.31,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3995 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1735 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1525 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2450 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "382 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "163 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "37 litres"
+    }
+  ],
+  "engines": [
+    "1197cc (5-speed MT)",
+    "1197cc (5-speed AMT)"
+  ],
+  "variants": [
+    {
+      "trim": "Dzire VXi",
+      "nameSuffix": "",
+      "priceLakh": 7.17,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "82PS",
+      "torque": "112Nm",
+      "mileage": "24.79kmpl",
+      "section": "Maruti Suzuki Dzire 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Dzire ZXi",
+      "nameSuffix": "",
+      "priceLakh": 8.18,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "82PS",
+      "torque": "112Nm",
+      "mileage": "24.79kmpl",
+      "section": "Maruti Suzuki Dzire 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Dzire ZXi Plus",
+      "nameSuffix": "",
+      "priceLakh": 8.86,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "82PS",
+      "torque": "112Nm",
+      "mileage": "24.79kmpl",
+      "section": "Maruti Suzuki Dzire 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Dzire ZXi",
+      "nameSuffix": "",
+      "priceLakh": 8.63,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "82PS",
+      "torque": "112Nm",
+      "mileage": "25.71kmpl",
+      "section": "Maruti Suzuki Dzire 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Dzire ZXi Plus",
+      "nameSuffix": "",
+      "priceLakh": 9.31,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "82PS",
+      "torque": "112Nm",
+      "mileage": "25.71kmpl",
+      "section": "Maruti Suzuki Dzire 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Dzire ZXi",
+      "nameSuffix": "",
+      "priceLakh": 9.04,
+      "fuelType": "CNG",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "70PS",
+      "torque": "102Nm",
+      "mileage": "33.73km/kg",
+      "section": "Maruti Suzuki Dzire 1.2L CNG Manual Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:16.321Z",
+  "source": "https://www.v3cars.com/maruti-arena-cars/dzire",
+  "v3carsImage": "/cars/maruti-dzire.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/609126dzire.png"
+}

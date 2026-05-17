@@ -1,0 +1,59 @@
+{
+  "slug": "volkswagen-tiguan",
+  "name": "Volkswagen Tiguan R-Line",
+  "brand": "Volkswagen",
+  "modelYear": 2026,
+  "tagline": "Performance SUV",
+  "summary": "Sporty Tiguan R-Line with 2.0 TSI.",
+  "segment": "suv-d",
+  "imageUrl": "https://www.volkswagen.co.in/content/dam/vw/in/models/tiguan/tiguan-hero.jpg",
+  "priceRangeMin": 45.73,
+  "priceRangeMax": 45.73,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4539 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1859 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1656 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2680 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "652 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "176 mm"
+    }
+  ],
+  "engines": [
+    "1984cc (7-speed DCT)"
+  ],
+  "variants": [
+    {
+      "trim": "Tiguan R Line",
+      "nameSuffix": "",
+      "priceLakh": 45.73,
+      "fuelType": "Petrol",
+      "engine": "1984cc",
+      "transmission": "7-speed DCT",
+      "power": "204PS",
+      "torque": "320Nm",
+      "mileage": "12.58kmpl",
+      "section": "Volkswagen Tiguan 2.0L  Turbo Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:26:52.527Z",
+  "source": "https://www.v3cars.com/volkswagen-cars/tiguan-r-line",
+  "v3carsImage": "/cars/volkswagen-tiguan.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/854729tiguan.png"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "hyundai-ioniq-5",
+  "name": "Hyundai Ioniq 5",
+  "brand": "Hyundai",
+  "modelYear": 2026,
+  "tagline": "Premium electric crossover",
+  "summary": "E-GMP based EV with ultra-fast charging.",
+  "segment": "ev",
+  "imageUrl": "https://www.hyundai.com/content/dam/hyundai/in/en/data/vehicle-images/ioniq5/ioniq5-hero.jpg",
+  "priceRangeMin": 55.7,
+  "priceRangeMax": 55.7,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4635 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1890 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1625 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "3000 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "527 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "163 mm"
+    }
+  ],
+  "engines": [],
+  "variants": [
+    {
+      "trim": "RWD",
+      "nameSuffix": "",
+      "priceLakh": 55.7,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Hyundai Ioniq 5 Range 690km | 84kWh | RWD Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:26:50.878Z",
+  "source": "https://www.v3cars.com/hyundai-cars/ioniq-5",
+  "v3carsImage": "/cars/hyundai-ioniq-5.webp",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/9613012026-hyundai-ioniq-5.webp"
+}

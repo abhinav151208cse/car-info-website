@@ -1,0 +1,210 @@
+{
+  "slug": "kia-syros",
+  "name": "Kia Syros",
+  "brand": "Kia",
+  "modelYear": 2026,
+  "tagline": "Premium sub-4m SUV with captain seats",
+  "summary": "New B2 SUV with ventilated captain seats and multiple turbo-petrol and diesel options.",
+  "segment": "suv-b",
+  "imageUrl": "https://www.kia.com/content/dam/kia2/in/en/images/showroom/2025/syros/syros-hero-pc.jpg",
+  "priceRangeMin": 9.2,
+  "priceRangeMax": 15.8,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3995 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1805 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1680 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2550 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "390 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "189 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "45 litres"
+    }
+  ],
+  "engines": [
+    "998cc (6-speed MT)",
+    "998cc (7-speed DCT)",
+    "1493cc (6-speed MT)",
+    "1493cc (6-speed TC)"
+  ],
+  "variants": [
+    {
+      "trim": "HTE (O)",
+      "nameSuffix": "",
+      "priceLakh": 9.2,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "6-speed MT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "18.20kmpl",
+      "section": "Kia Syros 1.0L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "HTK (EX)",
+      "nameSuffix": "",
+      "priceLakh": 9.8,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "6-speed MT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "18.20kmpl",
+      "section": "Kia Syros 1.0L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "HTK (Plus)",
+      "nameSuffix": "",
+      "priceLakh": 10.74,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "6-speed MT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "18.20kmpl",
+      "section": "Kia Syros 1.0L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "HTK (Plus) (O)",
+      "nameSuffix": "",
+      "priceLakh": 12,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "6-speed MT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "18.20kmpl",
+      "section": "Kia Syros 1.0L  Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "HTK (Plus) (O)",
+      "nameSuffix": "",
+      "priceLakh": 13.2,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "17.68kmpl",
+      "section": "Kia Syros 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "HTX",
+      "nameSuffix": "",
+      "priceLakh": 14,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "17.68kmpl",
+      "section": "Kia Syros 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "HTX (O)",
+      "nameSuffix": "",
+      "priceLakh": 15,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "17.68kmpl",
+      "section": "Kia Syros 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "HTK (EX)",
+      "nameSuffix": "",
+      "priceLakh": 10.6,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "20.75kmpl",
+      "section": "Kia Syros 1.5L Turbo Diesel Manual Price List"
+    },
+    {
+      "trim": "HTK Plus",
+      "nameSuffix": "",
+      "priceLakh": 11.54,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "20.75kmpl",
+      "section": "Kia Syros 1.5L Turbo Diesel Manual Price List"
+    },
+    {
+      "trim": "HTK Plus (O)",
+      "nameSuffix": "",
+      "priceLakh": 12.8,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "20.75kmpl",
+      "section": "Kia Syros 1.5L Turbo Diesel Manual Price List"
+    },
+    {
+      "trim": "HTK Plus (O)",
+      "nameSuffix": "",
+      "priceLakh": 14,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "17.65kmpl",
+      "section": "Kia Syros 1.5L Turbo Diesel Automatic Price List"
+    },
+    {
+      "trim": "HTX",
+      "nameSuffix": "",
+      "priceLakh": 14.8,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "17.65kmpl",
+      "section": "Kia Syros 1.5L Turbo Diesel Automatic Price List"
+    },
+    {
+      "trim": "HTX (O)",
+      "nameSuffix": "",
+      "priceLakh": 15.8,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "17.65kmpl",
+      "section": "Kia Syros 1.5L Turbo Diesel Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:18:46.248Z",
+  "source": "https://www.v3cars.com/kia-cars/syros",
+  "v3carsImage": "/cars/kia-syros.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/343839syros.png"
+}

@@ -6,6 +6,7 @@ import { kiaSeltosFeatures } from "./kia-seltos";
 import { skodaKylaqFeatures } from "./skoda-kylaq";
 import { tataNexonFeatures } from "./tata-nexon";
 import { tataPunchFeatures } from "./tata-punch";
+import { brandKeyFromSlug, brandLadders } from "./brand-ladder";
 
 const configs: Record<string, CarFeatureConfig> = {
   "kia-seltos": kiaSeltosFeatures,
@@ -214,7 +215,12 @@ export function resolveOfficialFeatures(
   carSlug: string,
   variant: CarVariant
 ): Partial<Record<FeatureCategory, string[]>> {
-  const config = configs[carSlug];
+  const config =
+    configs[carSlug] ??
+    (() => {
+      const key = brandKeyFromSlug(carSlug);
+      return key ? brandLadders[key] : undefined;
+    })();
   if (!config) return {};
 
   const trimKey = normalizeTrimKey(variant.trim);

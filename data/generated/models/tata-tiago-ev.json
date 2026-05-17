@@ -1,0 +1,69 @@
+{
+  "slug": "tata-tiago-ev",
+  "name": "Tata Tiago EV",
+  "brand": "Tata",
+  "modelYear": 2026,
+  "tagline": "Affordable electric hatch",
+  "summary": "City EV based on the Tiago platform.",
+  "segment": "ev",
+  "imageUrl": "https://www.tatamotors.com/content/dam/tata-motors/passenger-vehicles/tiago/tiago-ev/hero/tiago-ev-hero-desktop.jpg",
+  "priceRangeMin": 8.99,
+  "priceRangeMax": 11.14,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3769 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1677 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1536 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2400 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "240 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "166 mm"
+    }
+  ],
+  "engines": [],
+  "variants": [
+    {
+      "trim": "XT",
+      "nameSuffix": "",
+      "priceLakh": 8.99,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Tata Tiago EV Range 250km | 3.3kW AC | FWD Price List"
+    },
+    {
+      "trim": "XZ Plus Tech LUX",
+      "nameSuffix": "",
+      "priceLakh": 11.14,
+      "fuelType": "Electric",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Tata Tiago EV Range 315km | 7.2kW AC | FWD Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:02.666Z",
+  "source": "https://www.v3cars.com/tata-cars/tiago-ev",
+  "v3carsImage": "/cars/tata-tiago-ev.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/777402tiago-ev.png"
+}

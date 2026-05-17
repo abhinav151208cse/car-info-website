@@ -1,0 +1,283 @@
+{
+  "slug": "kia-sonet",
+  "name": "Kia Sonet",
+  "brand": "Kia",
+  "modelYear": 2026,
+  "tagline": "Feature-rich sub-4 metre SUV",
+  "summary": "Compact SUV with turbo-petrol, NA petrol and diesel powertrains and connected-car tech.",
+  "segment": "suv-b",
+  "imageUrl": "https://www.kia.com/content/dam/kia2/in/en/images/showroom/2024/sonet/sonet-ice-hero-pc.jpg",
+  "priceRangeMin": 7.7,
+  "priceRangeMax": 14.1,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3995 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1790 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1642 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2500 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "385 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "205 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "45 litres"
+    }
+  ],
+  "engines": [
+    "1493cc (6-speed MT)",
+    "1493cc (6-speed TC)",
+    "1197cc (5-speed MT)",
+    "998cc (6-speed ACMT)",
+    "998cc (7-speed DCT)"
+  ],
+  "variants": [
+    {
+      "trim": "HTK (O)",
+      "nameSuffix": "",
+      "priceLakh": 9.94,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "22.30kmpl",
+      "section": "Kia Sonet 1.5L  Diesel Manual Price List"
+    },
+    {
+      "trim": "HTK Plus",
+      "nameSuffix": "",
+      "priceLakh": 10.3,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "22.30kmpl",
+      "section": "Kia Sonet 1.5L  Diesel Manual Price List"
+    },
+    {
+      "trim": "HTK Plus (O)",
+      "nameSuffix": "",
+      "priceLakh": 10.78,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "22.30kmpl",
+      "section": "Kia Sonet 1.5L  Diesel Manual Price List"
+    },
+    {
+      "trim": "HTX",
+      "nameSuffix": "",
+      "priceLakh": 11.25,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "22.30kmpl",
+      "section": "Kia Sonet 1.5L  Diesel Manual Price List"
+    },
+    {
+      "trim": "HTX",
+      "nameSuffix": "",
+      "priceLakh": 12.03,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "18.60kmpl",
+      "section": "Kia Sonet 1.5L  Diesel Automatic Price List"
+    },
+    {
+      "trim": "GTX Plus",
+      "nameSuffix": "",
+      "priceLakh": 14,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "18.60kmpl",
+      "section": "Kia Sonet 1.5L  Diesel Automatic Price List"
+    },
+    {
+      "trim": "GTX Plus Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 14.1,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "18.60kmpl",
+      "section": "Kia Sonet 1.5L  Diesel Automatic Price List"
+    },
+    {
+      "trim": "HTE (O)",
+      "nameSuffix": "",
+      "priceLakh": 7.7,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "18.83kmpl",
+      "section": "Kia Sonet 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "HTK",
+      "nameSuffix": "",
+      "priceLakh": 8.41,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "18.83kmpl",
+      "section": "Kia Sonet 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "HTK (O)",
+      "nameSuffix": "",
+      "priceLakh": 8.74,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "18.83kmpl",
+      "section": "Kia Sonet 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "HTK Plus",
+      "nameSuffix": "",
+      "priceLakh": 9.1,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "18.83kmpl",
+      "section": "Kia Sonet 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "HTK Plus (O)",
+      "nameSuffix": "",
+      "priceLakh": 9.59,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "115Nm",
+      "mileage": "18.83kmpl",
+      "section": "Kia Sonet 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "HTK (O) (120PS)",
+      "nameSuffix": "",
+      "priceLakh": 9.1,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "6-speed ACMT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "18.70kmpl",
+      "section": "Kia Sonet 1.0L Turbo Petrol Manual (120PS) Price List"
+    },
+    {
+      "trim": "HTK Plus",
+      "nameSuffix": "",
+      "priceLakh": 9.47,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "6-speed ACMT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "18.70kmpl",
+      "section": "Kia Sonet 1.0L Turbo Petrol Manual (120PS) Price List"
+    },
+    {
+      "trim": "HTK Plus (O) (120PS)",
+      "nameSuffix": "",
+      "priceLakh": 10.05,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "6-speed ACMT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "18.70kmpl",
+      "section": "Kia Sonet 1.0L Turbo Petrol Manual (120PS) Price List"
+    },
+    {
+      "trim": "HTX (120PS)",
+      "nameSuffix": "",
+      "priceLakh": 10.8,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "6-speed ACMT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "18.70kmpl",
+      "section": "Kia Sonet 1.0L Turbo Petrol Manual (120PS) Price List"
+    },
+    {
+      "trim": "GTX Plus",
+      "nameSuffix": "",
+      "priceLakh": 13.6,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "19.20kmpl",
+      "section": "Kia Sonet 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "X line",
+      "nameSuffix": "",
+      "priceLakh": 13.65,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "19.20kmpl",
+      "section": "Kia Sonet 1.0L  Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "GTX Plus Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 13.7,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "19.20kmpl",
+      "section": "Kia Sonet 1.0L  Turbo Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:18:45.496Z",
+  "source": "https://www.v3cars.com/kia-cars/sonet",
+  "v3carsImage": "/cars/kia-sonet.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/369291sonet.png"
+}

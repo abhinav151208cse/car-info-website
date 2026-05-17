@@ -270,15 +270,99 @@ function defaultTier(
     if (t.includes("CLASSIC PLUS")) return "mid";
     return "base";
   }
+
+  if (
+    t.includes("GTX") ||
+    t.includes("X LINE") ||
+    t.includes("X-LINE") ||
+    t.includes("KNIGHT") ||
+    t.includes("N LINE") ||
+    t.includes("N10") ||
+    t.includes("KING") ||
+    t.includes("ICONIC") ||
+    t.includes("MAX") ||
+    t.includes("HX10")
+  )
+    return "gt";
+  if (
+    t.includes("PRESTIGE") ||
+    t.includes("FEARLESS") ||
+    t.includes("ACCOMPLISHED") ||
+    t.includes("ALPHA") ||
+    t.includes("HTX") ||
+    t.includes("SX") ||
+    t.includes("SIGNATURE") ||
+    t.includes("TECHNO PLUS") ||
+    t.includes("EMOTION")
+  )
+    return "top";
+  if (
+    t.includes("CREATIVE") ||
+    t.includes("ADVENTURE") ||
+    t.includes("ZETA") ||
+    t.includes("HX8") ||
+    t.includes("HX7") ||
+    t.includes("HX6") ||
+    t.includes("HTK PLUS") ||
+    t.includes("PLUS") ||
+    t.includes("TECHNO") ||
+    t.includes("SPORTZ")
+  )
+    return "upper";
+  if (
+    t.includes("HTK") ||
+    t.includes("PURE") ||
+    t.includes("HX") ||
+    t.includes("DELTA") ||
+    t.includes("MAGNA") ||
+    t.includes("CLASSIC") ||
+    t.includes("EVOLUTION") ||
+    t.includes("HIGHLINE")
+  )
+    return "mid";
   return "base";
 }
+
+const genericTierFeatures: Record<
+  NonNullable<VariantRow["featureTier"]>,
+  string[]
+> = {
+  base: [
+    "Standard safety kit (ABS, airbags — see official brochure)",
+    "Touchscreen / infotainment (variant dependent)",
+    "Power windows & remote locking",
+  ],
+  mid: [
+    "Push-button start / smart key (variant dependent)",
+    "Automatic climate control",
+    "Alloy wheels & enhanced connectivity",
+  ],
+  upper: [
+    "Sunroof (variant dependent)",
+    "Premium upholstery & enhanced audio",
+    "Rear camera / parking aids",
+  ],
+  top: [
+    "Advanced safety & driver assistance (variant dependent)",
+    "Ventilated seats / powered driver seat (variant dependent)",
+    "Wireless charging & connected-car features",
+  ],
+  gt: [
+    "Sport styling package / top powertrain",
+    "Premium ADAS & convenience pack (variant dependent)",
+    "Flagship equipment per official trim sheet",
+  ],
+};
 
 export function rowToVariant(row: VariantRow, carSlug: string): CarVariant {
   const tier: NonNullable<VariantRow["featureTier"]> =
     row.featureTier ?? defaultTier(row.trim, carSlug) ?? "base";
   const carTiers = tierFeatures[carSlug];
   const features =
-    carTiers?.[tier] ?? carTiers?.base ?? [];
+    carTiers?.[tier] ??
+    carTiers?.base ??
+    genericTierFeatures[tier] ??
+    genericTierFeatures.base;
 
   const specs: CarSpec[] = [
     { label: "Trim", value: row.trim },

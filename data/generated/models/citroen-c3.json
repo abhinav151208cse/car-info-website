@@ -1,0 +1,112 @@
+{
+  "slug": "citroen-c3",
+  "name": "Citroen C3",
+  "brand": "Citroen",
+  "modelYear": 2026,
+  "tagline": "French flair hatch",
+  "summary": "Stylish hatch with petrol and turbo petrol.",
+  "segment": "hatch",
+  "imageUrl": "https://www.citroen.in/content/dam/citroen/in/models/c3/c3-hero.jpg",
+  "priceRangeMin": 6,
+  "priceRangeMax": 8.89,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3981 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1733 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1604 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2540 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "315 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "180 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "45 litres"
+    }
+  ],
+  "engines": [
+    "1198cc (5-speed MT)",
+    "1199cc (6-speed MT)"
+  ],
+  "variants": [
+    {
+      "trim": "Feel",
+      "nameSuffix": "",
+      "priceLakh": 6,
+      "fuelType": "Petrol",
+      "engine": "1198cc",
+      "transmission": "5-speed MT",
+      "power": "82PS",
+      "torque": "115Nm",
+      "mileage": "19.30kmpl",
+      "section": "Citroen C3 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Feel (O)",
+      "nameSuffix": "",
+      "priceLakh": 6.95,
+      "fuelType": "Petrol",
+      "engine": "1198cc",
+      "transmission": "5-speed MT",
+      "power": "82PS",
+      "torque": "115Nm",
+      "mileage": "19.30kmpl",
+      "section": "Citroen C3 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Shine",
+      "nameSuffix": "",
+      "priceLakh": 7.78,
+      "fuelType": "Petrol",
+      "engine": "1198cc",
+      "transmission": "5-speed MT",
+      "power": "82PS",
+      "torque": "115Nm",
+      "mileage": "19.30kmpl",
+      "section": "Citroen C3 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Shine Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 7.78,
+      "fuelType": "Petrol",
+      "engine": "1198cc",
+      "transmission": "5-speed MT",
+      "power": "82PS",
+      "torque": "115Nm",
+      "mileage": "19.30kmpl",
+      "section": "Citroen C3 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Shine",
+      "nameSuffix": "",
+      "priceLakh": 8.89,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "6-speed MT",
+      "power": "110PS",
+      "torque": "190Nm",
+      "mileage": "19.30kmpl",
+      "section": "Citroen C3 1.2L Turbo Petrol Manual (110PS) Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:50.360Z",
+  "source": "https://www.v3cars.com/citroen-cars/c3",
+  "v3carsImage": "/cars/citroen-c3.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/628252c3.png"
+}

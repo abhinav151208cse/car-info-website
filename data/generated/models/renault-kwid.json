@@ -1,0 +1,136 @@
+{
+  "slug": "renault-kwid",
+  "name": "Renault Kwid",
+  "brand": "Renault",
+  "modelYear": 2026,
+  "tagline": "Entry hatchback",
+  "summary": "Budget hatch with SUV-inspired styling.",
+  "segment": "hatch",
+  "imageUrl": "https://www.renault.co.in/content/dam/renault/in/models/kwid/kwid-hero.jpg",
+  "priceRangeMin": 4.67,
+  "priceRangeMax": 5.9,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3731 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1579 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1490 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2422 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "279 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "184 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "28 litres"
+    }
+  ],
+  "engines": [
+    "999cc (5-speed MT)",
+    "999cc (5-speed AMT)"
+  ],
+  "variants": [
+    {
+      "trim": "RXL (O)",
+      "nameSuffix": "",
+      "priceLakh": 4.67,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "5-speed MT",
+      "power": "68PS",
+      "torque": "91Nm",
+      "mileage": "21.70kmpl",
+      "section": "Renault Kwid 1.0L Petrol Manual Price List"
+    },
+    {
+      "trim": "RXT",
+      "nameSuffix": "",
+      "priceLakh": 5,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "5-speed MT",
+      "power": "68PS",
+      "torque": "91Nm",
+      "mileage": "21.70kmpl",
+      "section": "Renault Kwid 1.0L Petrol Manual Price List"
+    },
+    {
+      "trim": "Climber",
+      "nameSuffix": "",
+      "priceLakh": 5.38,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "5-speed MT",
+      "power": "68PS",
+      "torque": "91Nm",
+      "mileage": "21.70kmpl",
+      "section": "Renault Kwid 1.0L Petrol Manual Price List"
+    },
+    {
+      "trim": "Climber Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 5.49,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "5-speed MT",
+      "power": "68PS",
+      "torque": "91Nm",
+      "mileage": "21.70kmpl",
+      "section": "Renault Kwid 1.0L Petrol Manual Price List"
+    },
+    {
+      "trim": "RXT",
+      "nameSuffix": "",
+      "priceLakh": 5.49,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "5-speed AMT",
+      "power": "68PS",
+      "torque": "91Nm",
+      "mileage": "22.00kmpl",
+      "section": "Renault Kwid 1.0L  Petrol Automatic Price List"
+    },
+    {
+      "trim": "Climber",
+      "nameSuffix": "",
+      "priceLakh": 5.79,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "5-speed AMT",
+      "power": "68PS",
+      "torque": "91Nm",
+      "mileage": "22.00kmpl",
+      "section": "Renault Kwid 1.0L  Petrol Automatic Price List"
+    },
+    {
+      "trim": "Climber Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 5.9,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "5-speed AMT",
+      "power": "68PS",
+      "torque": "91Nm",
+      "mileage": "22.00kmpl",
+      "section": "Renault Kwid 1.0L  Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:43.227Z",
+  "source": "https://www.v3cars.com/renault-cars/kwid",
+  "v3carsImage": "/cars/renault-kwid.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/132630kwid.png"
+}

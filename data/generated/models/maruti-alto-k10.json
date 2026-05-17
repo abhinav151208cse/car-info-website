@@ -1,0 +1,112 @@
+{
+  "slug": "maruti-alto-k10",
+  "name": "Maruti Alto K10",
+  "brand": "Maruti Suzuki",
+  "modelYear": 2026,
+  "tagline": "Entry hatchback",
+  "summary": "Budget hatch with petrol and CNG.",
+  "segment": "hatch",
+  "imageUrl": "https://www.marutisuzuki.com/-/media/marutisuzuki/india/vehicles/alto-k10/hero/alto-k10-hero.jpg",
+  "priceRangeMin": 4,
+  "priceRangeMax": 5.45,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3530 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1490 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1520 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2380 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "214 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "167 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "27 litres"
+    }
+  ],
+  "engines": [
+    "998cc (5-speed MT)",
+    "998cc (5-speed AMT)"
+  ],
+  "variants": [
+    {
+      "trim": "Alto K10 LXI (O)",
+      "nameSuffix": "",
+      "priceLakh": 4,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "5-speed MT",
+      "power": "69PS",
+      "torque": "91Nm",
+      "mileage": "24.39kmpl",
+      "section": "Maruti Suzuki Alto K10 1.0L Petrol Manual Price List"
+    },
+    {
+      "trim": "Alto K10 VXI (O)",
+      "nameSuffix": "",
+      "priceLakh": 4.5,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "5-speed MT",
+      "power": "69PS",
+      "torque": "91Nm",
+      "mileage": "24.39kmpl",
+      "section": "Maruti Suzuki Alto K10 1.0L Petrol Manual Price List"
+    },
+    {
+      "trim": "Alto K10 VXI Plus (O)",
+      "nameSuffix": "",
+      "priceLakh": 5,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "5-speed MT",
+      "power": "69PS",
+      "torque": "91Nm",
+      "mileage": "24.39kmpl",
+      "section": "Maruti Suzuki Alto K10 1.0L Petrol Manual Price List"
+    },
+    {
+      "trim": "Alto K10 VXI Plus (O)",
+      "nameSuffix": "",
+      "priceLakh": 5.45,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "5-speed AMT",
+      "power": "67PS",
+      "torque": "89Nm",
+      "mileage": "24.90kmpl",
+      "section": "Maruti Suzuki Alto K10 1.0L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Alto K10 VXI (O)",
+      "nameSuffix": "",
+      "priceLakh": 5.32,
+      "fuelType": "CNG",
+      "engine": "998cc",
+      "transmission": "5-speed MT",
+      "power": "57PS",
+      "torque": "82Nm",
+      "mileage": "33.40km/kg",
+      "section": "Maruti Suzuki Alto K10 1.0L CNG Manual Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:18.081Z",
+  "source": "https://www.v3cars.com/maruti-arena-cars/alto-k10",
+  "v3carsImage": "/cars/maruti-alto-k10.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/931713alto-k10.png"
+}

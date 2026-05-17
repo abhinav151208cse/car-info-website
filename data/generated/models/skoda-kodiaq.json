@@ -1,0 +1,75 @@
+{
+  "slug": "skoda-kodiaq",
+  "name": "Skoda Kodiaq",
+  "brand": "Skoda",
+  "modelYear": 2026,
+  "tagline": "7-seater premium SUV",
+  "summary": "Flagship Skoda SUV with petrol engine and ADAS.",
+  "segment": "suv-d",
+  "imageUrl": "https://www.skoda-auto.co.in/content/dam/skoda/in/models/kodiaq/hero/kodiaq-hero.jpg",
+  "priceRangeMin": 44.99,
+  "priceRangeMax": 46.99,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4758 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1864 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1679 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2791 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "281 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "155 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "62 litres"
+    }
+  ],
+  "engines": [
+    "1984cc (7-speed DCT)"
+  ],
+  "variants": [
+    {
+      "trim": "Sportline",
+      "nameSuffix": "",
+      "priceLakh": 44.99,
+      "fuelType": "Petrol",
+      "engine": "1984cc",
+      "transmission": "7-speed DCT",
+      "power": "204PS",
+      "torque": "320Nm",
+      "mileage": "14.86kmpl",
+      "section": "Skoda Kodiaq 2.0L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Selection L&K",
+      "nameSuffix": "",
+      "priceLakh": 46.99,
+      "fuelType": "Petrol",
+      "engine": "1984cc",
+      "transmission": "7-speed DCT",
+      "power": "204PS",
+      "torque": "320Nm",
+      "mileage": "14.86kmpl",
+      "section": "Skoda Kodiaq 2.0L Turbo Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:33.758Z",
+  "source": "https://www.v3cars.com/skoda-cars/kodiaq",
+  "v3carsImage": "/cars/skoda-kodiaq.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/835877kodiaq.png"
+}

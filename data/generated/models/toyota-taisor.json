@@ -1,0 +1,114 @@
+{
+  "slug": "toyota-taisor",
+  "name": "Toyota Taisor",
+  "brand": "Toyota",
+  "modelYear": 2026,
+  "tagline": "Compact SUV",
+  "summary": "Fronx-based compact SUV from Toyota.",
+  "segment": "suv-b",
+  "imageUrl": "https://www.toyota.co.in/content/dam/toyota/in/models/taisor/taisor-hero.jpg",
+  "priceRangeMin": 8.13,
+  "priceRangeMax": 12.23,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3995 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1765 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1550 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2520 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "308 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "190 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "37 litres"
+    }
+  ],
+  "engines": [
+    "1197cc (5-speed MT)",
+    "1197cc (5-speed AMT)",
+    "998cc (5-speed MT)",
+    "998cc (6-speed TC)"
+  ],
+  "variants": [
+    {
+      "trim": "S",
+      "nameSuffix": "",
+      "priceLakh": 8.13,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "21.71kmpl",
+      "section": "Toyota Taisor 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "S Plus",
+      "nameSuffix": "",
+      "priceLakh": 8.47,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "21.71kmpl",
+      "section": "Toyota Taisor 1.2L  Petrol Manual Price List"
+    },
+    {
+      "trim": "S Plus",
+      "nameSuffix": "",
+      "priceLakh": 9.06,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "22.79kmpl",
+      "section": "Toyota Taisor 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "V (100PS)",
+      "nameSuffix": "",
+      "priceLakh": 10.88,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "5-speed MT",
+      "power": "100PS",
+      "torque": "148Nm",
+      "mileage": "21.18kmpl",
+      "section": "Toyota Taisor 1.0L Turbo Petrol Manual (100PS) Price List"
+    },
+    {
+      "trim": "V (100PS)",
+      "nameSuffix": "",
+      "priceLakh": 12.23,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "6-speed TC",
+      "power": "100PS",
+      "torque": "148Nm",
+      "mileage": "19.86kmpl",
+      "section": "Toyota Taisor 1.0L  Turbo Petrol Automatic (100PS) Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:35.929Z",
+  "source": "https://www.v3cars.com/toyota-cars/taisor",
+  "v3carsImage": "/cars/toyota-taisor.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/231273taisor.png"
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "maruti-xl6",
+  "name": "Maruti XL6",
+  "brand": "Maruti Suzuki",
+  "modelYear": 2026,
+  "tagline": "6-seater premium MPV",
+  "summary": "Ertiga-based MPV with captain seats in second row.",
+  "segment": "muv",
+  "imageUrl": "https://www.nexaexperience.com/-/media/nexa/xl6/hero/xl6-hero.jpg",
+  "priceRangeMin": 12.49,
+  "priceRangeMax": 14.32,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4445 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1775 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1755 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2740 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "209 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "180 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "45 litres"
+    }
+  ],
+  "engines": [
+    "1462cc (5-speed MT)",
+    "1462cc (6-speed TC)"
+  ],
+  "variants": [
+    {
+      "trim": "XL6 Alpha",
+      "nameSuffix": "",
+      "priceLakh": 12.49,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "137Nm",
+      "mileage": "20.97kmpl",
+      "section": "Maruti Suzuki XL6 1.5L Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "XL6 Alpha Plus",
+      "nameSuffix": "",
+      "priceLakh": 12.97,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "137Nm",
+      "mileage": "20.97kmpl",
+      "section": "Maruti Suzuki XL6 1.5L Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "XL6 Alpha",
+      "nameSuffix": "",
+      "priceLakh": 13.84,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "137Nm",
+      "mileage": "20.27kmpl",
+      "section": "Maruti Suzuki XL6 1.5L Mild Hybrid Petrol Automatic Price List"
+    },
+    {
+      "trim": "XL6 Alpha Plus",
+      "nameSuffix": "",
+      "priceLakh": 14.32,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "137Nm",
+      "mileage": "20.27kmpl",
+      "section": "Maruti Suzuki XL6 1.5L Mild Hybrid Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:28.357Z",
+  "source": "https://www.v3cars.com/maruti-nexa-cars/xl6",
+  "v3carsImage": "/cars/maruti-xl6.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/368056xl6.png"
+}

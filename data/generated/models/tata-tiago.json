@@ -1,0 +1,160 @@
+{
+  "slug": "tata-tiago",
+  "name": "Tata Tiago",
+  "brand": "Tata",
+  "modelYear": 2026,
+  "tagline": "Affordable city hatchback",
+  "summary": "Entry hatch with petrol and CNG, strong safety and connected features.",
+  "segment": "hatch",
+  "imageUrl": "https://www.tatamotors.com/content/dam/tata-motors/passenger-vehicles/tiago/tiago-ice/hero/tiago-hero-desktop.jpg",
+  "priceRangeMin": 5.36,
+  "priceRangeMax": 7.92,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3765 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1677 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1535 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2400 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "242 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "170 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "60 litres"
+    }
+  ],
+  "engines": [
+    "1199cc (5-speed MT)",
+    "1199cc (5-speed AMT)"
+  ],
+  "variants": [
+    {
+      "trim": "XM",
+      "nameSuffix": "",
+      "priceLakh": 5.36,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "86PS",
+      "torque": "113Nm",
+      "mileage": "19.01kmpl",
+      "section": "Tata Tiago 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "XT",
+      "nameSuffix": "",
+      "priceLakh": 5.86,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "86PS",
+      "torque": "113Nm",
+      "mileage": "19.01kmpl",
+      "section": "Tata Tiago 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "XZ",
+      "nameSuffix": "",
+      "priceLakh": 6.46,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "86PS",
+      "torque": "113Nm",
+      "mileage": "19.01kmpl",
+      "section": "Tata Tiago 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "XZ Plus",
+      "nameSuffix": "",
+      "priceLakh": 6.83,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "86PS",
+      "torque": "113Nm",
+      "mileage": "19.01kmpl",
+      "section": "Tata Tiago 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "XZA",
+      "nameSuffix": "",
+      "priceLakh": 6.98,
+      "fuelType": "Petrol",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "86PS",
+      "torque": "113Nm",
+      "mileage": "19.00kmpl",
+      "section": "Tata Tiago 1.2L  Petrol Automatic Price List"
+    },
+    {
+      "trim": "XM",
+      "nameSuffix": "",
+      "priceLakh": 6.3,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "73PS",
+      "torque": "95Nm",
+      "mileage": "26.49km/kg",
+      "section": "Tata Tiago 1.2L CNG Manual Price List"
+    },
+    {
+      "trim": "XT",
+      "nameSuffix": "",
+      "priceLakh": 6.8,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "73PS",
+      "torque": "95Nm",
+      "mileage": "26.49km/kg",
+      "section": "Tata Tiago 1.2L CNG Manual Price List"
+    },
+    {
+      "trim": "XZ",
+      "nameSuffix": "",
+      "priceLakh": 7.32,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed MT",
+      "power": "73PS",
+      "torque": "95Nm",
+      "mileage": "26.49km/kg",
+      "section": "Tata Tiago 1.2L CNG Manual Price List"
+    },
+    {
+      "trim": "XZA",
+      "nameSuffix": "",
+      "priceLakh": 7.92,
+      "fuelType": "CNG",
+      "engine": "1199cc",
+      "transmission": "5-speed AMT",
+      "power": "73PS",
+      "torque": "95Nm",
+      "mileage": "28.60km/kg",
+      "section": "Tata Tiago 1.2L  CNG Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:18:53.237Z",
+  "source": "https://www.v3cars.com/tata-cars/tiago",
+  "v3carsImage": "/cars/tata-tiago.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/741318tiago.png"
+}

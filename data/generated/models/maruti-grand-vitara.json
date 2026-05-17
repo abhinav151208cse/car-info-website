@@ -1,0 +1,413 @@
+{
+  "slug": "maruti-grand-vitara",
+  "name": "Maruti Grand Vitara",
+  "brand": "Maruti Suzuki",
+  "modelYear": 2026,
+  "tagline": "Strong hybrid mid-size SUV",
+  "summary": "SUV with petrol, strong hybrid and AWD options.",
+  "segment": "suv-c",
+  "imageUrl": "https://www.nexaexperience.com/-/media/nexa/grand-vitara/hero/grand-vitara-hero.jpg",
+  "priceRangeMin": 12.1,
+  "priceRangeMax": 19.72,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4345 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1795 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1645 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2600 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "373 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "208 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "45 litres"
+    }
+  ],
+  "engines": [
+    "1462cc (5-speed MT)",
+    "1462cc (6-speed TC)",
+    "1490cc (CVT)"
+  ],
+  "variants": [
+    {
+      "trim": "Grand Vitara Delta",
+      "nameSuffix": "",
+      "priceLakh": 12.1,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "21.11kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "Grand Vitara Zeta",
+      "nameSuffix": "",
+      "priceLakh": 13.7,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "21.11kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "Grand Vitara Zeta DT",
+      "nameSuffix": "",
+      "priceLakh": 13.85,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "21.11kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "Grand Vitara Zeta (O)",
+      "nameSuffix": "",
+      "priceLakh": 14.28,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "21.11kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "Grand Vitara Zeta (O) DT",
+      "nameSuffix": "",
+      "priceLakh": 14.43,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "21.11kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "Grand Vitara Alpha",
+      "nameSuffix": "",
+      "priceLakh": 15.2,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "21.11kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "Grand Vitara Alpha DT",
+      "nameSuffix": "",
+      "priceLakh": 15.35,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "21.11kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "Grand Vitara Alpha (O)",
+      "nameSuffix": "",
+      "priceLakh": 15.78,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "21.11kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "Grand Vitara Alpha (O) DT",
+      "nameSuffix": "",
+      "priceLakh": 15.93,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "21.11kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "Grand Vitara Zeta",
+      "nameSuffix": "",
+      "priceLakh": 15.05,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "20.58kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic Price List"
+    },
+    {
+      "trim": "Grand Vitara Zeta DT",
+      "nameSuffix": "",
+      "priceLakh": 15.2,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "20.58kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic Price List"
+    },
+    {
+      "trim": "Grand Vitara Zeta (O)",
+      "nameSuffix": "",
+      "priceLakh": 15.63,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "20.58kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic Price List"
+    },
+    {
+      "trim": "Grand Vitara Zeta (O) DT",
+      "nameSuffix": "",
+      "priceLakh": 15.78,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "20.58kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic Price List"
+    },
+    {
+      "trim": "Grand Vitara Alpha",
+      "nameSuffix": "",
+      "priceLakh": 16.55,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "20.58kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic Price List"
+    },
+    {
+      "trim": "Grand Vitara Alpha DT",
+      "nameSuffix": "",
+      "priceLakh": 16.7,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "20.58kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic Price List"
+    },
+    {
+      "trim": "Grand Vitara Alpha (O)",
+      "nameSuffix": "",
+      "priceLakh": 17.13,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "20.58kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic Price List"
+    },
+    {
+      "trim": "Grand Vitara Alpha (O) DT",
+      "nameSuffix": "",
+      "priceLakh": 17.28,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "20.58kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic Price List"
+    },
+    {
+      "trim": "Grand Vitara Zeta Plus",
+      "nameSuffix": "",
+      "priceLakh": 17.92,
+      "fuelType": "Hybrid",
+      "engine": "1490cc",
+      "transmission": "CVT",
+      "power": "116PS",
+      "torque": "141Nm",
+      "mileage": "27.97kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L Hybrid Automatic Price List"
+    },
+    {
+      "trim": "Grand Vitara Zeta Plus DT",
+      "nameSuffix": "",
+      "priceLakh": 18.07,
+      "fuelType": "Hybrid",
+      "engine": "1490cc",
+      "transmission": "CVT",
+      "power": "116PS",
+      "torque": "141Nm",
+      "mileage": "27.97kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L Hybrid Automatic Price List"
+    },
+    {
+      "trim": "Grand Vitara Zeta Plus (O)",
+      "nameSuffix": "",
+      "priceLakh": 18.5,
+      "fuelType": "Hybrid",
+      "engine": "1490cc",
+      "transmission": "CVT",
+      "power": "116PS",
+      "torque": "141Nm",
+      "mileage": "27.97kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L Hybrid Automatic Price List"
+    },
+    {
+      "trim": "Grand Vitara Zeta Plus (O) DT",
+      "nameSuffix": "",
+      "priceLakh": 18.66,
+      "fuelType": "Hybrid",
+      "engine": "1490cc",
+      "transmission": "CVT",
+      "power": "116PS",
+      "torque": "141Nm",
+      "mileage": "27.97kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L Hybrid Automatic Price List"
+    },
+    {
+      "trim": "Grand Vitara Alpha Plus",
+      "nameSuffix": "",
+      "priceLakh": 19.5,
+      "fuelType": "Hybrid",
+      "engine": "1490cc",
+      "transmission": "CVT",
+      "power": "116PS",
+      "torque": "141Nm",
+      "mileage": "27.97kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L Hybrid Automatic Price List"
+    },
+    {
+      "trim": "Grand Vitara Alpha Plus (O)",
+      "nameSuffix": "",
+      "priceLakh": 19.57,
+      "fuelType": "Hybrid",
+      "engine": "1490cc",
+      "transmission": "CVT",
+      "power": "116PS",
+      "torque": "141Nm",
+      "mileage": "27.97kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L Hybrid Automatic Price List"
+    },
+    {
+      "trim": "Grand Vitara Alpha Plus DT",
+      "nameSuffix": "",
+      "priceLakh": 19.66,
+      "fuelType": "Hybrid",
+      "engine": "1490cc",
+      "transmission": "CVT",
+      "power": "116PS",
+      "torque": "141Nm",
+      "mileage": "27.97kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L Hybrid Automatic Price List"
+    },
+    {
+      "trim": "Grand Vitara Alpha Plus (O) DT",
+      "nameSuffix": "",
+      "priceLakh": 19.72,
+      "fuelType": "Hybrid",
+      "engine": "1490cc",
+      "transmission": "CVT",
+      "power": "116PS",
+      "torque": "141Nm",
+      "mileage": "27.97kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L Hybrid Automatic Price List"
+    },
+    {
+      "trim": "Grand Vitara Zeta",
+      "nameSuffix": "",
+      "priceLakh": 14.6,
+      "fuelType": "CNG",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "122Nm",
+      "mileage": "26.60km/kg",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  CNG Manual Price List"
+    },
+    {
+      "trim": "Grand Vitara Zeta DT",
+      "nameSuffix": "",
+      "priceLakh": 14.75,
+      "fuelType": "CNG",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "122Nm",
+      "mileage": "26.60km/kg",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  CNG Manual Price List"
+    },
+    {
+      "trim": "Grand Vitara Alpha ALLGRIP 4WD DT",
+      "nameSuffix": "",
+      "priceLakh": 18.15,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "19.20kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic AWD 103PS Price List"
+    },
+    {
+      "trim": "Grand Vitara Alpha(O) ALLGRIP 4WD",
+      "nameSuffix": "",
+      "priceLakh": 18.58,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "19.20kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic AWD 103PS Price List"
+    },
+    {
+      "trim": "Grand Vitara Alpha(O) ALLGRIP 4WD\tDT",
+      "nameSuffix": "",
+      "priceLakh": 18.73,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "139Nm",
+      "mileage": "19.20kmpl",
+      "section": "Maruti Suzuki Grand Vitara 1.5L  Mild Hybrid Petrol Automatic AWD 103PS Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:27.515Z",
+  "source": "https://www.v3cars.com/maruti-nexa-cars/grand-vitara",
+  "v3carsImage": "/cars/maruti-grand-vitara.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/851474grand-vitara.png"
+}

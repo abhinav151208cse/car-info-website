@@ -8,6 +8,7 @@ import {
   type CompareEntry,
 } from "@/lib/compare";
 import { carsCatalog, type CarModel } from "@/lib/cars";
+import { onCarImageError } from "@/lib/image-fallback";
 import Link from "next/link";
 import { Fragment, useEffect, useMemo, useState } from "react";
 
@@ -228,6 +229,7 @@ function CompareColumnHeader({
         src={column.image}
         alt={column.carName}
         className="h-24 w-full rounded-lg object-cover"
+        onError={onCarImageError}
       />
       <select
         value={column.variantId}
@@ -264,6 +266,7 @@ function SingleColumnHeader({
           src={column.image}
           alt={column.carName}
           className="h-20 w-28 rounded-lg object-cover"
+          onError={onCarImageError}
         />
         <div>
           <p className="font-bold text-slate-900">{column.carName}</p>

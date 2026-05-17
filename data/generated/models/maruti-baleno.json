@@ -1,0 +1,124 @@
+{
+  "slug": "maruti-baleno",
+  "name": "Maruti Baleno",
+  "brand": "Maruti Suzuki",
+  "modelYear": 2026,
+  "tagline": "Premium Nexa hatch",
+  "summary": "Best-selling premium hatch with petrol and CNG.",
+  "segment": "hatch",
+  "imageUrl": "https://www.nexaexperience.com/-/media/nexa/baleno/hero/baleno-hero.jpg",
+  "priceRangeMin": 6.8,
+  "priceRangeMax": 9.1,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3990 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1745 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1500 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2520 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "318 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "170 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "37 litres"
+    }
+  ],
+  "engines": [
+    "1197cc (5-speed MT)",
+    "1197cc (5-speed AMT)"
+  ],
+  "variants": [
+    {
+      "trim": "Baleno Delta",
+      "nameSuffix": "",
+      "priceLakh": 6.8,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "22.35kmpl",
+      "section": "Maruti Suzuki Baleno 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Baleno Zeta",
+      "nameSuffix": "",
+      "priceLakh": 7.7,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "22.35kmpl",
+      "section": "Maruti Suzuki Baleno 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Baleno Alpha",
+      "nameSuffix": "",
+      "priceLakh": 8.6,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "22.35kmpl",
+      "section": "Maruti Suzuki Baleno 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Baleno Zeta",
+      "nameSuffix": "",
+      "priceLakh": 8.2,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "22.94kmpl",
+      "section": "Maruti Suzuki Baleno 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Baleno Alpha",
+      "nameSuffix": "",
+      "priceLakh": 9.1,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "22.94kmpl",
+      "section": "Maruti Suzuki Baleno 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Baleno Zeta",
+      "nameSuffix": "",
+      "priceLakh": 8.6,
+      "fuelType": "CNG",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "78PS",
+      "torque": "99Nm",
+      "mileage": "30.61km/kg",
+      "section": "Maruti Suzuki Baleno 1.2L CNG Manual Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:29.187Z",
+  "source": "https://www.v3cars.com/maruti-nexa-cars/baleno",
+  "v3carsImage": "/cars/maruti-baleno.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/851052baleno.png"
+}

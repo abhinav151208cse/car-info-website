@@ -1,0 +1,138 @@
+{
+  "slug": "maruti-fronx",
+  "name": "Maruti Fronx",
+  "brand": "Maruti Suzuki",
+  "modelYear": 2026,
+  "tagline": "Coupe-SUV crossover",
+  "summary": "Turbo and NA petrol compact SUV with Nexa positioning.",
+  "segment": "suv-b",
+  "imageUrl": "https://www.nexaexperience.com/-/media/nexa/fronx/hero/fronx-hero.jpg",
+  "priceRangeMin": 7.65,
+  "priceRangeMax": 11.84,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3995 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1765 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1550 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2520 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "308 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "190 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "37 litres"
+    }
+  ],
+  "engines": [
+    "1197cc (5-speed MT)",
+    "1197cc (5-speed AMT)",
+    "998cc (5-speed MT)",
+    "998cc (6-speed TC)"
+  ],
+  "variants": [
+    {
+      "trim": "Fronx Delta",
+      "nameSuffix": "",
+      "priceLakh": 7.65,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "21.79kmpl",
+      "section": "Maruti Suzuki Fronx 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Fronx Delta Plus",
+      "nameSuffix": "",
+      "priceLakh": 8.05,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "21.79kmpl",
+      "section": "Maruti Suzuki Fronx 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Fronx Delta Plus",
+      "nameSuffix": "",
+      "priceLakh": 8.55,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "90PS",
+      "torque": "113Nm",
+      "mileage": "22.89kmpl",
+      "section": "Maruti Suzuki Fronx 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Fronx Zeta (100PS)",
+      "nameSuffix": "",
+      "priceLakh": 9.71,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "5-speed MT",
+      "power": "100PS",
+      "torque": "148Nm",
+      "mileage": "21.50kmpl",
+      "section": "Maruti Suzuki Fronx 1.0L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Fronx Alpha (100PS)",
+      "nameSuffix": "",
+      "priceLakh": 10.56,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "5-speed MT",
+      "power": "100PS",
+      "torque": "148Nm",
+      "mileage": "21.50kmpl",
+      "section": "Maruti Suzuki Fronx 1.0L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Fronx Alpha (100PS)",
+      "nameSuffix": "",
+      "priceLakh": 11.84,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "6-speed TC",
+      "power": "100PS",
+      "torque": "148Nm",
+      "mileage": "20.01kmpl",
+      "section": "Maruti Suzuki Fronx 1.0L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Fronx Delta",
+      "nameSuffix": "",
+      "priceLakh": 8.59,
+      "fuelType": "CNG",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "78PS",
+      "torque": "99Nm",
+      "mileage": "28.51km/kg",
+      "section": "Maruti Suzuki Fronx 1.2L CNG Manual Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:25.567Z",
+  "source": "https://www.v3cars.com/maruti-nexa-cars/fronx",
+  "v3carsImage": "/cars/maruti-fronx.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/570932fronx.png"
+}

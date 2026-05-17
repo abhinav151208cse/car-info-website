@@ -1,0 +1,354 @@
+{
+  "slug": "hyundai-creta",
+  "name": "Hyundai Creta",
+  "brand": "Hyundai",
+  "modelYear": 2026,
+  "tagline": "India's best-selling mid-size SUV",
+  "summary": "Comprehensive powertrain line-up with petrol, diesel, turbo and N Line options.",
+  "segment": "suv-c",
+  "imageUrl": "https://www.hyundai.com/content/dam/hyundai/in/en/data/vehicle-images/creta/creta-ice/creta-hero.jpg",
+  "priceRangeMin": 12.06,
+  "priceRangeMax": 19.87,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4330 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1790 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1635 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2610 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "433 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "190 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "50 litres"
+    }
+  ],
+  "engines": [
+    "1497cc (6-speed MT)",
+    "1497cc (CVT)",
+    "1493cc (6-speed MT)",
+    "1493cc (6-speed TC)"
+  ],
+  "variants": [
+    {
+      "trim": "EX",
+      "nameSuffix": "",
+      "priceLakh": 12.06,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.40kmpl",
+      "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
+    },
+    {
+      "trim": "EX(O)",
+      "nameSuffix": "",
+      "priceLakh": 13.13,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.40kmpl",
+      "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
+    },
+    {
+      "trim": "S(O)",
+      "nameSuffix": "",
+      "priceLakh": 14.2,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.40kmpl",
+      "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
+    },
+    {
+      "trim": "S(O) Knight Edition",
+      "nameSuffix": "",
+      "priceLakh": 14.38,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.40kmpl",
+      "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
+    },
+    {
+      "trim": "SX",
+      "nameSuffix": "",
+      "priceLakh": 15.04,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.40kmpl",
+      "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
+    },
+    {
+      "trim": "SX Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 15.19,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.40kmpl",
+      "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
+    },
+    {
+      "trim": "SX Premium",
+      "nameSuffix": "",
+      "priceLakh": 16.33,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.40kmpl",
+      "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
+    },
+    {
+      "trim": "SX Premium Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 16.48,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.40kmpl",
+      "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
+    },
+    {
+      "trim": "King",
+      "nameSuffix": "",
+      "priceLakh": 17.27,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.40kmpl",
+      "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
+    },
+    {
+      "trim": "King Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 17.42,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.40kmpl",
+      "section": "Hyundai Creta 1.5L  Petrol Manual Price List"
+    },
+    {
+      "trim": "S(O)",
+      "nameSuffix": "",
+      "priceLakh": 15.65,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "CVT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.70kmpl",
+      "section": "Hyundai Creta 1.5L  Petrol Automatic Price List"
+    },
+    {
+      "trim": "SX Premium",
+      "nameSuffix": "",
+      "priceLakh": 17.78,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "CVT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.70kmpl",
+      "section": "Hyundai Creta 1.5L  Petrol Automatic Price List"
+    },
+    {
+      "trim": "SX Premium Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 17.93,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "CVT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.70kmpl",
+      "section": "Hyundai Creta 1.5L  Petrol Automatic Price List"
+    },
+    {
+      "trim": "King",
+      "nameSuffix": "",
+      "priceLakh": 18.68,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "CVT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.70kmpl",
+      "section": "Hyundai Creta 1.5L  Petrol Automatic Price List"
+    },
+    {
+      "trim": "King Knight",
+      "nameSuffix": "",
+      "priceLakh": 18.83,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "CVT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.70kmpl",
+      "section": "Hyundai Creta 1.5L  Petrol Automatic Price List"
+    },
+    {
+      "trim": "King Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 18.83,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "CVT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.70kmpl",
+      "section": "Hyundai Creta 1.5L  Petrol Automatic Price List"
+    },
+    {
+      "trim": "King Dual Tone Knight",
+      "nameSuffix": "",
+      "priceLakh": 18.97,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "CVT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "17.70kmpl",
+      "section": "Hyundai Creta 1.5L  Petrol Automatic Price List"
+    },
+    {
+      "trim": "EX(O)",
+      "nameSuffix": "",
+      "priceLakh": 14.69,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "21.80kmpl",
+      "section": "Hyundai Creta 1.5L  Diesel Manual Price List"
+    },
+    {
+      "trim": "S(O)",
+      "nameSuffix": "",
+      "priceLakh": 15.81,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "21.80kmpl",
+      "section": "Hyundai Creta 1.5L  Diesel Manual Price List"
+    },
+    {
+      "trim": "S(O) Knight Edition",
+      "nameSuffix": "",
+      "priceLakh": 15.99,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "21.80kmpl",
+      "section": "Hyundai Creta 1.5L  Diesel Manual Price List"
+    },
+    {
+      "trim": "SX Premium",
+      "nameSuffix": "",
+      "priceLakh": 17.89,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "21.80kmpl",
+      "section": "Hyundai Creta 1.5L  Diesel Manual Price List"
+    },
+    {
+      "trim": "SX Premium Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 18.04,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "21.80kmpl",
+      "section": "Hyundai Creta 1.5L  Diesel Manual Price List"
+    },
+    {
+      "trim": "King Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 18.95,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "21.80kmpl",
+      "section": "Hyundai Creta 1.5L  Diesel Manual Price List"
+    },
+    {
+      "trim": "S(O)",
+      "nameSuffix": "",
+      "priceLakh": 17.26,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "19.10kmpl",
+      "section": "Hyundai Creta 1.5L  Diesel Automatic Price List"
+    },
+    {
+      "trim": "King Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 19.87,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed TC",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "19.10kmpl",
+      "section": "Hyundai Creta 1.5L  Diesel Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:03.943Z",
+  "source": "https://www.v3cars.com/hyundai-cars/creta",
+  "v3carsImage": "/cars/hyundai-creta.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/512647creta.png"
+}

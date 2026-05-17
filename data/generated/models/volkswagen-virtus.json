@@ -1,0 +1,149 @@
+{
+  "slug": "volkswagen-virtus",
+  "name": "Volkswagen Virtus",
+  "brand": "Volkswagen",
+  "modelYear": 2026,
+  "tagline": "German engineering sedan",
+  "summary": "Mid-size sedan with 1.0 and 1.5 TSI engines.",
+  "segment": "sedan",
+  "imageUrl": "https://www.volkswagen.co.in/content/dam/vw/in/models/virtus/virtus-hero.jpg",
+  "priceRangeMin": 13.46,
+  "priceRangeMax": 19,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4561 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1752 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1507 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2651 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "521 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "179 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "45 litres"
+    }
+  ],
+  "engines": [
+    "999cc (6-speed MT)",
+    "999cc (6-speed TC)",
+    "1498cc (7-speed DCT)"
+  ],
+  "variants": [
+    {
+      "trim": "Highline",
+      "nameSuffix": "",
+      "priceLakh": 13.46,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "178Nm",
+      "mileage": "20.08kmpl",
+      "section": "Volkswagen Virtus 1.0L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Highline Plus",
+      "nameSuffix": "",
+      "priceLakh": 13.86,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "178Nm",
+      "mileage": "20.08kmpl",
+      "section": "Volkswagen Virtus 1.0L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "GT Line",
+      "nameSuffix": "",
+      "priceLakh": 14.1,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "178Nm",
+      "mileage": "20.08kmpl",
+      "section": "Volkswagen Virtus 1.0L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Topline",
+      "nameSuffix": "",
+      "priceLakh": 15.11,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "178Nm",
+      "mileage": "20.08kmpl",
+      "section": "Volkswagen Virtus 1.0L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Highline Plus",
+      "nameSuffix": "",
+      "priceLakh": 14.91,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed TC",
+      "power": "115PS",
+      "torque": "178Nm",
+      "mileage": "18.45kmpl",
+      "section": "Volkswagen Virtus 1.0L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "GT Line",
+      "nameSuffix": "",
+      "priceLakh": 15,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed TC",
+      "power": "115PS",
+      "torque": "178Nm",
+      "mileage": "18.45kmpl",
+      "section": "Volkswagen Virtus 1.0L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Topline",
+      "nameSuffix": "",
+      "priceLakh": 16.3,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed TC",
+      "power": "115PS",
+      "torque": "178Nm",
+      "mileage": "18.45kmpl",
+      "section": "Volkswagen Virtus 1.0L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "GT Plus Sport (150PS)",
+      "nameSuffix": "",
+      "priceLakh": 19,
+      "fuelType": "Petrol",
+      "engine": "1498cc",
+      "transmission": "7-speed DCT",
+      "power": "150PS",
+      "torque": "250Nm",
+      "mileage": "19.62kmpl",
+      "section": "Volkswagen Virtus 1.5L Turbo Petrol Automatic (150PS) Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:46.309Z",
+  "source": "https://www.v3cars.com/volkswagen-cars/virtus",
+  "v3carsImage": "/cars/volkswagen-virtus.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/897731virtus.png"
+}

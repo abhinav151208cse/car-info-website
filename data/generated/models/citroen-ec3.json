@@ -1,0 +1,93 @@
+{
+  "slug": "citroen-ec3",
+  "name": "Citroen eC3",
+  "brand": "Citroen",
+  "modelYear": 2026,
+  "tagline": "Electric C3",
+  "summary": "Affordable electric hatch based on C3.",
+  "segment": "ev",
+  "imageUrl": "https://www.citroen.in/content/dam/citroen/in/models/ec3/ec3-hero.jpg",
+  "priceRangeMin": 13.26,
+  "priceRangeMax": 13.53,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3981 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1733 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1604 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2540 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "315 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "170 mm"
+    }
+  ],
+  "engines": [],
+  "variants": [
+    {
+      "trim": "Shine",
+      "nameSuffix": "",
+      "priceLakh": 13.26,
+      "fuelType": "Petrol",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Citroen eC3 Range 320km | 3.3kW AC | FWD Price List"
+    },
+    {
+      "trim": "Shine Vibe Pack",
+      "nameSuffix": "",
+      "priceLakh": 13.38,
+      "fuelType": "Petrol",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Citroen eC3 Range 320km | 3.3kW AC | FWD Price List"
+    },
+    {
+      "trim": "Shine Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 13.41,
+      "fuelType": "Petrol",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Citroen eC3 Range 320km | 3.3kW AC | FWD Price List"
+    },
+    {
+      "trim": "Shine Vibe Pack Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 13.53,
+      "fuelType": "Petrol",
+      "engine": "—",
+      "transmission": "—",
+      "power": "—",
+      "torque": "—",
+      "mileage": "—",
+      "section": "Citroen eC3 Range 320km | 3.3kW AC | FWD Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:51.162Z",
+  "source": "https://www.v3cars.com/citroen-cars/ec3",
+  "v3carsImage": "/cars/citroen-ec3.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/688434e-c3.png"
+}

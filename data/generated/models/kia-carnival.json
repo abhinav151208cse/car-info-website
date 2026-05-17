@@ -1,0 +1,55 @@
+{
+  "slug": "kia-carnival",
+  "name": "Kia Carnival",
+  "brand": "Kia",
+  "modelYear": 2026,
+  "tagline": "Premium 7/8-seater MPV",
+  "summary": "Flagship MPV with diesel power, lounge seating and extensive comfort tech.",
+  "segment": "muv",
+  "imageUrl": "https://www.kia.com/content/dam/kia2/in/en/images/showroom/carnival/carnival-hero-pc.jpg",
+  "priceRangeMin": 59.42,
+  "priceRangeMax": 59.42,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "5155 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1995 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1775 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "3090 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "627 litres"
+    }
+  ],
+  "engines": [
+    "2199cc (8-speed TC)"
+  ],
+  "variants": [
+    {
+      "trim": "Limousine Plus",
+      "nameSuffix": "",
+      "priceLakh": 59.42,
+      "fuelType": "Diesel",
+      "engine": "2199cc",
+      "transmission": "8-speed TC",
+      "power": "193PS",
+      "torque": "441Nm",
+      "mileage": "14.85kmpl",
+      "section": "Kia Carnival 2.2L Diesel Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:26:47.011Z",
+  "source": "https://www.v3cars.com/kia-cars/carnival",
+  "v3carsImage": "/cars/kia-carnival.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/265488carnival.png"
+}

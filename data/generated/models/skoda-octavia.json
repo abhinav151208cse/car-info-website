@@ -1,0 +1,59 @@
+{
+  "slug": "skoda-octavia",
+  "name": "Skoda Octavia RS",
+  "brand": "Skoda",
+  "modelYear": 2026,
+  "tagline": "Performance sedan",
+  "summary": "Sporty Octavia RS with 2.0 TSI.",
+  "segment": "sedan",
+  "imageUrl": "https://www.skoda-auto.co.in/content/dam/skoda/in/models/octavia/hero/octavia-hero.jpg",
+  "priceRangeMin": 49.99,
+  "priceRangeMax": 49.99,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4709 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1829 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1455 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2681 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "600 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "129 mm"
+    }
+  ],
+  "engines": [
+    "1984cc (7-speed DCT)"
+  ],
+  "variants": [
+    {
+      "trim": "Octavia RS",
+      "nameSuffix": "",
+      "priceLakh": 49.99,
+      "fuelType": "Petrol",
+      "engine": "1984cc",
+      "transmission": "7-speed DCT",
+      "power": "265PS",
+      "torque": "370Nm",
+      "mileage": "17.34kmpl",
+      "section": "Skoda Octavia 2.0L  Turbo Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:26:51.668Z",
+  "source": "https://www.v3cars.com/skoda-cars/octavia",
+  "v3carsImage": "/cars/skoda-octavia.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/299347octavia-rs.png"
+}

@@ -1,0 +1,196 @@
+{
+  "slug": "hyundai-grand-i10-nios",
+  "name": "Hyundai Grand i10 Nios",
+  "brand": "Hyundai",
+  "modelYear": 2026,
+  "tagline": "Practical city hatch",
+  "summary": "Affordable hatch with petrol and CNG powertrains.",
+  "segment": "hatch",
+  "imageUrl": "https://www.hyundai.com/content/dam/hyundai/in/en/data/vehicle-images/grand-i10-nios/nios-hero.jpg",
+  "priceRangeMin": 6.28,
+  "priceRangeMax": 8.03,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3815 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1680 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1520 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2450 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "260 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "165 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "37 litres"
+    }
+  ],
+  "engines": [
+    "1197cc (5-speed MT)",
+    "1197cc (5-speed AMT)"
+  ],
+  "variants": [
+    {
+      "trim": "Magna",
+      "nameSuffix": "",
+      "priceLakh": 6.28,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "114Nm",
+      "mileage": "20.70kmpl",
+      "section": "Hyundai Grand i10 Nios 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Corporate",
+      "nameSuffix": "",
+      "priceLakh": 6.51,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "114Nm",
+      "mileage": "20.70kmpl",
+      "section": "Hyundai Grand i10 Nios 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Sportz",
+      "nameSuffix": "",
+      "priceLakh": 6.84,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "114Nm",
+      "mileage": "20.70kmpl",
+      "section": "Hyundai Grand i10 Nios 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Sportz (O)",
+      "nameSuffix": "",
+      "priceLakh": 7.09,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "114Nm",
+      "mileage": "20.70kmpl",
+      "section": "Hyundai Grand i10 Nios 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Sportz Vibe",
+      "nameSuffix": "",
+      "priceLakh": 7.09,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "114Nm",
+      "mileage": "20.70kmpl",
+      "section": "Hyundai Grand i10 Nios 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Asta",
+      "nameSuffix": "",
+      "priceLakh": 7.51,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "83PS",
+      "torque": "114Nm",
+      "mileage": "20.70kmpl",
+      "section": "Hyundai Grand i10 Nios 1.2L Petrol Manual Price List"
+    },
+    {
+      "trim": "Sportz",
+      "nameSuffix": "",
+      "priceLakh": 7.36,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "83PS",
+      "torque": "114Nm",
+      "mileage": "20.10kmpl",
+      "section": "Hyundai Grand i10 Nios 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Sportz Vibe",
+      "nameSuffix": "",
+      "priceLakh": 7.61,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "83PS",
+      "torque": "114Nm",
+      "mileage": "20.10kmpl",
+      "section": "Hyundai Grand i10 Nios 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Sportz (O)",
+      "nameSuffix": "",
+      "priceLakh": 7.63,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "83PS",
+      "torque": "114Nm",
+      "mileage": "20.10kmpl",
+      "section": "Hyundai Grand i10 Nios 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Sportz (O) Vibe",
+      "nameSuffix": "",
+      "priceLakh": 7.73,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "83PS",
+      "torque": "114Nm",
+      "mileage": "20.10kmpl",
+      "section": "Hyundai Grand i10 Nios 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Asta",
+      "nameSuffix": "",
+      "priceLakh": 8.03,
+      "fuelType": "Petrol",
+      "engine": "1197cc",
+      "transmission": "5-speed AMT",
+      "power": "83PS",
+      "torque": "114Nm",
+      "mileage": "20.10kmpl",
+      "section": "Hyundai Grand i10 Nios 1.2L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Sportz",
+      "nameSuffix": "",
+      "priceLakh": 7.72,
+      "fuelType": "CNG",
+      "engine": "1197cc",
+      "transmission": "5-speed MT",
+      "power": "69PS",
+      "torque": "95Nm",
+      "mileage": "27.30km/kg",
+      "section": "Hyundai Grand i10 Nios 1.2L CNG Manual Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:09.991Z",
+  "source": "https://www.v3cars.com/hyundai-cars/grand-i10-nios",
+  "v3carsImage": "/cars/hyundai-grand-i10-nios.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/867248grand-i10-nios.png"
+}

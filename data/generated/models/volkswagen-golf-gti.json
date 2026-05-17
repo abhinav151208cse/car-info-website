@@ -1,0 +1,59 @@
+{
+  "slug": "volkswagen-golf-gti",
+  "name": "Volkswagen Golf GTI",
+  "brand": "Volkswagen",
+  "modelYear": 2026,
+  "tagline": "Hot hatch icon",
+  "summary": "Performance Golf GTI with 2.0 TSI.",
+  "segment": "hatch",
+  "imageUrl": "https://www.volkswagen.co.in/content/dam/vw/in/models/golf-gti/golf-gti-hero.jpg",
+  "priceRangeMin": 50.91,
+  "priceRangeMax": 50.91,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4289 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1789 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1471 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2627 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "380 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "136 mm"
+    }
+  ],
+  "engines": [
+    "1984cc (7-speed DCT)"
+  ],
+  "variants": [
+    {
+      "trim": "Golf GTI",
+      "nameSuffix": "",
+      "priceLakh": 50.91,
+      "fuelType": "Petrol",
+      "engine": "1984cc",
+      "transmission": "7-speed DCT",
+      "power": "265PS",
+      "torque": "370Nm",
+      "mileage": "16.83kmpl",
+      "section": "Volkswagen Golf 2.0L  Turbo Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:26:54.085Z",
+  "source": "https://www.v3cars.com/volkswagen-cars/golf-gti",
+  "v3carsImage": "/cars/volkswagen-golf-gti.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/459816golf-gti.png"
+}

@@ -1,0 +1,161 @@
+{
+  "slug": "toyota-urban-cruiser-hyryder",
+  "name": "Toyota Urban Cruiser Hyryder",
+  "brand": "Toyota",
+  "modelYear": 2026,
+  "tagline": "Strong hybrid SUV",
+  "summary": "Grand Vitara-based SUV with hybrid options.",
+  "segment": "suv-c",
+  "imageUrl": "https://www.toyota.co.in/content/dam/toyota/in/models/hyryder/hyryder-hero.jpg",
+  "priceRangeMin": 12.51,
+  "priceRangeMax": 19.99,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4365 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1795 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1645 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2600 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "373 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "208 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "45 litres"
+    }
+  ],
+  "engines": [
+    "1462cc (5-speed MT)",
+    "1462cc (6-speed TC)",
+    "1490cc (CVT)"
+  ],
+  "variants": [
+    {
+      "trim": "S",
+      "nameSuffix": "",
+      "priceLakh": 12.51,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "137Nm",
+      "mileage": "19.39kmpl",
+      "section": "Toyota Urban Cruiser Hyryder 1.5L  Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "G",
+      "nameSuffix": "",
+      "priceLakh": 14.46,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "137Nm",
+      "mileage": "19.39kmpl",
+      "section": "Toyota Urban Cruiser Hyryder 1.5L  Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "V",
+      "nameSuffix": "",
+      "priceLakh": 15.97,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "103PS",
+      "torque": "137Nm",
+      "mileage": "19.39kmpl",
+      "section": "Toyota Urban Cruiser Hyryder 1.5L  Mild Hybrid Petrol Manual Price List"
+    },
+    {
+      "trim": "G",
+      "nameSuffix": "",
+      "priceLakh": 15.69,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "137Nm",
+      "mileage": "20.58kmpl",
+      "section": "Toyota Urban Cruiser Hyryder 1.5L Mild Hybrid Petrol Automatic Price List"
+    },
+    {
+      "trim": "V",
+      "nameSuffix": "",
+      "priceLakh": 17.19,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "137Nm",
+      "mileage": "20.58kmpl",
+      "section": "Toyota Urban Cruiser Hyryder 1.5L Mild Hybrid Petrol Automatic Price List"
+    },
+    {
+      "trim": "V AWD",
+      "nameSuffix": "",
+      "priceLakh": 18.67,
+      "fuelType": "Hybrid",
+      "engine": "1462cc",
+      "transmission": "6-speed TC",
+      "power": "103PS",
+      "torque": "137Nm",
+      "mileage": "20.58kmpl",
+      "section": "Toyota Urban Cruiser Hyryder 1.5L Mild Hybrid Petrol Automatic Price List"
+    },
+    {
+      "trim": "G",
+      "nameSuffix": "",
+      "priceLakh": 18.73,
+      "fuelType": "Hybrid",
+      "engine": "1490cc",
+      "transmission": "CVT",
+      "power": "116PS",
+      "torque": "141Nm",
+      "mileage": "27.97kmpl",
+      "section": "Toyota Urban Cruiser Hyryder 1.5L Hybrid Automatic Price List"
+    },
+    {
+      "trim": "V",
+      "nameSuffix": "",
+      "priceLakh": 19.99,
+      "fuelType": "Hybrid",
+      "engine": "1490cc",
+      "transmission": "CVT",
+      "power": "116PS",
+      "torque": "141Nm",
+      "mileage": "27.97kmpl",
+      "section": "Toyota Urban Cruiser Hyryder 1.5L Hybrid Automatic Price List"
+    },
+    {
+      "trim": "G",
+      "nameSuffix": "",
+      "priceLakh": 15.34,
+      "fuelType": "CNG",
+      "engine": "1462cc",
+      "transmission": "5-speed MT",
+      "power": "88PS",
+      "torque": "122Nm",
+      "mileage": "26.60km/kg",
+      "section": "Toyota Urban Cruiser Hyryder 1.5L  CNG Manual Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:37.587Z",
+  "source": "https://www.v3cars.com/toyota-cars/urban-cruiser-hyryder",
+  "v3carsImage": "/cars/toyota-urban-cruiser-hyryder.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/420734hyryder.png"
+}

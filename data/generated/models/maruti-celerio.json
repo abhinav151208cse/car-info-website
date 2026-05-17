@@ -1,0 +1,112 @@
+{
+  "slug": "maruti-celerio",
+  "name": "Maruti Celerio",
+  "brand": "Maruti Suzuki",
+  "modelYear": 2026,
+  "tagline": "Efficient city hatch",
+  "summary": "Light hatch with petrol and CNG.",
+  "segment": "hatch",
+  "imageUrl": "https://www.marutisuzuki.com/-/media/marutisuzuki/india/vehicles/celerio/hero/celerio-hero.jpg",
+  "priceRangeMin": 5.16,
+  "priceRangeMax": 6.73,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3695 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1655 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1555 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2435 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "292 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "170 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "32 litres"
+    }
+  ],
+  "engines": [
+    "998cc (5-speed MT)",
+    "998cc (5-speed AMT)"
+  ],
+  "variants": [
+    {
+      "trim": "Celerio VXI",
+      "nameSuffix": "",
+      "priceLakh": 5.16,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "5-speed MT",
+      "power": "66PS",
+      "torque": "89Nm",
+      "mileage": "25.24kmpl",
+      "section": "Maruti Suzuki Celerio 1.0L Petrol Manual Price List"
+    },
+    {
+      "trim": "Celerio ZXI",
+      "nameSuffix": "",
+      "priceLakh": 5.71,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "5-speed MT",
+      "power": "66PS",
+      "torque": "89Nm",
+      "mileage": "25.24kmpl",
+      "section": "Maruti Suzuki Celerio 1.0L Petrol Manual Price List"
+    },
+    {
+      "trim": "Celerio ZXI Plus",
+      "nameSuffix": "",
+      "priceLakh": 6.28,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "5-speed MT",
+      "power": "66PS",
+      "torque": "89Nm",
+      "mileage": "25.24kmpl",
+      "section": "Maruti Suzuki Celerio 1.0L Petrol Manual Price List"
+    },
+    {
+      "trim": "Celerio ZXI",
+      "nameSuffix": "",
+      "priceLakh": 6.16,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "5-speed AMT",
+      "power": "66PS",
+      "torque": "89Nm",
+      "mileage": "26.00kmpl",
+      "section": "Maruti Suzuki Celerio 1.0L Petrol Automatic Price List"
+    },
+    {
+      "trim": "Celerio ZXI Plus",
+      "nameSuffix": "",
+      "priceLakh": 6.73,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "5-speed AMT",
+      "power": "66PS",
+      "torque": "89Nm",
+      "mileage": "26.00kmpl",
+      "section": "Maruti Suzuki Celerio 1.0L Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:22.308Z",
+  "source": "https://www.v3cars.com/maruti-arena-cars/celerio",
+  "v3carsImage": "/cars/maruti-celerio.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/111006celerio.png"
+}

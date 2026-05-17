@@ -1,0 +1,76 @@
+{
+  "slug": "kia-carens",
+  "name": "Kia Carens",
+  "brand": "Kia",
+  "modelYear": 2026,
+  "tagline": "6/7-seater family MPV",
+  "summary": "Three-row MPV with petrol, diesel and turbo-petrol engines and premium cabin features.",
+  "segment": "muv",
+  "imageUrl": "https://www.kia.com/content/dam/kia2/in/en/images/showroom/carens/carens-hero-pc.jpg",
+  "priceRangeMin": 10.99,
+  "priceRangeMax": 12.77,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4540 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1800 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1708 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2780 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "216 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "195 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "45 litres"
+    }
+  ],
+  "engines": [
+    "1497cc (6-speed MT)",
+    "1493cc (6-speed MT)"
+  ],
+  "variants": [
+    {
+      "trim": "Premium (O) 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 10.99,
+      "fuelType": "Petrol",
+      "engine": "1497cc",
+      "transmission": "6-speed MT",
+      "power": "115PS",
+      "torque": "144Nm",
+      "mileage": "15.70kmpl",
+      "section": "Kia Carens 1.5L Petrol Manual Price List"
+    },
+    {
+      "trim": "Premium (O) 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 12.77,
+      "fuelType": "Diesel",
+      "engine": "1493cc",
+      "transmission": "6-speed MT",
+      "power": "116PS",
+      "torque": "250Nm",
+      "mileage": "21.30kmpl",
+      "section": "Kia Carens 1.5L Diesel Manual Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:26:06.981Z",
+  "source": "https://www.v3cars.com/kia-cars/carens",
+  "v3carsImage": "/cars/kia-carens.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/527030carens.png"
+}

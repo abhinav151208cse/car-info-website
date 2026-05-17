@@ -1,0 +1,100 @@
+{
+  "slug": "hyundai-venue-n-line",
+  "name": "Hyundai Venue N Line",
+  "brand": "Hyundai",
+  "modelYear": 2026,
+  "tagline": "Sporty Venue derivative",
+  "summary": "Performance-oriented Venue with turbo petrol DCT.",
+  "segment": "suv-b",
+  "imageUrl": "https://www.hyundai.com/content/dam/hyundai/in/en/data/vehicle-images/venue-n-line/venue-nline-hero.jpg",
+  "priceRangeMin": 10.73,
+  "priceRangeMax": 15.48,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "3995 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1800 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1665 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2520 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "375 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "190 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "45 litres"
+    }
+  ],
+  "engines": [
+    "998cc (7-speed DCT)",
+    "998cc (6-speed MT)"
+  ],
+  "variants": [
+    {
+      "trim": "N6 Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 11.63,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "20.00kmpl",
+      "section": "Hyundai Venue N Line 1.0L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "N10",
+      "nameSuffix": "",
+      "priceLakh": 15.3,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "20.00kmpl",
+      "section": "Hyundai Venue N Line 1.0L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "N10 Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 15.48,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "7-speed DCT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "20.00kmpl",
+      "section": "Hyundai Venue N Line 1.0L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "N6 Dual Tone",
+      "nameSuffix": "",
+      "priceLakh": 10.73,
+      "fuelType": "Petrol",
+      "engine": "998cc",
+      "transmission": "6-speed MT",
+      "power": "120PS",
+      "torque": "172Nm",
+      "mileage": "18.74kmpl",
+      "section": "Hyundai Venue N Line 1.0L  Turbo Petrol Manual Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:11.628Z",
+  "source": "https://www.v3cars.com/hyundai-cars/venue-n-line",
+  "v3carsImage": "/cars/hyundai-venue-n-line.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/938760venue-n-line.png"
+}

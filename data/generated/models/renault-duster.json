@@ -1,0 +1,173 @@
+{
+  "slug": "renault-duster",
+  "name": "Renault Duster",
+  "brand": "Renault",
+  "modelYear": 2026,
+  "tagline": "Comeback SUV",
+  "summary": "All-new Duster with turbo petrol and mild-hybrid options.",
+  "segment": "suv-c",
+  "imageUrl": "https://www.renault.co.in/content/dam/renault/in/models/duster/duster-hero.jpg",
+  "priceRangeMin": 11.69,
+  "priceRangeMax": 18.69,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4346 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1815 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1701 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2657 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "518 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "212 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "50 litres"
+    }
+  ],
+  "engines": [
+    "999cc (6-speed MT)",
+    "1333cc (6-speed MT)",
+    "1333cc (6-speed DCT)"
+  ],
+  "variants": [
+    {
+      "trim": "Evolution",
+      "nameSuffix": "",
+      "priceLakh": 11.69,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "100PS",
+      "torque": "166Nm",
+      "mileage": "18.00kmpl",
+      "section": "Renault Duster 1.0L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Techno",
+      "nameSuffix": "",
+      "priceLakh": 13.49,
+      "fuelType": "Petrol",
+      "engine": "999cc",
+      "transmission": "6-speed MT",
+      "power": "100PS",
+      "torque": "166Nm",
+      "mileage": "18.00kmpl",
+      "section": "Renault Duster 1.0L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Techno",
+      "nameSuffix": "",
+      "priceLakh": 14.49,
+      "fuelType": "Petrol",
+      "engine": "1333cc",
+      "transmission": "6-speed MT",
+      "power": "163PS",
+      "torque": "280Nm",
+      "mileage": "17.75kmpl",
+      "section": "Renault Duster 1.3L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Techno+",
+      "nameSuffix": "",
+      "priceLakh": 15.29,
+      "fuelType": "Petrol",
+      "engine": "1333cc",
+      "transmission": "6-speed MT",
+      "power": "163PS",
+      "torque": "280Nm",
+      "mileage": "17.75kmpl",
+      "section": "Renault Duster 1.3L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Iconic",
+      "nameSuffix": "",
+      "priceLakh": 16.99,
+      "fuelType": "Petrol",
+      "engine": "1333cc",
+      "transmission": "6-speed MT",
+      "power": "163PS",
+      "torque": "280Nm",
+      "mileage": "17.75kmpl",
+      "section": "Renault Duster 1.3L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Iconic Launch Edition",
+      "nameSuffix": "",
+      "priceLakh": 17.19,
+      "fuelType": "Petrol",
+      "engine": "1333cc",
+      "transmission": "6-speed MT",
+      "power": "163PS",
+      "torque": "280Nm",
+      "mileage": "17.75kmpl",
+      "section": "Renault Duster 1.3L Turbo Petrol Manual Price List"
+    },
+    {
+      "trim": "Techno",
+      "nameSuffix": "",
+      "priceLakh": 15.89,
+      "fuelType": "Petrol",
+      "engine": "1333cc",
+      "transmission": "6-speed DCT",
+      "power": "163PS",
+      "torque": "280Nm",
+      "mileage": "18.45kmpl",
+      "section": "Renault Duster 1.3L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Techno+",
+      "nameSuffix": "",
+      "priceLakh": 16.69,
+      "fuelType": "Petrol",
+      "engine": "1333cc",
+      "transmission": "6-speed DCT",
+      "power": "163PS",
+      "torque": "280Nm",
+      "mileage": "18.45kmpl",
+      "section": "Renault Duster 1.3L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Iconic",
+      "nameSuffix": "",
+      "priceLakh": 18.49,
+      "fuelType": "Petrol",
+      "engine": "1333cc",
+      "transmission": "6-speed DCT",
+      "power": "163PS",
+      "torque": "280Nm",
+      "mileage": "18.45kmpl",
+      "section": "Renault Duster 1.3L Turbo Petrol Automatic Price List"
+    },
+    {
+      "trim": "Iconic Launch Edition",
+      "nameSuffix": "",
+      "priceLakh": 18.69,
+      "fuelType": "Petrol",
+      "engine": "1333cc",
+      "transmission": "6-speed DCT",
+      "power": "163PS",
+      "torque": "280Nm",
+      "mileage": "18.45kmpl",
+      "section": "Renault Duster 1.3L Turbo Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:45.535Z",
+  "source": "https://www.v3cars.com/renault-cars/duster",
+  "v3carsImage": "/cars/renault-duster.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/033134duster.png"
+}

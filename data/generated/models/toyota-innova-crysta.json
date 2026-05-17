@@ -1,0 +1,147 @@
+{
+  "slug": "toyota-innova-crysta",
+  "name": "Toyota Innova Crysta",
+  "brand": "Toyota",
+  "modelYear": 2026,
+  "tagline": "Diesel MPV legend",
+  "summary": "Workhorse MPV with diesel engine.",
+  "segment": "muv",
+  "imageUrl": "https://www.toyota.co.in/content/dam/toyota/in/models/innova-crysta/crysta-hero.jpg",
+  "priceRangeMin": 18.85,
+  "priceRangeMax": 25.53,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4735 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1830 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1795 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2750 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "300 litres"
+    },
+    {
+      "label": "Ground Clearance",
+      "value": "178 mm"
+    },
+    {
+      "label": "Fuel Tank",
+      "value": "55 litres"
+    }
+  ],
+  "engines": [
+    "2393cc (5-speed MT)"
+  ],
+  "variants": [
+    {
+      "trim": "GX 8 Seater",
+      "nameSuffix": "",
+      "priceLakh": 18.85,
+      "fuelType": "Diesel",
+      "engine": "2393cc",
+      "transmission": "5-speed MT",
+      "power": "150PS",
+      "torque": "343Nm",
+      "mileage": "15.30kmpl",
+      "section": "Toyota Innova Crysta 2.4L Diesel Manual Price List"
+    },
+    {
+      "trim": "GX FLT 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 18.85,
+      "fuelType": "Diesel",
+      "engine": "2393cc",
+      "transmission": "5-speed MT",
+      "power": "150PS",
+      "torque": "343Nm",
+      "mileage": "15.30kmpl",
+      "section": "Toyota Innova Crysta 2.4L Diesel Manual Price List"
+    },
+    {
+      "trim": "GX FLT 8 Seater",
+      "nameSuffix": "",
+      "priceLakh": 18.85,
+      "fuelType": "Diesel",
+      "engine": "2393cc",
+      "transmission": "5-speed MT",
+      "power": "150PS",
+      "torque": "343Nm",
+      "mileage": "15.30kmpl",
+      "section": "Toyota Innova Crysta 2.4L Diesel Manual Price List"
+    },
+    {
+      "trim": "GX Plus 7s",
+      "nameSuffix": "",
+      "priceLakh": 20.47,
+      "fuelType": "Diesel",
+      "engine": "2393cc",
+      "transmission": "5-speed MT",
+      "power": "150PS",
+      "torque": "343Nm",
+      "mileage": "15.30kmpl",
+      "section": "Toyota Innova Crysta 2.4L Diesel Manual Price List"
+    },
+    {
+      "trim": "GX Plus 8s",
+      "nameSuffix": "",
+      "priceLakh": 20.52,
+      "fuelType": "Diesel",
+      "engine": "2393cc",
+      "transmission": "5-speed MT",
+      "power": "150PS",
+      "torque": "343Nm",
+      "mileage": "15.30kmpl",
+      "section": "Toyota Innova Crysta 2.4L Diesel Manual Price List"
+    },
+    {
+      "trim": "VX 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 23.95,
+      "fuelType": "Diesel",
+      "engine": "2393cc",
+      "transmission": "5-speed MT",
+      "power": "150PS",
+      "torque": "343Nm",
+      "mileage": "15.30kmpl",
+      "section": "Toyota Innova Crysta 2.4L Diesel Manual Price List"
+    },
+    {
+      "trim": "VX 8 Seater",
+      "nameSuffix": "",
+      "priceLakh": 24,
+      "fuelType": "Diesel",
+      "engine": "2393cc",
+      "transmission": "5-speed MT",
+      "power": "150PS",
+      "torque": "343Nm",
+      "mileage": "15.30kmpl",
+      "section": "Toyota Innova Crysta 2.4L Diesel Manual Price List"
+    },
+    {
+      "trim": "ZX 7 Seater",
+      "nameSuffix": "",
+      "priceLakh": 25.53,
+      "fuelType": "Diesel",
+      "engine": "2393cc",
+      "transmission": "5-speed MT",
+      "power": "150PS",
+      "torque": "343Nm",
+      "mileage": "15.30kmpl",
+      "section": "Toyota Innova Crysta 2.4L Diesel Manual Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:19:39.362Z",
+  "source": "https://www.v3cars.com/toyota-cars/innova-crysta",
+  "v3carsImage": "/cars/toyota-innova-crysta.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/281959crysta.png"
+}

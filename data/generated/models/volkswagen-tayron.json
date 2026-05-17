@@ -1,0 +1,55 @@
+{
+  "slug": "volkswagen-tayron",
+  "name": "Volkswagen Tayron R-Line",
+  "brand": "Volkswagen",
+  "modelYear": 2026,
+  "tagline": "3-row premium SUV",
+  "summary": "Seven-seat Tayron based on Tiguan platform.",
+  "segment": "suv-d",
+  "imageUrl": "https://www.volkswagen.co.in/content/dam/vw/in/models/tayron/tayron-hero.jpg",
+  "priceRangeMin": 46.99,
+  "priceRangeMax": 46.99,
+  "dimensions": [
+    {
+      "label": "Length",
+      "value": "4792 mm"
+    },
+    {
+      "label": "Width",
+      "value": "1866 mm"
+    },
+    {
+      "label": "Height",
+      "value": "1665 mm"
+    },
+    {
+      "label": "Wheelbase",
+      "value": "2789 mm"
+    },
+    {
+      "label": "Boot Space",
+      "value": "345 litres"
+    }
+  ],
+  "engines": [
+    "1984cc (7-speed DCT)"
+  ],
+  "variants": [
+    {
+      "trim": "Tayron R-Line",
+      "nameSuffix": "",
+      "priceLakh": 46.99,
+      "fuelType": "Petrol",
+      "engine": "1984cc",
+      "transmission": "7-speed DCT",
+      "power": "204PS",
+      "torque": "320Nm",
+      "mileage": "12.58kmpl",
+      "section": "Volkswagen Tayron 2.0L  Turbo Petrol Automatic Price List"
+    }
+  ],
+  "syncedAt": "2026-05-17T10:26:53.332Z",
+  "source": "https://www.v3cars.com/volkswagen-cars/tayron",
+  "v3carsImage": "/cars/volkswagen-tayron.png",
+  "v3carsImageUrl": "https://www.v3cars.com/media/model-imgs/884917tayron.png"
+}

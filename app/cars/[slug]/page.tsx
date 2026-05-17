@@ -1,6 +1,7 @@
 import CarDetail from "@/components/CarDetail";
 import { getAllCarSlugs, getCarBySlug } from "@/lib/cars";
 import { notFound } from "next/navigation";
+import { Suspense } from "react";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -24,5 +25,15 @@ export default async function CarPage({ params }: Props) {
   const { slug } = await params;
   const car = getCarBySlug(slug);
   if (!car) notFound();
-  return <CarDetail car={car} />;
+  return (
+    <Suspense
+      fallback={
+        <div className="flex min-h-[50vh] items-center justify-center bg-gray-100 text-slate-600">
+          Loading…
+        </div>
+      }
+    >
+      <CarDetail car={car} />
+    </Suspense>
+  );
 }
